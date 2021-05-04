@@ -1,0 +1,496 @@
+﻿2021-05-04T18:08:51.7256277+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-05-04T18:08:51.7257620+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.7.3 in Framework netcore31 in x64 mode execution started
+2021-05-04T18:08:51.7257652+02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-05-04T18:08:51.7270990+02:00;VSTestExecutionThread;Info;Current UserName: 'isa', MachineName: 'I6700K'
+2021-05-04T18:08:51.7504450+02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-05-04T18:08:51.7506194+02:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\isa\source\repos\Location\TestResults" (default)
+2021-05-04T18:08:51.7506774+02:00;VSTestExecutionThread;Info;Profile: 
+2021-05-04T18:08:51.7811602+02:00;VSTestExecutionThread;Info;Log file path: C:\Users\isa\source\repos\Location\TestResults\Unnamed project__2021-05-04T180851.log
+2021-05-04T18:08:51.7850987+02:00;Thread#12;Info;Checking activation
+2021-05-04T18:08:51.8553622+02:00;Thread#12;Info;Activated.
+2021-05-04T18:08:51.8555445+02:00;Thread#12;Info;Activation check completed
+2021-05-04T18:08:51.8556033+02:00;Thread#12;Info;Starting test run
+2021-05-04T18:08:52.0533749+02:00;Thread#12;Info;Discovering target: Default
+2021-05-04T18:08:52.0535249+02:00;Thread#12;Info;Discovering tests from assembly: C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-05-04T18:08:52.1169994+02:00;Thread#12;Info;Discovered tests from assembly: C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-05-04T18:08:52.1181445+02:00:Test Suite Dump
+2021-05-04T18:08:52.1194552+02:00:#0: Unnamed project/ - 
+2021-05-04T18:08:52.1194705+02:00:#1: Default - 
+2021-05-04T18:08:52.1194723+02:00:#2: SpecFlowLocation - 
+2021-05-04T18:08:52.1194737+02:00:#3: Location - 
+2021-05-04T18:08:52.1203320+02:00:#4: Connection client - Pas d'utilisateur reconnu - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:Connection+client+-+Pas+d%27utilisateur+reconnu
+2021-05-04T18:08:52.1203569+02:00:#5: Connection client - utilisateur reconnu - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:Connection+client+-+utilisateur+reconnu
+2021-05-04T18:08:52.1203685+02:00:#6: Connection client - utilisateur reconnu mais pas le mot de passe - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:Connection+client+-+utilisateur+reconnu+mais+pas+le+mot+de+passe
+2021-05-04T18:08:52.1204106+02:00:End: Test Suite Dump
+2021-05-04T18:08:52.1320988+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-05-04T18:08:52.1334951+02:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-05-04T18:08:52.1335626+02:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-05-04T18:08:52.1369683+02:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-05-04T18:08:52.1369885+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-05-04T18:08:52.1369924+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-05-04T18:08:52.1369964+02:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-05-04T18:08:52.1378437+02:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-05-04T18:08:52.1397378+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-05-04T18:08:52.1418729+02:00:Thread #0: creating new test thread executor for SpecFlowLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-05-04T18:08:52.1438151+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-05-04T18:08:52.1440137+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-05-04T18:08:52.1465460+02:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-05-04T18:08:52.1481596+02:00:starting Out Of Process Executor
+2021-05-04T18:08:52.1496007+02:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:08:52.1516676+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-05-04T18:08:52.1516878+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-05-04T18:08:52.1525448+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:08:52.1528425+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-05-04T18:08:52.1529182+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-05-04T18:08:52.1529562+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:08:52.1531238+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-05-04T18:08:52.1535253+02:00:Tfm: netcoreapp3.1
+2021-05-04T18:08:52.1535334+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:08:52.1535349+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-05-04T18:08:52.1535953+02:00:[AssemblyCache] Found file 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-05-04T18:08:52.1539816+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-05-04T18:08:52.1544310+02:00:Starting callback TCP Rpc server
+2021-05-04T18:08:52.1676967+02:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-05-04T18:08:52.1677467+02:00:Started callback TCP Rpc server on port 32768
+2021-05-04T18:08:52.1677522+02:00:Starting logger TCP Rpc server
+2021-05-04T18:08:52.1706639+02:00:Asynchronously starting background TCP Rpc Server on port 32769
+2021-05-04T18:08:52.1706865+02:00:Started logger TCP Rpc server on port 32769
+2021-05-04T18:08:52.2545988+02:00:Executing test executor at 'dotnet' 'exec "C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 15096 --uniqueId "2021-05-04T180851" --outputFolder "C:\Users\isa\source\repos\Location\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:08:52.2695023+02:00:Executor with PID 9024 has been started successfully.
+2021-05-04T18:08:52.2723900+02:00:Out of Process Executor 9024 started
+2021-05-04T18:08:52.2724068+02:00:Waiting for endpoint
+2021-05-04T18:08:52.5194921+02:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fr-FR, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:08:52.5195087+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2021-05-04T18:08:52.5195112+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2021-05-04T18:08:52.5195138+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:08:52.5195152+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-05-04T18:08:52.5195584+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-05-04T18:08:52.5195936+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:08:52.5195980+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-05-04T18:08:52.5196156+02:00:Tfm: netcoreapp3.1
+2021-05-04T18:08:52.5196179+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:08:52.5196189+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-05-04T18:08:52.5196602+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-05-04T18:08:52.5197092+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:08:52.5249248+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-04T18:08:52.5249477+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\StreamJsonRpc.resources.dll'
+2021-05-04T18:08:52.5250245+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\StreamJsonRpc.resources.exe'
+2021-05-04T18:08:52.5250737+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-04T18:08:52.5252340+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-04T18:08:52.5252418+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\StreamJsonRpc.resources.dll'
+2021-05-04T18:08:52.5252936+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\StreamJsonRpc.resources.exe'
+2021-05-04T18:08:52.5253428+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-04T18:08:52.5254693+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-04T18:08:52.5254768+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\StreamJsonRpc.resources.dll'
+2021-05-04T18:08:52.5255446+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\StreamJsonRpc.resources.exe'
+2021-05-04T18:08:52.5255997+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-04T18:08:52.5262309+02:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:08:52.5266980+02:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:08:52.5267058+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-05-04T18:08:52.5267125+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-05-04T18:08:52.5267150+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:08:52.5267162+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-05-04T18:08:52.5267495+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-05-04T18:08:52.5267842+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:08:52.5267881+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-05-04T18:08:52.5268008+02:00:Tfm: netcoreapp3.1
+2021-05-04T18:08:52.5268064+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:08:52.5268097+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-05-04T18:08:52.5268813+02:00:[AssemblyCache] Found file 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-05-04T18:08:52.5273032+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-05-04T18:08:52.6910650+02:00:Remote executor port received: 32770
+2021-05-04T18:08:52.6913321+02:00:Creating executor TCP client on port 32770
+2021-05-04T18:08:52.6916579+02:00:Created executor TCP client on port 32770
+2021-05-04T18:08:52.6916642+02:00:Connecting to remote executor TCP server
+2021-05-04T18:08:52.6924377+02:00:Connected remote executor TCP server
+2021-05-04T18:08:52.6926022+02:00:trying to connect to Out of Process Executor the 1 attempt
+2021-05-04T18:08:52.6926109+02:00:Connection to Out of Process Executor established in the 1 attempt
+2021-05-04T18:08:52.8112753+02:00:2021-05-04T18:08:52.8105233+02:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll on test thread #0
+2021-05-04T18:08:52.8152652+02:00:Endpoint 9024 started
+2021-05-04T18:08:52.8284491+02:00:2021-05-04T18:08:52.8282000+02:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-05-04T18:08:52.9289242+02:00:2021-05-04T18:08:52.9286501+02:00:Assembly resolving TechTalk.SpecFlow, Version=3.7.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-05-04T18:08:52.9311161+02:00:2021-05-04T18:08:52.9309118+02:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-05-04T18:08:52.9333717+02:00:2021-05-04T18:08:52.9331698+02:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\isa\.nuget\packages\specflow\3.7.13\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-05-04T18:08:53.0210611+02:00:2021-05-04T18:08:53.0202738+02:00:Thread#0:T:-> Loading plugin C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-05-04T18:08:53.0231441+02:00:2021-05-04T18:08:53.0224850+02:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-05-04T18:08:53.0241661+02:00:2021-05-04T18:08:53.0236600+02:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-05-04T18:08:53.0256014+02:00:2021-05-04T18:08:53.0248780+02:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\isa\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-05-04T18:08:53.0606298+02:00:2021-05-04T18:08:53.0599858+02:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-05-04T18:08:53.0615073+02:00:2021-05-04T18:08:53.0610491+02:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-05-04T18:08:53.0624121+02:00:2021-05-04T18:08:53.0620311+02:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\isa\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-05-04T18:08:53.0705676+02:00:2021-05-04T18:08:53.0699548+02:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-05-04T18:08:53.0714631+02:00:2021-05-04T18:08:53.0710680+02:00:Thread#0:T:-> Loading plugin C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-05-04T18:08:53.0751030+02:00:2021-05-04T18:08:53.0748785+02:00:Assembly resolving LivingDoc.Dtos, Version=3.7.0.0, Culture=neutral, PublicKeyToken=null
+2021-05-04T18:08:53.0754740+02:00:2021-05-04T18:08:53.0752565+02:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-05-04T18:08:53.0761035+02:00:2021-05-04T18:08:53.0759402+02:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\isa\.nuget\packages\specflow.plus.livingdocplugin\3.7.141\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-05-04T18:08:53.0782830+02:00:2021-05-04T18:08:53.0780997+02:00:Thread#0:T:-> Loading plugin C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-05-04T18:08:53.0826765+02:00:2021-05-04T18:08:53.0824535+02:00:Thread#0:T:-> Using default config
+2021-05-04T18:08:53.0951292+02:00:2021-05-04T18:08:53.0948798+02:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-05-04T18:08:53.0954417+02:00:2021-05-04T18:08:53.0952667+02:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-05-04T18:08:53.0959297+02:00:2021-05-04T18:08:53.0957612+02:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\isa\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-05-04T18:08:53.0969824+02:00:2021-05-04T18:08:53.0968661+02:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-05-04T18:08:53.0971896+02:00:2021-05-04T18:08:53.0970781+02:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-05-04T18:08:53.0975167+02:00:2021-05-04T18:08:53.0974113+02:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\isa\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-05-04T18:08:53.1038291+02:00:2021-05-04T18:08:53.1035915+02:00:Assembly resolving Location, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-05-04T18:08:53.1040662+02:00:2021-05-04T18:08:53.1039654+02:00:[AssemblyCache] Trying to resolve 'Location' from .deps.json file
+2021-05-04T18:08:53.1050541+02:00:2021-05-04T18:08:53.1049316+02:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'Location', found in dependency map, but unable to resolve a path in ['Location.dll']
+2021-05-04T18:08:53.1052862+02:00:2021-05-04T18:08:53.1051598+02:00:[AssemblyCache] Could not resolve 'Location' from .deps.json
+2021-05-04T18:08:53.1065447+02:00:2021-05-04T18:08:53.1064020+02:00:[AssemblyCache] Trying to resolve 'Location' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:08:53.1116594+02:00:2021-05-04T18:08:53.1114245+02:00:[AssemblyCache] Trying to resolve 'Location' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Location.dll'
+2021-05-04T18:08:53.1120070+02:00:2021-05-04T18:08:53.1118868+02:00:[AssemblyCache] Found file 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Location.dll' for assembly 'Location'
+2021-05-04T18:08:53.1125431+02:00:2021-05-04T18:08:53.1124331+02:00:[AssemblyCache] Resolved 'Location' to C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Location.dll
+2021-05-04T18:08:53.1136575+02:00:2021-05-04T18:08:53.1134793+02:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:08:53.1139769+02:00:2021-05-04T18:08:53.1138235+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-05-04T18:08:53.1145253+02:00:2021-05-04T18:08:53.1143654+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\isa\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-05-04T18:08:53.1351018+02:00:2021-05-04T18:08:53.1347789+02:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-05-04T18:08:53.1354821+02:00:2021-05-04T18:08:53.1353120+02:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-05-04T18:08:53.1361470+02:00:2021-05-04T18:08:53.1359705+02:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\isa\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-05-04T18:08:53.4423292+02:00:Thread#0: Test #4/0 is started on thread #0
+2021-05-04T18:08:53.4756639+02:00:2021-05-04T18:08:53.4753574+02:00:Thread#0:B:Given : clients existants
+2021-05-04T18:08:53.4760310+02:00:2021-05-04T18:08:53.4758563+02:00:Thread#0:B:  --- table step argument ---
+2021-05-04T18:08:53.4763392+02:00:2021-05-04T18:08:53.4761898+02:00:Thread#0:B:  | identifiant | mdp  |
+2021-05-04T18:08:53.4765849+02:00:2021-05-04T18:08:53.4764665+02:00:Thread#0:B:  | isa         | toto |
+2021-05-04T18:08:53.4909834+02:00:2021-05-04T18:08:53.4907448+02:00:Assembly resolving Gherkin, Version=6.0.0.0, Culture=neutral, PublicKeyToken=86496cfa5b4a5851
+2021-05-04T18:08:53.4912957+02:00:2021-05-04T18:08:53.4911520+02:00:[AssemblyCache] Trying to resolve 'Gherkin' from .deps.json file
+2021-05-04T18:08:53.4917227+02:00:2021-05-04T18:08:53.4915962+02:00:[AssemblyCache] Resolved 'Gherkin' to 'C:\Users\isa\.nuget\packages\gherkin\6.0.0\lib\netstandard2.0\Gherkin.dll'
+2021-05-04T18:08:53.5253939+02:00:2021-05-04T18:08:53.5251307+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.5256870+02:00:2021-05-04T18:08:53.5255392+02:00:Thread#0:T:        [Given(@": clients existants")]
+2021-05-04T18:08:53.5259814+02:00:2021-05-04T18:08:53.5258308+02:00:Thread#0:T:        public void GivenClientsExistants(Table table)
+2021-05-04T18:08:53.5262431+02:00:2021-05-04T18:08:53.5261254+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.5264635+02:00:2021-05-04T18:08:53.5263634+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.5267208+02:00:2021-05-04T18:08:53.5265888+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.5281764+02:00:2021-05-04T18:08:53.5280129+02:00:Thread#0:B:Given mon identifiant est "isa"
+2021-05-04T18:08:53.5314299+02:00:2021-05-04T18:08:53.5312570+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.5317007+02:00:2021-05-04T18:08:53.5315669+02:00:Thread#0:T:        [Given(@"mon identifiant est ""(.*)""")]
+2021-05-04T18:08:53.5319651+02:00:2021-05-04T18:08:53.5318529+02:00:Thread#0:T:        public void GivenMonIdentifiantEst(string isa)
+2021-05-04T18:08:53.5322175+02:00:2021-05-04T18:08:53.5320868+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.5324447+02:00:2021-05-04T18:08:53.5323315+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.5326792+02:00:2021-05-04T18:08:53.5325537+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.5332864+02:00:2021-05-04T18:08:53.5331640+02:00:Thread#0:B:And mon mot de passe est "toto"
+2021-05-04T18:08:53.5360744+02:00:2021-05-04T18:08:53.5355803+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.5366635+02:00:2021-05-04T18:08:53.5364313+02:00:Thread#0:T:        [Given(@"mon mot de passe est ""(.*)""")]
+2021-05-04T18:08:53.5422945+02:00:2021-05-04T18:08:53.5420383+02:00:Thread#0:T:        public void GivenMonMotDePasseEst(string toto)
+2021-05-04T18:08:53.5426088+02:00:2021-05-04T18:08:53.5424507+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.5429054+02:00:2021-05-04T18:08:53.5427446+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.5431571+02:00:2021-05-04T18:08:53.5430227+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.5436944+02:00:2021-05-04T18:08:53.5435303+02:00:Thread#0:B:When J'essaie de me connecter
+2021-05-04T18:08:53.5460342+02:00:2021-05-04T18:08:53.5457788+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.5463303+02:00:2021-05-04T18:08:53.5461913+02:00:Thread#0:T:        [When(@"J'essaie de me connecter")]
+2021-05-04T18:08:53.5466075+02:00:2021-05-04T18:08:53.5464638+02:00:Thread#0:T:        public void WhenJessaieDeMeConnecter()
+2021-05-04T18:08:53.5468674+02:00:2021-05-04T18:08:53.5467390+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.5471025+02:00:2021-05-04T18:08:53.5469783+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.5473528+02:00:2021-05-04T18:08:53.5472456+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.5479466+02:00:2021-05-04T18:08:53.5477906+02:00:Thread#0:B:Then la connexion est réfusée
+2021-05-04T18:08:53.5515010+02:00:2021-05-04T18:08:53.5511271+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.5518683+02:00:2021-05-04T18:08:53.5517021+02:00:Thread#0:T:        [Then(@"la connexion est réfusée")]
+2021-05-04T18:08:53.5521516+02:00:2021-05-04T18:08:53.5520150+02:00:Thread#0:T:        public void ThenLaConnexionEstRefusee()
+2021-05-04T18:08:53.5524415+02:00:2021-05-04T18:08:53.5522937+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.5527183+02:00:2021-05-04T18:08:53.5525607+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.5529921+02:00:2021-05-04T18:08:53.5528509+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.5534808+02:00:2021-05-04T18:08:53.5532950+02:00:Thread#0:B:And le message d'erreur est "Identifiant non reconnu"
+2021-05-04T18:08:53.5559653+02:00:2021-05-04T18:08:53.5556988+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.5562498+02:00:2021-05-04T18:08:53.5561105+02:00:Thread#0:T:        [Then(@"le message d'erreur est ""(.*)""")]
+2021-05-04T18:08:53.5565085+02:00:2021-05-04T18:08:53.5563912+02:00:Thread#0:T:        public void ThenLeMessageDerreurEst(string p0)
+2021-05-04T18:08:53.5567702+02:00:2021-05-04T18:08:53.5566344+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.5569834+02:00:2021-05-04T18:08:53.5568701+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.5572055+02:00:2021-05-04T18:08:53.5570943+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.6052733+02:00:2021-05-04T18:08:53.6050263+02:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2021-05-04T18:08:53.6055636+02:00:2021-05-04T18:08:53.6054163+02:00:Thread#0:T:using System;
+2021-05-04T18:08:53.6057867+02:00:2021-05-04T18:08:53.6056783+02:00:Thread#0:T:using TechTalk.SpecFlow;
+2021-05-04T18:08:53.6059992+02:00:2021-05-04T18:08:53.6058994+02:00:Thread#0:T:namespace MyNamespace
+2021-05-04T18:08:53.6061969+02:00:2021-05-04T18:08:53.6061018+02:00:Thread#0:T:{
+2021-05-04T18:08:53.6063950+02:00:2021-05-04T18:08:53.6063023+02:00:Thread#0:T:    [Binding]
+2021-05-04T18:08:53.6065914+02:00:2021-05-04T18:08:53.6064964+02:00:Thread#0:T:    public class StepDefinitions
+2021-05-04T18:08:53.6067875+02:00:2021-05-04T18:08:53.6066935+02:00:Thread#0:T:    {
+2021-05-04T18:08:53.6069860+02:00:2021-05-04T18:08:53.6068913+02:00:Thread#0:T:        private readonly ScenarioContext _scenarioContext;
+2021-05-04T18:08:53.6071740+02:00:2021-05-04T18:08:53.6070806+02:00:Thread#0:T:        public StepDefinitions(ScenarioContext scenarioContext)
+2021-05-04T18:08:53.6073677+02:00:2021-05-04T18:08:53.6072717+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.6075668+02:00:2021-05-04T18:08:53.6074664+02:00:Thread#0:T:            _scenarioContext = scenarioContext;
+2021-05-04T18:08:53.6077487+02:00:2021-05-04T18:08:53.6076558+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.6079649+02:00:2021-05-04T18:08:53.6078348+02:00:Thread#0:T:        [Given(@": clients existants")]
+2021-05-04T18:08:53.6081782+02:00:2021-05-04T18:08:53.6080654+02:00:Thread#0:T:        public void GivenClientsExistants(Table table)
+2021-05-04T18:08:53.6083884+02:00:2021-05-04T18:08:53.6082954+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.6086168+02:00:2021-05-04T18:08:53.6084977+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.6088687+02:00:2021-05-04T18:08:53.6087432+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.6090787+02:00:2021-05-04T18:08:53.6089646+02:00:Thread#0:T:        
+2021-05-04T18:08:53.6093034+02:00:2021-05-04T18:08:53.6091890+02:00:Thread#0:T:        [Given(@"mon identifiant est ""(.*)""")]
+2021-05-04T18:08:53.6095349+02:00:2021-05-04T18:08:53.6094124+02:00:Thread#0:T:        public void GivenMonIdentifiantEst(string isa0)
+2021-05-04T18:08:53.6097410+02:00:2021-05-04T18:08:53.6096426+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.6099353+02:00:2021-05-04T18:08:53.6098375+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.6101399+02:00:2021-05-04T18:08:53.6100289+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.6103605+02:00:2021-05-04T18:08:53.6102483+02:00:Thread#0:T:        
+2021-05-04T18:08:53.6105871+02:00:2021-05-04T18:08:53.6104630+02:00:Thread#0:T:        [Given(@"mon mot de passe est ""(.*)""")]
+2021-05-04T18:08:53.6107984+02:00:2021-05-04T18:08:53.6106938+02:00:Thread#0:T:        public void GivenMonMotDePasseEst(string toto0)
+2021-05-04T18:08:53.6110299+02:00:2021-05-04T18:08:53.6109157+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.6112183+02:00:2021-05-04T18:08:53.6111242+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.6114189+02:00:2021-05-04T18:08:53.6113073+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.6116215+02:00:2021-05-04T18:08:53.6115263+02:00:Thread#0:T:        
+2021-05-04T18:08:53.6118381+02:00:2021-05-04T18:08:53.6117195+02:00:Thread#0:T:        [When(@"J'essaie de me connecter")]
+2021-05-04T18:08:53.6120141+02:00:2021-05-04T18:08:53.6119234+02:00:Thread#0:T:        public void WhenJessaieDeMeConnecter()
+2021-05-04T18:08:53.6121986+02:00:2021-05-04T18:08:53.6120980+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.6123808+02:00:2021-05-04T18:08:53.6122856+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.6125788+02:00:2021-05-04T18:08:53.6124845+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.6127558+02:00:2021-05-04T18:08:53.6126632+02:00:Thread#0:T:        
+2021-05-04T18:08:53.6129420+02:00:2021-05-04T18:08:53.6128405+02:00:Thread#0:T:        [Then(@"la connexion est réfusée")]
+2021-05-04T18:08:53.6131375+02:00:2021-05-04T18:08:53.6130315+02:00:Thread#0:T:        public void ThenLaConnexionEstRefusee()
+2021-05-04T18:08:53.6133215+02:00:2021-05-04T18:08:53.6132191+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.6135152+02:00:2021-05-04T18:08:53.6134096+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.6136902+02:00:2021-05-04T18:08:53.6135986+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.6138723+02:00:2021-05-04T18:08:53.6137835+02:00:Thread#0:T:        
+2021-05-04T18:08:53.6140488+02:00:2021-05-04T18:08:53.6139558+02:00:Thread#0:T:        [Then(@"le message d'erreur est ""(.*)""")]
+2021-05-04T18:08:53.6142412+02:00:2021-05-04T18:08:53.6141354+02:00:Thread#0:T:        public void ThenLeMessageDerreurEst(string p0)
+2021-05-04T18:08:53.6144307+02:00:2021-05-04T18:08:53.6143232+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.6148322+02:00:2021-05-04T18:08:53.6146590+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.6150768+02:00:2021-05-04T18:08:53.6149570+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.6153447+02:00:2021-05-04T18:08:53.6152013+02:00:Thread#0:T:    }
+2021-05-04T18:08:53.6156311+02:00:2021-05-04T18:08:53.6155121+02:00:Thread#0:T:}
+2021-05-04T18:08:53.6210481+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-05-04T18:08:53.6210849+02:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-05-04T18:08:53.6210882+02:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-05-04T18:08:53.6211271+02:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-05-04T18:08:53.6211306+02:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-05-04T18:08:53.6211321+02:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-05-04T18:08:53.6211334+02:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-05-04T18:08:53.6211523+02:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-05-04T18:08:53.6211778+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-05-04T18:08:53.6531443+02:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 0,2097461 seconds
+2021-05-04T18:08:53.6549033+02:00:Thread#0: Test #5/0 is started on thread #0
+2021-05-04T18:08:53.6570740+02:00:2021-05-04T18:08:53.6569058+02:00:Thread#0:B:Given : clients existants
+2021-05-04T18:08:53.6573008+02:00:2021-05-04T18:08:53.6571837+02:00:Thread#0:B:  --- table step argument ---
+2021-05-04T18:08:53.6575705+02:00:2021-05-04T18:08:53.6574315+02:00:Thread#0:B:  | identifiant | mdp  |
+2021-05-04T18:08:53.6577881+02:00:2021-05-04T18:08:53.6576755+02:00:Thread#0:B:  | isa         | toto |
+2021-05-04T18:08:53.6597987+02:00:2021-05-04T18:08:53.6596294+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.6600188+02:00:2021-05-04T18:08:53.6599103+02:00:Thread#0:T:        [Given(@": clients existants")]
+2021-05-04T18:08:53.6602203+02:00:2021-05-04T18:08:53.6601104+02:00:Thread#0:T:        public void GivenClientsExistants(Table table)
+2021-05-04T18:08:53.6604333+02:00:2021-05-04T18:08:53.6603367+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.6606178+02:00:2021-05-04T18:08:53.6605212+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.6608723+02:00:2021-05-04T18:08:53.6607567+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.6613293+02:00:2021-05-04T18:08:53.6611296+02:00:Thread#0:B:Given mon identifiant est "isa2"
+2021-05-04T18:08:53.6637029+02:00:2021-05-04T18:08:53.6635056+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.6639314+02:00:2021-05-04T18:08:53.6638201+02:00:Thread#0:T:        [Given(@"mon identifiant est ""(.*)""")]
+2021-05-04T18:08:53.6641328+02:00:2021-05-04T18:08:53.6640266+02:00:Thread#0:T:        public void GivenMonIdentifiantEst(string p0)
+2021-05-04T18:08:53.6643656+02:00:2021-05-04T18:08:53.6642242+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.6645861+02:00:2021-05-04T18:08:53.6644855+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.6647868+02:00:2021-05-04T18:08:53.6646769+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.6650612+02:00:2021-05-04T18:08:53.6649539+02:00:Thread#0:B:And mon mot de passe est "toto"
+2021-05-04T18:08:53.6669314+02:00:2021-05-04T18:08:53.6668152+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.6671318+02:00:2021-05-04T18:08:53.6670215+02:00:Thread#0:T:        [Given(@"mon mot de passe est ""(.*)""")]
+2021-05-04T18:08:53.6673337+02:00:2021-05-04T18:08:53.6672235+02:00:Thread#0:T:        public void GivenMonMotDePasseEst(string toto0)
+2021-05-04T18:08:53.6675185+02:00:2021-05-04T18:08:53.6674162+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.6677208+02:00:2021-05-04T18:08:53.6676102+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.6679254+02:00:2021-05-04T18:08:53.6678324+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.6681989+02:00:2021-05-04T18:08:53.6680973+02:00:Thread#0:B:When J'essaie de me connecter
+2021-05-04T18:08:53.6703007+02:00:2021-05-04T18:08:53.6700566+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.6705590+02:00:2021-05-04T18:08:53.6704390+02:00:Thread#0:T:        [When(@"J'essaie de me connecter")]
+2021-05-04T18:08:53.6707564+02:00:2021-05-04T18:08:53.6706524+02:00:Thread#0:T:        public void WhenJessaieDeMeConnecter()
+2021-05-04T18:08:53.6709495+02:00:2021-05-04T18:08:53.6708584+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.6711565+02:00:2021-05-04T18:08:53.6710546+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.6713402+02:00:2021-05-04T18:08:53.6712459+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.6715802+02:00:2021-05-04T18:08:53.6714846+02:00:Thread#0:B:Then la connexion est etabli
+2021-05-04T18:08:53.6734412+02:00:2021-05-04T18:08:53.6733369+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.6736335+02:00:2021-05-04T18:08:53.6735235+02:00:Thread#0:T:        [Then(@"la connexion est etabli")]
+2021-05-04T18:08:53.6738350+02:00:2021-05-04T18:08:53.6737252+02:00:Thread#0:T:        public void ThenLaConnexionEstEtabli()
+2021-05-04T18:08:53.6740152+02:00:2021-05-04T18:08:53.6739193+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.6741987+02:00:2021-05-04T18:08:53.6741016+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.6744096+02:00:2021-05-04T18:08:53.6742987+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.6976179+02:00:2021-05-04T18:08:53.6973794+02:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2021-05-04T18:08:53.6978692+02:00:2021-05-04T18:08:53.6977491+02:00:Thread#0:T:using System;
+2021-05-04T18:08:53.6980789+02:00:2021-05-04T18:08:53.6979693+02:00:Thread#0:T:using TechTalk.SpecFlow;
+2021-05-04T18:08:53.6982979+02:00:2021-05-04T18:08:53.6981827+02:00:Thread#0:T:namespace MyNamespace
+2021-05-04T18:08:53.6985212+02:00:2021-05-04T18:08:53.6983902+02:00:Thread#0:T:{
+2021-05-04T18:08:53.6987409+02:00:2021-05-04T18:08:53.6986377+02:00:Thread#0:T:    [Binding]
+2021-05-04T18:08:53.6989357+02:00:2021-05-04T18:08:53.6988372+02:00:Thread#0:T:    public class StepDefinitions
+2021-05-04T18:08:53.6991282+02:00:2021-05-04T18:08:53.6990204+02:00:Thread#0:T:    {
+2021-05-04T18:08:53.6993570+02:00:2021-05-04T18:08:53.6992362+02:00:Thread#0:T:        private readonly ScenarioContext _scenarioContext;
+2021-05-04T18:08:53.6995880+02:00:2021-05-04T18:08:53.6994724+02:00:Thread#0:T:        public StepDefinitions(ScenarioContext scenarioContext)
+2021-05-04T18:08:53.6997862+02:00:2021-05-04T18:08:53.6996754+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.6999836+02:00:2021-05-04T18:08:53.6998723+02:00:Thread#0:T:            _scenarioContext = scenarioContext;
+2021-05-04T18:08:53.7030183+02:00:2021-05-04T18:08:53.7000703+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7033743+02:00:2021-05-04T18:08:53.7032207+02:00:Thread#0:T:        [Given(@": clients existants")]
+2021-05-04T18:08:53.7036122+02:00:2021-05-04T18:08:53.7034925+02:00:Thread#0:T:        public void GivenClientsExistants(Table table)
+2021-05-04T18:08:53.7037922+02:00:2021-05-04T18:08:53.7036979+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7039932+02:00:2021-05-04T18:08:53.7038814+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7041867+02:00:2021-05-04T18:08:53.7040778+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7043994+02:00:2021-05-04T18:08:53.7042931+02:00:Thread#0:T:        
+2021-05-04T18:08:53.7045756+02:00:2021-05-04T18:08:53.7044828+02:00:Thread#0:T:        [Given(@"mon identifiant est ""(.*)""")]
+2021-05-04T18:08:53.7047709+02:00:2021-05-04T18:08:53.7046807+02:00:Thread#0:T:        public void GivenMonIdentifiantEst(string p0)
+2021-05-04T18:08:53.7049504+02:00:2021-05-04T18:08:53.7048541+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7051377+02:00:2021-05-04T18:08:53.7050314+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7053478+02:00:2021-05-04T18:08:53.7052481+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7055473+02:00:2021-05-04T18:08:53.7054551+02:00:Thread#0:T:        
+2021-05-04T18:08:53.7057542+02:00:2021-05-04T18:08:53.7056605+02:00:Thread#0:T:        [Given(@"mon mot de passe est ""(.*)""")]
+2021-05-04T18:08:53.7059487+02:00:2021-05-04T18:08:53.7058433+02:00:Thread#0:T:        public void GivenMonMotDePasseEst(string toto0)
+2021-05-04T18:08:53.7061266+02:00:2021-05-04T18:08:53.7060348+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7063337+02:00:2021-05-04T18:08:53.7062297+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7065107+02:00:2021-05-04T18:08:53.7064201+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7067085+02:00:2021-05-04T18:08:53.7066037+02:00:Thread#0:T:        
+2021-05-04T18:08:53.7068871+02:00:2021-05-04T18:08:53.7067927+02:00:Thread#0:T:        [When(@"J'essaie de me connecter")]
+2021-05-04T18:08:53.7070797+02:00:2021-05-04T18:08:53.7069735+02:00:Thread#0:T:        public void WhenJessaieDeMeConnecter()
+2021-05-04T18:08:53.7072588+02:00:2021-05-04T18:08:53.7071698+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7074348+02:00:2021-05-04T18:08:53.7073424+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7076258+02:00:2021-05-04T18:08:53.7075209+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7078004+02:00:2021-05-04T18:08:53.7077082+02:00:Thread#0:T:        
+2021-05-04T18:08:53.7079748+02:00:2021-05-04T18:08:53.7078828+02:00:Thread#0:T:        [Then(@"la connexion est etabli")]
+2021-05-04T18:08:53.7081787+02:00:2021-05-04T18:08:53.7080610+02:00:Thread#0:T:        public void ThenLaConnexionEstEtabli()
+2021-05-04T18:08:53.7084054+02:00:2021-05-04T18:08:53.7082813+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7085861+02:00:2021-05-04T18:08:53.7084918+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7087786+02:00:2021-05-04T18:08:53.7086731+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7089520+02:00:2021-05-04T18:08:53.7088611+02:00:Thread#0:T:    }
+2021-05-04T18:08:53.7091227+02:00:2021-05-04T18:08:53.7090330+02:00:Thread#0:T:}
+2021-05-04T18:08:53.7097909+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-05-04T18:08:53.7098147+02:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2021-05-04T18:08:53.7098206+02:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-05-04T18:08:53.7098672+02:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-05-04T18:08:53.7098735+02:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-05-04T18:08:53.7098776+02:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2021-05-04T18:08:53.7098819+02:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-05-04T18:08:53.7098932+02:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-05-04T18:08:53.7099051+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-05-04T18:08:53.7111083+02:00:Thread#0: Test #5/0 is finished on thread #0 as Pending within 0,0561583 seconds
+2021-05-04T18:08:53.7113877+02:00:Thread#0: Test #6/0 is started on thread #0
+2021-05-04T18:08:53.7125459+02:00:2021-05-04T18:08:53.7123235+02:00:Thread#0:B:Given : clients existants
+2021-05-04T18:08:53.7128820+02:00:2021-05-04T18:08:53.7127392+02:00:Thread#0:B:  --- table step argument ---
+2021-05-04T18:08:53.7130811+02:00:2021-05-04T18:08:53.7129826+02:00:Thread#0:B:  | identifiant | mdp  |
+2021-05-04T18:08:53.7132881+02:00:2021-05-04T18:08:53.7131924+02:00:Thread#0:B:  | isa         | toto |
+2021-05-04T18:08:53.7151529+02:00:2021-05-04T18:08:53.7150354+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.7153585+02:00:2021-05-04T18:08:53.7152515+02:00:Thread#0:T:        [Given(@": clients existants")]
+2021-05-04T18:08:53.7155436+02:00:2021-05-04T18:08:53.7154505+02:00:Thread#0:T:        public void GivenClientsExistants(Table table)
+2021-05-04T18:08:53.7157224+02:00:2021-05-04T18:08:53.7156330+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7159240+02:00:2021-05-04T18:08:53.7158104+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7161185+02:00:2021-05-04T18:08:53.7160104+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7163522+02:00:2021-05-04T18:08:53.7162545+02:00:Thread#0:B:Given mon identifiant est "isa2"
+2021-05-04T18:08:53.7190823+02:00:2021-05-04T18:08:53.7188344+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.7194366+02:00:2021-05-04T18:08:53.7192991+02:00:Thread#0:T:        [Given(@"mon identifiant est ""(.*)""")]
+2021-05-04T18:08:53.7196618+02:00:2021-05-04T18:08:53.7195499+02:00:Thread#0:T:        public void GivenMonIdentifiantEst(string p0)
+2021-05-04T18:08:53.7199000+02:00:2021-05-04T18:08:53.7197826+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7201098+02:00:2021-05-04T18:08:53.7200111+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7203877+02:00:2021-05-04T18:08:53.7202455+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7206524+02:00:2021-05-04T18:08:53.7205534+02:00:Thread#0:B:And mon mot de passe est "toto2"
+2021-05-04T18:08:53.7225077+02:00:2021-05-04T18:08:53.7224030+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.7226888+02:00:2021-05-04T18:08:53.7225936+02:00:Thread#0:T:        [Given(@"mon mot de passe est ""(.*)""")]
+2021-05-04T18:08:53.7228705+02:00:2021-05-04T18:08:53.7227722+02:00:Thread#0:T:        public void GivenMonMotDePasseEst(string p0)
+2021-05-04T18:08:53.7230445+02:00:2021-05-04T18:08:53.7229523+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7232509+02:00:2021-05-04T18:08:53.7231371+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7234426+02:00:2021-05-04T18:08:53.7233377+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7236801+02:00:2021-05-04T18:08:53.7235832+02:00:Thread#0:B:When J'essaie de me connecter
+2021-05-04T18:08:53.7257074+02:00:2021-05-04T18:08:53.7254897+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.7259346+02:00:2021-05-04T18:08:53.7258214+02:00:Thread#0:T:        [When(@"J'essaie de me connecter")]
+2021-05-04T18:08:53.7261330+02:00:2021-05-04T18:08:53.7260264+02:00:Thread#0:T:        public void WhenJessaieDeMeConnecter()
+2021-05-04T18:08:53.7263164+02:00:2021-05-04T18:08:53.7262222+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7265020+02:00:2021-05-04T18:08:53.7263994+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7266745+02:00:2021-05-04T18:08:53.7265851+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7269247+02:00:2021-05-04T18:08:53.7268254+02:00:Thread#0:B:Then la connexion est "Mot de passe incorrect"
+2021-05-04T18:08:53.7289894+02:00:2021-05-04T18:08:53.7288385+02:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2021-05-04T18:08:53.7292580+02:00:2021-05-04T18:08:53.7291321+02:00:Thread#0:T:        [Then(@"la connexion est ""(.*)""")]
+2021-05-04T18:08:53.7294989+02:00:2021-05-04T18:08:53.7293846+02:00:Thread#0:T:        public void ThenLaConnexionEst(string p0)
+2021-05-04T18:08:53.7297148+02:00:2021-05-04T18:08:53.7296046+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7299311+02:00:2021-05-04T18:08:53.7298400+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7301382+02:00:2021-05-04T18:08:53.7300413+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7508848+02:00:2021-05-04T18:08:53.7506563+02:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2021-05-04T18:08:53.7511331+02:00:2021-05-04T18:08:53.7510140+02:00:Thread#0:T:using System;
+2021-05-04T18:08:53.7513323+02:00:2021-05-04T18:08:53.7512382+02:00:Thread#0:T:using TechTalk.SpecFlow;
+2021-05-04T18:08:53.7515188+02:00:2021-05-04T18:08:53.7514253+02:00:Thread#0:T:namespace MyNamespace
+2021-05-04T18:08:53.7517022+02:00:2021-05-04T18:08:53.7516105+02:00:Thread#0:T:{
+2021-05-04T18:08:53.7518802+02:00:2021-05-04T18:08:53.7517928+02:00:Thread#0:T:    [Binding]
+2021-05-04T18:08:53.7520890+02:00:2021-05-04T18:08:53.7519846+02:00:Thread#0:T:    public class StepDefinitions
+2021-05-04T18:08:53.7523071+02:00:2021-05-04T18:08:53.7521892+02:00:Thread#0:T:    {
+2021-05-04T18:08:53.7525401+02:00:2021-05-04T18:08:53.7524200+02:00:Thread#0:T:        private readonly ScenarioContext _scenarioContext;
+2021-05-04T18:08:53.7528115+02:00:2021-05-04T18:08:53.7526816+02:00:Thread#0:T:        public StepDefinitions(ScenarioContext scenarioContext)
+2021-05-04T18:08:53.7530672+02:00:2021-05-04T18:08:53.7529344+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7533002+02:00:2021-05-04T18:08:53.7531822+02:00:Thread#0:T:            _scenarioContext = scenarioContext;
+2021-05-04T18:08:53.7535181+02:00:2021-05-04T18:08:53.7534068+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7538180+02:00:2021-05-04T18:08:53.7536679+02:00:Thread#0:T:        [Given(@": clients existants")]
+2021-05-04T18:08:53.7541090+02:00:2021-05-04T18:08:53.7539546+02:00:Thread#0:T:        public void GivenClientsExistants(Table table)
+2021-05-04T18:08:53.7543580+02:00:2021-05-04T18:08:53.7542097+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7546046+02:00:2021-05-04T18:08:53.7544695+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7548453+02:00:2021-05-04T18:08:53.7547307+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7550587+02:00:2021-05-04T18:08:53.7549493+02:00:Thread#0:T:        
+2021-05-04T18:08:53.7552419+02:00:2021-05-04T18:08:53.7551452+02:00:Thread#0:T:        [Given(@"mon identifiant est ""(.*)""")]
+2021-05-04T18:08:53.7554242+02:00:2021-05-04T18:08:53.7553299+02:00:Thread#0:T:        public void GivenMonIdentifiantEst(string p0)
+2021-05-04T18:08:53.7556071+02:00:2021-05-04T18:08:53.7555115+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7557954+02:00:2021-05-04T18:08:53.7556912+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7559820+02:00:2021-05-04T18:08:53.7558892+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7561759+02:00:2021-05-04T18:08:53.7560698+02:00:Thread#0:T:        
+2021-05-04T18:08:53.7563513+02:00:2021-05-04T18:08:53.7562573+02:00:Thread#0:T:        [Given(@"mon mot de passe est ""(.*)""")]
+2021-05-04T18:08:53.7565341+02:00:2021-05-04T18:08:53.7564331+02:00:Thread#0:T:        public void GivenMonMotDePasseEst(string p0)
+2021-05-04T18:08:53.7567345+02:00:2021-05-04T18:08:53.7566420+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7569219+02:00:2021-05-04T18:08:53.7568190+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7571139+02:00:2021-05-04T18:08:53.7570094+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7572902+02:00:2021-05-04T18:08:53.7571976+02:00:Thread#0:T:        
+2021-05-04T18:08:53.7574818+02:00:2021-05-04T18:08:53.7573721+02:00:Thread#0:T:        [When(@"J'essaie de me connecter")]
+2021-05-04T18:08:53.7576933+02:00:2021-05-04T18:08:53.7575980+02:00:Thread#0:T:        public void WhenJessaieDeMeConnecter()
+2021-05-04T18:08:53.7578688+02:00:2021-05-04T18:08:53.7577774+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7580677+02:00:2021-05-04T18:08:53.7579614+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7582410+02:00:2021-05-04T18:08:53.7581497+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7584134+02:00:2021-05-04T18:08:53.7583224+02:00:Thread#0:T:        
+2021-05-04T18:08:53.7586049+02:00:2021-05-04T18:08:53.7584943+02:00:Thread#0:T:        [Then(@"la connexion est ""(.*)""")]
+2021-05-04T18:08:53.7588520+02:00:2021-05-04T18:08:53.7587291+02:00:Thread#0:T:        public void ThenLaConnexionEst(string p0)
+2021-05-04T18:08:53.7590720+02:00:2021-05-04T18:08:53.7589799+02:00:Thread#0:T:        {
+2021-05-04T18:08:53.7592460+02:00:2021-05-04T18:08:53.7591558+02:00:Thread#0:T:            _scenarioContext.Pending();
+2021-05-04T18:08:53.7594181+02:00:2021-05-04T18:08:53.7593290+02:00:Thread#0:T:        }
+2021-05-04T18:08:53.7595982+02:00:2021-05-04T18:08:53.7595014+02:00:Thread#0:T:    }
+2021-05-04T18:08:53.7597754+02:00:2021-05-04T18:08:53.7596839+02:00:Thread#0:T:}
+2021-05-04T18:08:53.7602081+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-05-04T18:08:53.7602187+02:00:Thread#:Scheduler: at the end of normal test queue
+2021-05-04T18:08:53.7602207+02:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-05-04T18:08:53.7602226+02:00:Thread#0:Scheduler: No more tests for thread
+2021-05-04T18:08:53.7623310+02:00:Thread#0: Test #6/0 is finished on thread #0 as Pending within 0,0509267 seconds
+2021-05-04T18:08:53.7670716+02:00:2021-05-04T18:08:53.7669272+02:00:Got Deinitialize Signal
+2021-05-04T18:08:53.7696031+02:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-05-04T18:08:53.7703118+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-05-04T18:08:53.7715263+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-05-04T18:08:53.7728003+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=fr-FR, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:08:53.7728153+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-05-04T18:08:53.7728192+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-05-04T18:08:53.7728238+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:08:53.7728264+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-05-04T18:08:53.7728628+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-05-04T18:08:53.7728930+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:08:53.7728987+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-05-04T18:08:53.7729332+02:00:Tfm: netcoreapp3.1
+2021-05-04T18:08:53.7729354+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:08:53.7729372+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-05-04T18:08:53.7729758+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-05-04T18:08:53.7730139+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:08:53.7736341+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-04T18:08:53.7736445+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\System.Diagnostics.Process.resources.dll'
+2021-05-04T18:08:53.7737245+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\System.Diagnostics.Process.resources.exe'
+2021-05-04T18:08:53.7738012+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-04T18:08:53.7739682+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-04T18:08:53.7739735+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\System.Diagnostics.Process.resources.dll'
+2021-05-04T18:08:53.7740291+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\System.Diagnostics.Process.resources.exe'
+2021-05-04T18:08:53.7740776+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-04T18:08:53.7742498+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-04T18:08:53.7742548+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\System.Diagnostics.Process.resources.dll'
+2021-05-04T18:08:53.7743152+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\System.Diagnostics.Process.resources.exe'
+2021-05-04T18:08:53.7743623+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-04T18:08:53.7747808+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:08:53.7817667+02:00:Thread#-1:Scheduler: get next test for thread -1
+2021-05-04T18:08:53.7817874+02:00:Thread#:Scheduler: at the end of normal test queue
+2021-05-04T18:08:53.7817917+02:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-05-04T18:08:53.7836784+02:00;Thread#12;Info;test run finished
+2021-05-04T18:08:53.7838060+02:00;Thread#12;Info;publishing test results
+2021-05-04T18:08:53.7839144+02:00;Thread#12;Info;Not publishing results.
+2021-05-04T18:08:53.7839557+02:00;Thread#12;Info;test results published
+2021-05-04T18:08:53.7839864+02:00;Thread#12;Info;generating reports
+2021-05-04T18:08:53.8494776+02:00;Thread#12;Info;Starting external report generation process
+2021-05-04T18:08:54.9001051+02:00;Thread#12;Info;Successfully generated reports.
+2021-05-04T18:08:54.9017247+02:00;Thread#12;Info;Successfully generated reports
+2021-05-04T18:08:54.9068931+02:00:Total: 3
+2021-05-04T18:08:54.9082140+02:00:Succeeded: 0
+2021-05-04T18:08:54.9084329+02:00:Ignored: 0
+2021-05-04T18:08:54.9086349+02:00:Pending: 3
+2021-05-04T18:08:54.9086411+02:00:Skipped: 0
+2021-05-04T18:08:54.9088473+02:00:Failed: 0
+2021-05-04T18:08:54.9135000+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-05-04T18:08:54.9135693+02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\isa\source\repos\Location\TestResults\Unnamed project__2021-05-04T180851.html'
+========== End of log file ==========

@@ -1,0 +1,433 @@
+﻿2021-05-04T18:39:05.7072571+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-05-04T18:39:05.7074645+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.7.3 in Framework netcore31 in x64 mode execution started
+2021-05-04T18:39:05.7074692+02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-05-04T18:39:05.7098028+02:00;VSTestExecutionThread;Info;Current UserName: 'isa', MachineName: 'I6700K'
+2021-05-04T18:39:05.7399358+02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-05-04T18:39:05.7401360+02:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\isa\source\repos\Location\TestResults" (default)
+2021-05-04T18:39:05.7401913+02:00;VSTestExecutionThread;Info;Profile: 
+2021-05-04T18:39:05.7786040+02:00;VSTestExecutionThread;Info;Log file path: C:\Users\isa\source\repos\Location\TestResults\Unnamed project__2021-05-04T183905.log
+2021-05-04T18:39:05.7828091+02:00;Thread#12;Info;Checking activation
+2021-05-04T18:39:05.8491614+02:00;Thread#12;Info;Activated.
+2021-05-04T18:39:05.8493615+02:00;Thread#12;Info;Activation check completed
+2021-05-04T18:39:05.8494688+02:00;Thread#12;Info;Starting test run
+2021-05-04T18:39:06.0447228+02:00;Thread#12;Info;Discovering target: Default
+2021-05-04T18:39:06.0448485+02:00;Thread#12;Info;Discovering tests from assembly: C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-05-04T18:39:06.1116025+02:00;Thread#12;Info;Discovered tests from assembly: C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-05-04T18:39:06.1125267+02:00:Test Suite Dump
+2021-05-04T18:39:06.1139092+02:00:#0: Unnamed project/ - 
+2021-05-04T18:39:06.1139311+02:00:#1: Default - 
+2021-05-04T18:39:06.1139368+02:00:#2: SpecFlowLocation - 
+2021-05-04T18:39:06.1139413+02:00:#3: Location - 
+2021-05-04T18:39:06.1148946+02:00:#4: Connection client - Pas d'utilisateur reconnu - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:Connection+client+-+Pas+d%27utilisateur+reconnu
+2021-05-04T18:39:06.1149250+02:00:#5: Connection client - utilisateur reconnu - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:Connection+client+-+utilisateur+reconnu
+2021-05-04T18:39:06.1149327+02:00:#6: Connection client - utilisateur reconnu mais pas le mot de passe - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:Connection+client+-+utilisateur+reconnu+mais+pas+le+mot+de+passe
+2021-05-04T18:39:06.1149756+02:00:End: Test Suite Dump
+2021-05-04T18:39:06.1273763+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-05-04T18:39:06.1289664+02:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-05-04T18:39:06.1290290+02:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-05-04T18:39:06.1317630+02:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-05-04T18:39:06.1317785+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-05-04T18:39:06.1317801+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-05-04T18:39:06.1317832+02:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-05-04T18:39:06.1323800+02:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-05-04T18:39:06.1336671+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-05-04T18:39:06.1354690+02:00:Thread #0: creating new test thread executor for SpecFlowLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-05-04T18:39:06.1375774+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-05-04T18:39:06.1379145+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-05-04T18:39:06.1410032+02:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-05-04T18:39:06.1424738+02:00:starting Out Of Process Executor
+2021-05-04T18:39:06.1441541+02:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:39:06.1463336+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-05-04T18:39:06.1463512+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-05-04T18:39:06.1472745+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:06.1475600+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-05-04T18:39:06.1476593+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-05-04T18:39:06.1476970+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:06.1478671+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-05-04T18:39:06.1482890+02:00:Tfm: netcoreapp3.1
+2021-05-04T18:39:06.1483003+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:39:06.1483018+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-05-04T18:39:06.1484061+02:00:[AssemblyCache] Found file 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-05-04T18:39:06.1488855+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-05-04T18:39:06.1494068+02:00:Starting callback TCP Rpc server
+2021-05-04T18:39:06.1633757+02:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-05-04T18:39:06.1634130+02:00:Started callback TCP Rpc server on port 32768
+2021-05-04T18:39:06.1634154+02:00:Starting logger TCP Rpc server
+2021-05-04T18:39:06.1657333+02:00:Asynchronously starting background TCP Rpc Server on port 32769
+2021-05-04T18:39:06.1657623+02:00:Started logger TCP Rpc server on port 32769
+2021-05-04T18:39:06.2352355+02:00:Executing test executor at 'dotnet' 'exec "C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 25688 --uniqueId "2021-05-04T183905" --outputFolder "C:\Users\isa\source\repos\Location\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:06.2518322+02:00:Executor with PID 16524 has been started successfully.
+2021-05-04T18:39:06.2543371+02:00:Out of Process Executor 16524 started
+2021-05-04T18:39:06.2543552+02:00:Waiting for endpoint
+2021-05-04T18:39:06.5308084+02:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fr-FR, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:39:06.5308306+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2021-05-04T18:39:06.5308339+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2021-05-04T18:39:06.5308392+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:06.5308414+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-05-04T18:39:06.5308908+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-05-04T18:39:06.5309427+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:06.5309485+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-05-04T18:39:06.5309680+02:00:Tfm: netcoreapp3.1
+2021-05-04T18:39:06.5309708+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:39:06.5309720+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-05-04T18:39:06.5310123+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-05-04T18:39:06.5310629+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:39:06.5392099+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-04T18:39:06.5392301+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\StreamJsonRpc.resources.dll'
+2021-05-04T18:39:06.5393256+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\StreamJsonRpc.resources.exe'
+2021-05-04T18:39:06.5393912+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-04T18:39:06.5395819+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-04T18:39:06.5395919+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\StreamJsonRpc.resources.dll'
+2021-05-04T18:39:06.5396582+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\StreamJsonRpc.resources.exe'
+2021-05-04T18:39:06.5397168+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-04T18:39:06.5399070+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-04T18:39:06.5399156+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\StreamJsonRpc.resources.dll'
+2021-05-04T18:39:06.5399819+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\StreamJsonRpc.resources.exe'
+2021-05-04T18:39:06.5400338+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-04T18:39:06.5410004+02:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:39:06.5417074+02:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:39:06.5417193+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-05-04T18:39:06.5417361+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-05-04T18:39:06.5417420+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:06.5417471+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-05-04T18:39:06.5417960+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-05-04T18:39:06.5418396+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:06.5418449+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-05-04T18:39:06.5418595+02:00:Tfm: netcoreapp3.1
+2021-05-04T18:39:06.5418648+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:39:06.5418686+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-05-04T18:39:06.5419510+02:00:[AssemblyCache] Found file 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-05-04T18:39:06.5425737+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-05-04T18:39:06.7109663+02:00:Remote executor port received: 32770
+2021-05-04T18:39:06.7112314+02:00:Creating executor TCP client on port 32770
+2021-05-04T18:39:06.7115520+02:00:Created executor TCP client on port 32770
+2021-05-04T18:39:06.7115585+02:00:Connecting to remote executor TCP server
+2021-05-04T18:39:06.7123239+02:00:Connected remote executor TCP server
+2021-05-04T18:39:06.7124888+02:00:trying to connect to Out of Process Executor the 1 attempt
+2021-05-04T18:39:06.7124965+02:00:Connection to Out of Process Executor established in the 1 attempt
+2021-05-04T18:39:06.8215197+02:00:2021-05-04T18:39:06.8206761+02:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll on test thread #0
+2021-05-04T18:39:06.8251429+02:00:Endpoint 16524 started
+2021-05-04T18:39:06.8425070+02:00:2021-05-04T18:39:06.8417136+02:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-05-04T18:39:06.9512666+02:00:2021-05-04T18:39:06.9509993+02:00:Assembly resolving TechTalk.SpecFlow, Version=3.7.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-05-04T18:39:06.9534906+02:00:2021-05-04T18:39:06.9533005+02:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-05-04T18:39:06.9571452+02:00:2021-05-04T18:39:06.9568676+02:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\isa\.nuget\packages\specflow\3.7.13\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-05-04T18:39:07.0512349+02:00:2021-05-04T18:39:07.0505030+02:00:Thread#0:T:-> Loading plugin C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-05-04T18:39:07.0532486+02:00:2021-05-04T18:39:07.0525899+02:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-05-04T18:39:07.0544143+02:00:2021-05-04T18:39:07.0538124+02:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-05-04T18:39:07.0561859+02:00:2021-05-04T18:39:07.0553077+02:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\isa\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-05-04T18:39:07.0876212+02:00:2021-05-04T18:39:07.0868654+02:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-05-04T18:39:07.0890465+02:00:2021-05-04T18:39:07.0882672+02:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-05-04T18:39:07.0902203+02:00:2021-05-04T18:39:07.0897160+02:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\isa\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-05-04T18:39:07.0983779+02:00:2021-05-04T18:39:07.0975849+02:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-05-04T18:39:07.0990802+02:00:2021-05-04T18:39:07.0989155+02:00:Thread#0:T:-> Loading plugin C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-05-04T18:39:07.1008094+02:00:2021-05-04T18:39:07.1006159+02:00:Assembly resolving LivingDoc.Dtos, Version=3.7.0.0, Culture=neutral, PublicKeyToken=null
+2021-05-04T18:39:07.1010881+02:00:2021-05-04T18:39:07.1009342+02:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-05-04T18:39:07.1014760+02:00:2021-05-04T18:39:07.1013652+02:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\isa\.nuget\packages\specflow.plus.livingdocplugin\3.7.141\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-05-04T18:39:07.1036079+02:00:2021-05-04T18:39:07.1033925+02:00:Thread#0:T:-> Loading plugin C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-05-04T18:39:07.1085900+02:00:2021-05-04T18:39:07.1082623+02:00:Thread#0:T:-> Using default config
+2021-05-04T18:39:07.1171387+02:00:2021-05-04T18:39:07.1168965+02:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-05-04T18:39:07.1173862+02:00:2021-05-04T18:39:07.1172768+02:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-05-04T18:39:07.1178627+02:00:2021-05-04T18:39:07.1177218+02:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\isa\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-05-04T18:39:07.1186911+02:00:2021-05-04T18:39:07.1185516+02:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-05-04T18:39:07.1189316+02:00:2021-05-04T18:39:07.1187982+02:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-05-04T18:39:07.1192743+02:00:2021-05-04T18:39:07.1191540+02:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\isa\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-05-04T18:39:07.1262548+02:00:2021-05-04T18:39:07.1260177+02:00:Assembly resolving Location, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-05-04T18:39:07.1264903+02:00:2021-05-04T18:39:07.1263892+02:00:[AssemblyCache] Trying to resolve 'Location' from .deps.json file
+2021-05-04T18:39:07.1274261+02:00:2021-05-04T18:39:07.1272998+02:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'Location', found in dependency map, but unable to resolve a path in ['Location.dll']
+2021-05-04T18:39:07.1277701+02:00:2021-05-04T18:39:07.1276062+02:00:[AssemblyCache] Could not resolve 'Location' from .deps.json
+2021-05-04T18:39:07.1291779+02:00:2021-05-04T18:39:07.1290003+02:00:[AssemblyCache] Trying to resolve 'Location' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:07.1345022+02:00:2021-05-04T18:39:07.1342561+02:00:[AssemblyCache] Trying to resolve 'Location' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Location.dll'
+2021-05-04T18:39:07.1348735+02:00:2021-05-04T18:39:07.1347487+02:00:[AssemblyCache] Found file 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Location.dll' for assembly 'Location'
+2021-05-04T18:39:07.1354282+02:00:2021-05-04T18:39:07.1352999+02:00:[AssemblyCache] Resolved 'Location' to C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Location.dll
+2021-05-04T18:39:07.1370026+02:00:2021-05-04T18:39:07.1368299+02:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:39:07.1372992+02:00:2021-05-04T18:39:07.1371662+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-05-04T18:39:07.1382002+02:00:2021-05-04T18:39:07.1378060+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\isa\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-05-04T18:39:07.1598768+02:00:2021-05-04T18:39:07.1596171+02:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-05-04T18:39:07.1601742+02:00:2021-05-04T18:39:07.1600420+02:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-05-04T18:39:07.1605858+02:00:2021-05-04T18:39:07.1604579+02:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\isa\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-05-04T18:39:07.4338200+02:00:Thread#0: Test #4/0 is started on thread #0
+2021-05-04T18:39:07.4679967+02:00:2021-05-04T18:39:07.4676733+02:00:Thread#0:B:Given suivant les clients existants
+2021-05-04T18:39:07.4682973+02:00:2021-05-04T18:39:07.4681654+02:00:Thread#0:B:  --- table step argument ---
+2021-05-04T18:39:07.4685582+02:00:2021-05-04T18:39:07.4684431+02:00:Thread#0:B:  | identifiant | mdp  |
+2021-05-04T18:39:07.4688131+02:00:2021-05-04T18:39:07.4686874+02:00:Thread#0:B:  | isa         | toto |
+2021-05-04T18:39:07.4845023+02:00:2021-05-04T18:39:07.4841500+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-05-04T18:39:07.4864541+02:00:2021-05-04T18:39:07.4861407+02:00:Thread#0:B:Given mon identifiant est "isa"
+2021-05-04T18:39:07.4887926+02:00:2021-05-04T18:39:07.4884192+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyUsernameIs("isa") (0,0s)
+2021-05-04T18:39:07.4897806+02:00:2021-05-04T18:39:07.4895371+02:00:Thread#0:B:And mon mot de passe est "toto"
+2021-05-04T18:39:07.4906491+02:00:2021-05-04T18:39:07.4905015+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyPasswordIs("toto") (0,0s)
+2021-05-04T18:39:07.4911905+02:00:2021-05-04T18:39:07.4910485+02:00:Thread#0:B:When J'essaie de me connecter avec mon compte
+2021-05-04T18:39:07.4927229+02:00:2021-05-04T18:39:07.4925536+02:00:Thread#0:T:done: LocationStepDefinitions.WhenITryToConnectToMyAccount() (0,0s)
+2021-05-04T18:39:07.4934481+02:00:2021-05-04T18:39:07.4930434+02:00:Thread#0:B:Then la connexion est refusée
+2021-05-04T18:39:07.4942960+02:00:2021-05-04T18:39:07.4941442+02:00:Assembly resolving FluentAssertions, Version=5.10.3.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a
+2021-05-04T18:39:07.4945137+02:00:2021-05-04T18:39:07.4944158+02:00:[AssemblyCache] Trying to resolve 'FluentAssertions' from .deps.json file
+2021-05-04T18:39:07.4949576+02:00:2021-05-04T18:39:07.4948343+02:00:[AssemblyCache] Resolved 'FluentAssertions' to 'C:\Users\isa\.nuget\packages\fluentassertions\5.10.3\lib\netcoreapp2.1\FluentAssertions.dll'
+2021-05-04T18:39:07.5515705+02:00:2021-05-04T18:39:07.5513197+02:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-05-04T18:39:07.5518389+02:00:2021-05-04T18:39:07.5517201+02:00:[AssemblyCache] Trying to resolve 'nspec' from .deps.json file
+2021-05-04T18:39:07.5520527+02:00:2021-05-04T18:39:07.5519545+02:00:[AssemblyCache] Could not resolve 'nspec' from .deps.json
+2021-05-04T18:39:07.5522652+02:00:2021-05-04T18:39:07.5521611+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:07.5524741+02:00:2021-05-04T18:39:07.5523526+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\nspec.dll'
+2021-05-04T18:39:07.5527847+02:00:2021-05-04T18:39:07.5526584+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\nspec.exe'
+2021-05-04T18:39:07.5530452+02:00:2021-05-04T18:39:07.5529344+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:07.5535047+02:00:2021-05-04T18:39:07.5533345+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-05-04T18:39:07.5540065+02:00:2021-05-04T18:39:07.5538764+02:00:Tfm: netcoreapp3.1
+2021-05-04T18:39:07.5542997+02:00:2021-05-04T18:39:07.5541715+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:39:07.5545222+02:00:2021-05-04T18:39:07.5544149+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\nspec.dll'
+2021-05-04T18:39:07.5548213+02:00:2021-05-04T18:39:07.5547079+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\nspec.exe'
+2021-05-04T18:39:07.5551644+02:00:2021-05-04T18:39:07.5550035+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:39:07.5606611+02:00:2021-05-04T18:39:07.5604334+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-04T18:39:07.5608960+02:00:2021-05-04T18:39:07.5607847+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\nspec.dll'
+2021-05-04T18:39:07.5611902+02:00:2021-05-04T18:39:07.5610594+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\nspec.exe'
+2021-05-04T18:39:07.5614380+02:00:2021-05-04T18:39:07.5613239+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-04T18:39:07.5617695+02:00:2021-05-04T18:39:07.5616625+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-04T18:39:07.5619569+02:00:2021-05-04T18:39:07.5618619+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\nspec.dll'
+2021-05-04T18:39:07.5622189+02:00:2021-05-04T18:39:07.5620963+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\nspec.exe'
+2021-05-04T18:39:07.5624583+02:00:2021-05-04T18:39:07.5623503+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-04T18:39:07.5627986+02:00:2021-05-04T18:39:07.5626939+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-04T18:39:07.5630035+02:00:2021-05-04T18:39:07.5628876+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\nspec.dll'
+2021-05-04T18:39:07.5633353+02:00:2021-05-04T18:39:07.5631874+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\nspec.exe'
+2021-05-04T18:39:07.5636829+02:00:2021-05-04T18:39:07.5635360+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-04T18:39:07.5714906+02:00:2021-05-04T18:39:07.5712511+02:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-05-04T18:39:07.5776164+02:00:2021-05-04T18:39:07.5773847+02:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-05-04T18:39:07.5843038+02:00:2021-05-04T18:39:07.5840651+02:00:Assembly resolving xunit.assert, Culture=neutral, PublicKeyToken=null
+2021-05-04T18:39:07.5845371+02:00:2021-05-04T18:39:07.5844323+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' from .deps.json file
+2021-05-04T18:39:07.5847888+02:00:2021-05-04T18:39:07.5846477+02:00:[AssemblyCache] Could not resolve 'xunit.assert' from .deps.json
+2021-05-04T18:39:07.5850150+02:00:2021-05-04T18:39:07.5848954+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:07.5852294+02:00:2021-05-04T18:39:07.5851052+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\xunit.assert.dll'
+2021-05-04T18:39:07.5854997+02:00:2021-05-04T18:39:07.5853918+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\xunit.assert.exe'
+2021-05-04T18:39:07.5857515+02:00:2021-05-04T18:39:07.5856452+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:07.5859651+02:00:2021-05-04T18:39:07.5858484+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-05-04T18:39:07.5861603+02:00:2021-05-04T18:39:07.5860680+02:00:Tfm: netcoreapp3.1
+2021-05-04T18:39:07.5863517+02:00:2021-05-04T18:39:07.5862495+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:39:07.5865701+02:00:2021-05-04T18:39:07.5864460+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\xunit.assert.dll'
+2021-05-04T18:39:07.5868462+02:00:2021-05-04T18:39:07.5867170+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\xunit.assert.exe'
+2021-05-04T18:39:07.5871279+02:00:2021-05-04T18:39:07.5870179+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:39:07.5878953+02:00:2021-05-04T18:39:07.5877510+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-04T18:39:07.5881911+02:00:2021-05-04T18:39:07.5880614+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\xunit.assert.dll'
+2021-05-04T18:39:07.5884930+02:00:2021-05-04T18:39:07.5883739+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\xunit.assert.exe'
+2021-05-04T18:39:07.5887848+02:00:2021-05-04T18:39:07.5886748+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-04T18:39:07.5891902+02:00:2021-05-04T18:39:07.5890783+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-04T18:39:07.5893789+02:00:2021-05-04T18:39:07.5892821+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\xunit.assert.dll'
+2021-05-04T18:39:07.5896299+02:00:2021-05-04T18:39:07.5895243+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\xunit.assert.exe'
+2021-05-04T18:39:07.5898951+02:00:2021-05-04T18:39:07.5897722+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-04T18:39:07.5902504+02:00:2021-05-04T18:39:07.5901368+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-04T18:39:07.5904426+02:00:2021-05-04T18:39:07.5903422+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\xunit.assert.dll'
+2021-05-04T18:39:07.5906976+02:00:2021-05-04T18:39:07.5905927+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\xunit.assert.exe'
+2021-05-04T18:39:07.5909417+02:00:2021-05-04T18:39:07.5908349+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-04T18:39:07.5999057+02:00:2021-05-04T18:39:07.5996125+02:00:Thread#0:T:error: Expected this._target.UserConnected to be false, but found True. (0,1s)
+2021-05-04T18:39:07.6006546+02:00:2021-05-04T18:39:07.6004781+02:00:Thread#0:B:And le message d'erreur est "Identifiant non reconnu"
+2021-05-04T18:39:07.6014914+02:00:2021-05-04T18:39:07.6012909+02:00:Thread#0:T:skipped because of previous errors
+2021-05-04T18:39:07.6120586+02:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-05-04T18:39:07.6134736+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-05-04T18:39:07.6135114+02:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-05-04T18:39:07.6135159+02:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-05-04T18:39:07.6135541+02:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-05-04T18:39:07.6135581+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-05-04T18:39:07.6135597+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-05-04T18:39:07.6135612+02:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-05-04T18:39:07.6135796+02:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-05-04T18:39:07.6136024+02:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-05-04T18:39:07.6540533+02:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 0,2194105 seconds
+2021-05-04T18:39:07.6558632+02:00:Thread#0: Test #4/1 is started on thread #0
+2021-05-04T18:39:07.6565982+02:00:2021-05-04T18:39:07.6564683+02:00:Thread#0:B:Given suivant les clients existants
+2021-05-04T18:39:07.6569039+02:00:2021-05-04T18:39:07.6567205+02:00:Thread#0:B:  --- table step argument ---
+2021-05-04T18:39:07.6571908+02:00:2021-05-04T18:39:07.6570376+02:00:Thread#0:B:  | identifiant | mdp  |
+2021-05-04T18:39:07.6574967+02:00:2021-05-04T18:39:07.6573425+02:00:Thread#0:B:  | isa         | toto |
+2021-05-04T18:39:07.6580849+02:00:2021-05-04T18:39:07.6578781+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-05-04T18:39:07.6584185+02:00:2021-05-04T18:39:07.6582737+02:00:Thread#0:B:Given mon identifiant est "isa"
+2021-05-04T18:39:07.6587685+02:00:2021-05-04T18:39:07.6586139+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyUsernameIs("isa") (0,0s)
+2021-05-04T18:39:07.6590460+02:00:2021-05-04T18:39:07.6589102+02:00:Thread#0:B:And mon mot de passe est "toto"
+2021-05-04T18:39:07.6593650+02:00:2021-05-04T18:39:07.6592534+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyPasswordIs("toto") (0,0s)
+2021-05-04T18:39:07.6596730+02:00:2021-05-04T18:39:07.6595321+02:00:Thread#0:B:When J'essaie de me connecter avec mon compte
+2021-05-04T18:39:07.6600295+02:00:2021-05-04T18:39:07.6599022+02:00:Thread#0:T:done: LocationStepDefinitions.WhenITryToConnectToMyAccount() (0,0s)
+2021-05-04T18:39:07.6603056+02:00:2021-05-04T18:39:07.6601790+02:00:Thread#0:B:Then la connexion est refusée
+2021-05-04T18:39:07.6619737+02:00:2021-05-04T18:39:07.6618121+02:00:Thread#0:T:error: Expected this._target.UserConnected to be false, but found True. (0,0s)
+2021-05-04T18:39:07.6622675+02:00:2021-05-04T18:39:07.6621555+02:00:Thread#0:B:And le message d'erreur est "Identifiant non reconnu"
+2021-05-04T18:39:07.6625522+02:00:2021-05-04T18:39:07.6624441+02:00:Thread#0:T:skipped because of previous errors
+2021-05-04T18:39:07.6642065+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-05-04T18:39:07.6642405+02:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-05-04T18:39:07.6642472+02:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-05-04T18:39:07.6642811+02:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-05-04T18:39:07.6642938+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-05-04T18:39:07.6642979+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-05-04T18:39:07.6643018+02:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-05-04T18:39:07.6643160+02:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-05-04T18:39:07.6643268+02:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-05-04T18:39:07.6659945+02:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0,0100853 seconds
+2021-05-04T18:39:07.6663038+02:00:Thread#0: Test #4/2 is started on thread #0
+2021-05-04T18:39:07.6667328+02:00:2021-05-04T18:39:07.6665922+02:00:Thread#0:B:Given suivant les clients existants
+2021-05-04T18:39:07.6670012+02:00:2021-05-04T18:39:07.6668396+02:00:Thread#0:B:  --- table step argument ---
+2021-05-04T18:39:07.6673343+02:00:2021-05-04T18:39:07.6671651+02:00:Thread#0:B:  | identifiant | mdp  |
+2021-05-04T18:39:07.6676497+02:00:2021-05-04T18:39:07.6674940+02:00:Thread#0:B:  | isa         | toto |
+2021-05-04T18:39:07.6682039+02:00:2021-05-04T18:39:07.6680036+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-05-04T18:39:07.6685010+02:00:2021-05-04T18:39:07.6683936+02:00:Thread#0:B:Given mon identifiant est "isa"
+2021-05-04T18:39:07.6688501+02:00:2021-05-04T18:39:07.6687441+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyUsernameIs("isa") (0,0s)
+2021-05-04T18:39:07.6690771+02:00:2021-05-04T18:39:07.6689641+02:00:Thread#0:B:And mon mot de passe est "toto"
+2021-05-04T18:39:07.6693348+02:00:2021-05-04T18:39:07.6692289+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyPasswordIs("toto") (0,0s)
+2021-05-04T18:39:07.6695422+02:00:2021-05-04T18:39:07.6694436+02:00:Thread#0:B:When J'essaie de me connecter avec mon compte
+2021-05-04T18:39:07.6698485+02:00:2021-05-04T18:39:07.6697481+02:00:Thread#0:T:done: LocationStepDefinitions.WhenITryToConnectToMyAccount() (0,0s)
+2021-05-04T18:39:07.6700634+02:00:2021-05-04T18:39:07.6699575+02:00:Thread#0:B:Then la connexion est refusée
+2021-05-04T18:39:07.6711336+02:00:2021-05-04T18:39:07.6709628+02:00:Thread#0:T:error: Expected this._target.UserConnected to be false, but found True. (0,0s)
+2021-05-04T18:39:07.6714226+02:00:2021-05-04T18:39:07.6713138+02:00:Thread#0:B:And le message d'erreur est "Identifiant non reconnu"
+2021-05-04T18:39:07.6717022+02:00:2021-05-04T18:39:07.6715808+02:00:Thread#0:T:skipped because of previous errors
+2021-05-04T18:39:07.6728603+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-05-04T18:39:07.6728770+02:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-05-04T18:39:07.6728803+02:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-05-04T18:39:07.6729015+02:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-05-04T18:39:07.6729054+02:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-05-04T18:39:07.6729078+02:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-05-04T18:39:07.6729100+02:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-05-04T18:39:07.6729209+02:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-05-04T18:39:07.6729438+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-05-04T18:39:07.6778031+02:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0,0114609 seconds
+2021-05-04T18:39:07.6783117+02:00:Thread#0: Test #5/0 is started on thread #0
+2021-05-04T18:39:07.6799802+02:00:2021-05-04T18:39:07.6797059+02:00:Thread#0:B:Given suivant les clients existants
+2021-05-04T18:39:07.6802967+02:00:2021-05-04T18:39:07.6801617+02:00:Thread#0:B:  --- table step argument ---
+2021-05-04T18:39:07.6805152+02:00:2021-05-04T18:39:07.6804130+02:00:Thread#0:B:  | identifiant | mdp  |
+2021-05-04T18:39:07.6807050+02:00:2021-05-04T18:39:07.6806094+02:00:Thread#0:B:  | isa         | toto |
+2021-05-04T18:39:07.6811357+02:00:2021-05-04T18:39:07.6810311+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-05-04T18:39:07.6815373+02:00:2021-05-04T18:39:07.6812790+02:00:Thread#0:B:Given mon identifiant est "isa2"
+2021-05-04T18:39:07.6818982+02:00:2021-05-04T18:39:07.6817625+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyUsernameIs("isa2") (0,0s)
+2021-05-04T18:39:07.6821819+02:00:2021-05-04T18:39:07.6820733+02:00:Thread#0:B:And mon mot de passe est "toto"
+2021-05-04T18:39:07.6824468+02:00:2021-05-04T18:39:07.6823347+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyPasswordIs("toto") (0,0s)
+2021-05-04T18:39:07.6826506+02:00:2021-05-04T18:39:07.6825539+02:00:Thread#0:B:When J'essaie de me connecter avec mon compte
+2021-05-04T18:39:07.6828983+02:00:2021-05-04T18:39:07.6827975+02:00:Thread#0:T:done: LocationStepDefinitions.WhenITryToConnectToMyAccount() (0,0s)
+2021-05-04T18:39:07.6831015+02:00:2021-05-04T18:39:07.6830086+02:00:Thread#0:B:Then la connexion est etabli
+2021-05-04T18:39:07.6846924+02:00:2021-05-04T18:39:07.6845715+02:00:Thread#0:T:error: Expected this._target.UserConnected to be true, but found False. (0,0s)
+2021-05-04T18:39:07.6854092+02:00:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2021-05-04T18:39:07.6855960+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-05-04T18:39:07.6856049+02:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2021-05-04T18:39:07.6856071+02:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-05-04T18:39:07.6856281+02:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-05-04T18:39:07.6856306+02:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-05-04T18:39:07.6856320+02:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-05-04T18:39:07.6856334+02:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-05-04T18:39:07.6856406+02:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-05-04T18:39:07.6856460+02:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-05-04T18:39:07.6867966+02:00:Thread#0: Test #5/0 is finished on thread #0 as Failed within 0,0084613 seconds
+2021-05-04T18:39:07.6871930+02:00:Thread#0: Test #5/1 is started on thread #0
+2021-05-04T18:39:07.6882183+02:00:2021-05-04T18:39:07.6879155+02:00:Thread#0:B:Given suivant les clients existants
+2021-05-04T18:39:07.6885632+02:00:2021-05-04T18:39:07.6883906+02:00:Thread#0:B:  --- table step argument ---
+2021-05-04T18:39:07.6888347+02:00:2021-05-04T18:39:07.6886995+02:00:Thread#0:B:  | identifiant | mdp  |
+2021-05-04T18:39:07.6890845+02:00:2021-05-04T18:39:07.6889400+02:00:Thread#0:B:  | isa         | toto |
+2021-05-04T18:39:07.6895820+02:00:2021-05-04T18:39:07.6894107+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-05-04T18:39:07.6899057+02:00:2021-05-04T18:39:07.6897493+02:00:Thread#0:B:Given mon identifiant est "isa2"
+2021-05-04T18:39:07.6902707+02:00:2021-05-04T18:39:07.6901544+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyUsernameIs("isa2") (0,0s)
+2021-05-04T18:39:07.6904911+02:00:2021-05-04T18:39:07.6903804+02:00:Thread#0:B:And mon mot de passe est "toto"
+2021-05-04T18:39:07.6907610+02:00:2021-05-04T18:39:07.6906585+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyPasswordIs("toto") (0,0s)
+2021-05-04T18:39:07.6909988+02:00:2021-05-04T18:39:07.6908856+02:00:Thread#0:B:When J'essaie de me connecter avec mon compte
+2021-05-04T18:39:07.6912502+02:00:2021-05-04T18:39:07.6911513+02:00:Thread#0:T:done: LocationStepDefinitions.WhenITryToConnectToMyAccount() (0,0s)
+2021-05-04T18:39:07.6914508+02:00:2021-05-04T18:39:07.6913595+02:00:Thread#0:B:Then la connexion est etabli
+2021-05-04T18:39:07.6924641+02:00:2021-05-04T18:39:07.6923525+02:00:Thread#0:T:error: Expected this._target.UserConnected to be true, but found False. (0,0s)
+2021-05-04T18:39:07.6931682+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-05-04T18:39:07.6931770+02:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2021-05-04T18:39:07.6931791+02:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-05-04T18:39:07.6931916+02:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-05-04T18:39:07.6931941+02:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-05-04T18:39:07.6932016+02:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-05-04T18:39:07.6932033+02:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-05-04T18:39:07.6932105+02:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-05-04T18:39:07.6932156+02:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-05-04T18:39:07.6942349+02:00:Thread#0: Test #5/1 is finished on thread #0 as Failed within 0,0070209 seconds
+2021-05-04T18:39:07.6944905+02:00:Thread#0: Test #5/2 is started on thread #0
+2021-05-04T18:39:07.6949502+02:00:2021-05-04T18:39:07.6947555+02:00:Thread#0:B:Given suivant les clients existants
+2021-05-04T18:39:07.6952206+02:00:2021-05-04T18:39:07.6950727+02:00:Thread#0:B:  --- table step argument ---
+2021-05-04T18:39:07.6954989+02:00:2021-05-04T18:39:07.6953530+02:00:Thread#0:B:  | identifiant | mdp  |
+2021-05-04T18:39:07.6957760+02:00:2021-05-04T18:39:07.6956304+02:00:Thread#0:B:  | isa         | toto |
+2021-05-04T18:39:07.6962454+02:00:2021-05-04T18:39:07.6960649+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-05-04T18:39:07.6964904+02:00:2021-05-04T18:39:07.6963992+02:00:Thread#0:B:Given mon identifiant est "isa2"
+2021-05-04T18:39:07.6967778+02:00:2021-05-04T18:39:07.6966710+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyUsernameIs("isa2") (0,0s)
+2021-05-04T18:39:07.6969746+02:00:2021-05-04T18:39:07.6968795+02:00:Thread#0:B:And mon mot de passe est "toto"
+2021-05-04T18:39:07.6972238+02:00:2021-05-04T18:39:07.6971172+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyPasswordIs("toto") (0,0s)
+2021-05-04T18:39:07.6974418+02:00:2021-05-04T18:39:07.6973364+02:00:Thread#0:B:When J'essaie de me connecter avec mon compte
+2021-05-04T18:39:07.6977331+02:00:2021-05-04T18:39:07.6976007+02:00:Thread#0:T:done: LocationStepDefinitions.WhenITryToConnectToMyAccount() (0,0s)
+2021-05-04T18:39:07.6980262+02:00:2021-05-04T18:39:07.6978964+02:00:Thread#0:B:Then la connexion est etabli
+2021-05-04T18:39:07.6991080+02:00:2021-05-04T18:39:07.6989581+02:00:Thread#0:T:error: Expected this._target.UserConnected to be true, but found False. (0,0s)
+2021-05-04T18:39:07.6999204+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-05-04T18:39:07.6999314+02:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2021-05-04T18:39:07.6999341+02:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-05-04T18:39:07.6999485+02:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-05-04T18:39:07.6999510+02:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-05-04T18:39:07.6999524+02:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2021-05-04T18:39:07.6999541+02:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-05-04T18:39:07.6999617+02:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-05-04T18:39:07.6999675+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-05-04T18:39:07.7009157+02:00:Thread#0: Test #5/2 is finished on thread #0 as Failed within 0,0064045 seconds
+2021-05-04T18:39:07.7011584+02:00:Thread#0: Test #6/0 is started on thread #0
+2021-05-04T18:39:07.7024864+02:00:2021-05-04T18:39:07.7022145+02:00:Thread#0:B:Given suivant les clients existants
+2021-05-04T18:39:07.7028595+02:00:2021-05-04T18:39:07.7026807+02:00:Thread#0:B:  --- table step argument ---
+2021-05-04T18:39:07.7031356+02:00:2021-05-04T18:39:07.7030021+02:00:Thread#0:B:  | identifiant | mdp  |
+2021-05-04T18:39:07.7033865+02:00:2021-05-04T18:39:07.7032713+02:00:Thread#0:B:  | isa         | toto |
+2021-05-04T18:39:07.7037538+02:00:2021-05-04T18:39:07.7036243+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-05-04T18:39:07.7040133+02:00:2021-05-04T18:39:07.7039057+02:00:Thread#0:B:Given mon identifiant est "isa2"
+2021-05-04T18:39:07.7043087+02:00:2021-05-04T18:39:07.7042031+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyUsernameIs("isa2") (0,0s)
+2021-05-04T18:39:07.7047587+02:00:2021-05-04T18:39:07.7045983+02:00:Thread#0:B:And mon mot de passe est "toto2"
+2021-05-04T18:39:07.7068970+02:00:2021-05-04T18:39:07.7050175+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyPasswordIs("toto2") (0,0s)
+2021-05-04T18:39:07.7072174+02:00:2021-05-04T18:39:07.7071047+02:00:Thread#0:B:When J'essaie de me connecter avec mon compte
+2021-05-04T18:39:07.7075340+02:00:2021-05-04T18:39:07.7074226+02:00:Thread#0:T:done: LocationStepDefinitions.WhenITryToConnectToMyAccount() (0,0s)
+2021-05-04T18:39:07.7078338+02:00:2021-05-04T18:39:07.7076935+02:00:Thread#0:B:Then la connexion est refusée
+2021-05-04T18:39:07.7083213+02:00:2021-05-04T18:39:07.7082019+02:00:Thread#0:T:done: LocationStepDefinitions.ThenTheConnectionIsRefused() (0,0s)
+2021-05-04T18:39:07.7085666+02:00:2021-05-04T18:39:07.7084534+02:00:Thread#0:B:And le message d'erreur est "Mot de passe incorrect"
+2021-05-04T18:39:07.7129201+02:00:2021-05-04T18:39:07.7127042+02:00:Thread#0:T:error: Expected this._lastErrorMessage to be 
+2021-05-04T18:39:07.7131705+02:00:2021-05-04T18:39:07.7130530+02:00:Thread#0:T:"Mot de passe incorrect" with a length of 22, but 
+2021-05-04T18:39:07.7133864+02:00:2021-05-04T18:39:07.7132594+02:00:Thread#0:T:"Username not recognized" has a length of 23, differs near "Use" (index 0). (0,0s)
+2021-05-04T18:39:07.7139338+02:00:Cancelling because configured number of failures reached
+2021-05-04T18:39:07.7167657+02:00:Thread#0: Test #6/0 is finished on thread #0 as Failed within 0,0155835 seconds
+2021-05-04T18:39:07.7222860+02:00:2021-05-04T18:39:07.7220598+02:00:Got Deinitialize Signal
+2021-05-04T18:39:07.7248267+02:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-05-04T18:39:07.7253377+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-05-04T18:39:07.7262459+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-05-04T18:39:07.7278079+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=fr-FR, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:39:07.7278241+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-05-04T18:39:07.7278282+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-05-04T18:39:07.7278331+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:07.7278357+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-05-04T18:39:07.7278708+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-05-04T18:39:07.7279021+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-05-04T18:39:07.7279077+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-05-04T18:39:07.7279482+02:00:Tfm: netcoreapp3.1
+2021-05-04T18:39:07.7279507+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:39:07.7279527+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-05-04T18:39:07.7279906+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-05-04T18:39:07.7280231+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-04T18:39:07.7285801+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-04T18:39:07.7285867+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\System.Diagnostics.Process.resources.dll'
+2021-05-04T18:39:07.7286339+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\System.Diagnostics.Process.resources.exe'
+2021-05-04T18:39:07.7286666+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-04T18:39:07.7287668+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-04T18:39:07.7287723+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\System.Diagnostics.Process.resources.dll'
+2021-05-04T18:39:07.7288078+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\System.Diagnostics.Process.resources.exe'
+2021-05-04T18:39:07.7288393+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-04T18:39:07.7289563+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-04T18:39:07.7289615+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\System.Diagnostics.Process.resources.dll'
+2021-05-04T18:39:07.7290039+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\System.Diagnostics.Process.resources.exe'
+2021-05-04T18:39:07.7290362+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-04T18:39:07.7292701+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-04T18:39:07.7344291+02:00:Thread#-1:Scheduler: get next test for thread -1
+2021-05-04T18:39:07.7344490+02:00:Thread#:Scheduler: at the end of normal test queue
+2021-05-04T18:39:07.7344515+02:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-05-04T18:39:07.7387382+02:00;Thread#12;Info;test run finished
+2021-05-04T18:39:07.7389538+02:00;Thread#12;Info;publishing test results
+2021-05-04T18:39:07.7390926+02:00;Thread#12;Info;Not publishing results.
+2021-05-04T18:39:07.7391500+02:00;Thread#12;Info;test results published
+2021-05-04T18:39:07.7392023+02:00;Thread#12;Info;generating reports
+2021-05-04T18:39:07.8189776+02:00;Thread#12;Info;Starting external report generation process
+2021-05-04T18:39:08.7454962+02:00;Thread#12;Info;Successfully generated reports.
+2021-05-04T18:39:08.7473295+02:00;Thread#12;Info;Successfully generated reports
+2021-05-04T18:39:08.7525139+02:00:Total: 3 (test executions: 7)
+2021-05-04T18:39:08.7537847+02:00:Succeeded: 0
+2021-05-04T18:39:08.7540062+02:00:Ignored: 0
+2021-05-04T18:39:08.7542012+02:00:Pending: 0
+2021-05-04T18:39:08.7542073+02:00:Skipped: 0
+2021-05-04T18:39:08.7544049+02:00:Failed: 3
+2021-05-04T18:39:08.7588161+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-05-04T18:39:08.7589182+02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\isa\source\repos\Location\TestResults\Unnamed project__2021-05-04T183905.html'
+========== End of log file ==========
