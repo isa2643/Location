@@ -8,6 +8,10 @@ namespace Location
     {
         List<Client> Clients { get; }
 
-        //.... vehiclues , reservation..
+        List<Vehicule> Vehicules { get; }
+
+        List<Reservation> Reservations { get; }
+
+        //.... vehicules , reservation..
     }
 }

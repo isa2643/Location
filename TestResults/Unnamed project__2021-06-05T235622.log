@@ -1,0 +1,423 @@
+﻿2021-06-05T23:56:22.8108232+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-06-05T23:56:22.8110244+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.7.3 in Framework netcore31 in x64 mode execution started
+2021-06-05T23:56:22.8110292+02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-06-05T23:56:22.8141021+02:00;VSTestExecutionThread;Info;Current UserName: 'isa', MachineName: 'I6700K'
+2021-06-05T23:56:22.8530320+02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-06-05T23:56:22.8535261+02:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\isa\source\repos\Location\TestResults" (default)
+2021-06-05T23:56:22.8537570+02:00;VSTestExecutionThread;Info;Profile: 
+2021-06-05T23:56:22.9146748+02:00;VSTestExecutionThread;Info;Log file path: C:\Users\isa\source\repos\Location\TestResults\Unnamed project__2021-06-05T235622.log
+2021-06-05T23:56:22.9221779+02:00;Thread#12;Info;Checking activation
+2021-06-05T23:56:22.9970857+02:00;Thread#12;Info;Activated.
+2021-06-05T23:56:22.9973613+02:00;Thread#12;Info;Activation check completed
+2021-06-05T23:56:22.9974439+02:00;Thread#12;Info;Starting test run
+2021-06-05T23:56:23.2034385+02:00;Thread#12;Info;Discovering target: Default
+2021-06-05T23:56:23.2035902+02:00;Thread#12;Info;Discovering tests from assembly: C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-06-05T23:56:23.2791903+02:00;Thread#12;Info;Discovered tests from assembly: C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-06-05T23:56:23.2805178+02:00:Test Suite Dump
+2021-06-05T23:56:23.2823815+02:00:#0: Unnamed project/ - 
+2021-06-05T23:56:23.2824004+02:00:#1: Default - 
+2021-06-05T23:56:23.2824023+02:00:#2: SpecFlowLocation - 
+2021-06-05T23:56:23.2824037+02:00:#3: Location - 
+2021-06-05T23:56:23.2837448+02:00:#12: (9) Connection client - utilisateur reconnu - Age 21 - Reservation d'un véhicule avec la date de début et la date de fin - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:(9)+Connection+client+-+utilisateur+reconnu+-+Age+21+-+Reservation+d%27un+v%c3%a9hicule+avec+la+date+de+d%c3%a9but+et+la+date+de+fin
+2021-06-05T23:56:23.2837921+02:00:End: Test Suite Dump
+2021-06-05T23:56:23.2955020+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-05T23:56:23.2971089+02:00:Thread#:Scheduler: testitem #12 from normal test queue 
+2021-06-05T23:56:23.2972115+02:00:Thread#0:Scheduler: considering testitem #12 for thread 0
+2021-06-05T23:56:23.3000030+02:00:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-05T23:56:23.3000209+02:00:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2021-06-05T23:56:23.3000227+02:00:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2021-06-05T23:56:23.3000254+02:00:Thread#0:Scheduler: using testitem #12 for thread 0
+2021-06-05T23:56:23.3005955+02:00:Thread#0:Scheduler: Test #12 is scheduled for thread
+2021-06-05T23:56:23.3018414+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-05T23:56:23.3036739+02:00:Thread #0: creating new test thread executor for SpecFlowLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-06-05T23:56:23.3056261+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-06-05T23:56:23.3057946+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-06-05T23:56:23.3075210+02:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-06-05T23:56:23.3091363+02:00:starting Out Of Process Executor
+2021-06-05T23:56:23.3110119+02:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-05T23:56:23.3154163+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-06-05T23:56:23.3154347+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-06-05T23:56:23.3162811+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:23.3165761+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-06-05T23:56:23.3166884+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-06-05T23:56:23.3167337+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:23.3169092+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-05T23:56:23.3173065+02:00:Tfm: netcoreapp3.1
+2021-06-05T23:56:23.3173154+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-05T23:56:23.3173169+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-06-05T23:56:23.3173915+02:00:[AssemblyCache] Found file 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-06-05T23:56:23.3178234+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-06-05T23:56:23.3182997+02:00:Starting callback TCP Rpc server
+2021-06-05T23:56:23.3322645+02:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-06-05T23:56:23.3323056+02:00:Started callback TCP Rpc server on port 32768
+2021-06-05T23:56:23.3323105+02:00:Starting logger TCP Rpc server
+2021-06-05T23:56:23.3346061+02:00:Asynchronously starting background TCP Rpc Server on port 32769
+2021-06-05T23:56:23.3346226+02:00:Started logger TCP Rpc server on port 32769
+2021-06-05T23:56:23.4027874+02:00:Executing test executor at 'dotnet' 'exec "C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 34424 --uniqueId "2021-06-05T235622" --outputFolder "C:\Users\isa\source\repos\Location\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:23.4123565+02:00:Executor with PID 31624 has been started successfully.
+2021-06-05T23:56:23.4154250+02:00:Out of Process Executor 31624 started
+2021-06-05T23:56:23.4154437+02:00:Waiting for endpoint
+2021-06-05T23:56:23.6806793+02:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fr-FR, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-05T23:56:23.6807957+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2021-06-05T23:56:23.6808041+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2021-06-05T23:56:23.6808135+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:23.6808164+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-06-05T23:56:23.6808848+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-06-05T23:56:23.6809511+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:23.6809638+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-05T23:56:23.6810613+02:00:Tfm: netcoreapp3.1
+2021-06-05T23:56:23.6810688+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-05T23:56:23.6810724+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-06-05T23:56:23.6811388+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-06-05T23:56:23.6812207+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-05T23:56:23.6894500+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-05T23:56:23.6894656+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\StreamJsonRpc.resources.dll'
+2021-06-05T23:56:23.6895265+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\StreamJsonRpc.resources.exe'
+2021-06-05T23:56:23.6895655+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-05T23:56:23.6897038+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-05T23:56:23.6897097+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\StreamJsonRpc.resources.dll'
+2021-06-05T23:56:23.6897493+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\StreamJsonRpc.resources.exe'
+2021-06-05T23:56:23.6897852+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-05T23:56:23.6899000+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-05T23:56:23.6899057+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\StreamJsonRpc.resources.dll'
+2021-06-05T23:56:23.6899424+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\StreamJsonRpc.resources.exe'
+2021-06-05T23:56:23.6899776+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-05T23:56:23.6906209+02:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-05T23:56:23.6912952+02:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-05T23:56:23.6913044+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-06-05T23:56:23.6913070+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-06-05T23:56:23.6913105+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:23.6913195+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-06-05T23:56:23.6913644+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-06-05T23:56:23.6914093+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:23.6914134+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-05T23:56:23.6914292+02:00:Tfm: netcoreapp3.1
+2021-06-05T23:56:23.6914322+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-05T23:56:23.6914355+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-06-05T23:56:23.6915078+02:00:[AssemblyCache] Found file 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-06-05T23:56:23.6920816+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-06-05T23:56:23.8652871+02:00:Remote executor port received: 32770
+2021-06-05T23:56:23.8655433+02:00:Creating executor TCP client on port 32770
+2021-06-05T23:56:23.8658751+02:00:Created executor TCP client on port 32770
+2021-06-05T23:56:23.8658821+02:00:Connecting to remote executor TCP server
+2021-06-05T23:56:23.8667033+02:00:Connected remote executor TCP server
+2021-06-05T23:56:23.8668569+02:00:trying to connect to Out of Process Executor the 1 attempt
+2021-06-05T23:56:23.8668658+02:00:Connection to Out of Process Executor established in the 1 attempt
+2021-06-05T23:56:23.9760873+02:00:2021-06-05T23:56:23.9753057+02:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll on test thread #0
+2021-06-05T23:56:23.9800212+02:00:Endpoint 31624 started
+2021-06-05T23:56:23.9939116+02:00:2021-06-05T23:56:23.9937065+02:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-06-05T23:56:24.0812028+02:00:2021-06-05T23:56:24.0809268+02:00:Assembly resolving TechTalk.SpecFlow, Version=3.7.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-06-05T23:56:24.0834684+02:00:2021-06-05T23:56:24.0832649+02:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-06-05T23:56:24.0856530+02:00:2021-06-05T23:56:24.0854660+02:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\isa\.nuget\packages\specflow\3.7.13\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-06-05T23:56:24.1657107+02:00:2021-06-05T23:56:24.1654621+02:00:Thread#0:T:-> Loading plugin C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-06-05T23:56:24.1664491+02:00:2021-06-05T23:56:24.1663247+02:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-06-05T23:56:24.1670144+02:00:2021-06-05T23:56:24.1665689+02:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-06-05T23:56:24.1679584+02:00:2021-06-05T23:56:24.1676482+02:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\isa\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-06-05T23:56:24.2044981+02:00:2021-06-05T23:56:24.2042587+02:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-06-05T23:56:24.2047651+02:00:2021-06-05T23:56:24.2046450+02:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-06-05T23:56:24.2051406+02:00:2021-06-05T23:56:24.2050101+02:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\isa\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-06-05T23:56:24.2105803+02:00:2021-06-05T23:56:24.2104016+02:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-06-05T23:56:24.2108674+02:00:2021-06-05T23:56:24.2107541+02:00:Thread#0:T:-> Loading plugin C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-06-05T23:56:24.2123994+02:00:2021-06-05T23:56:24.2122657+02:00:Assembly resolving LivingDoc.Dtos, Version=3.7.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-05T23:56:24.2126148+02:00:2021-06-05T23:56:24.2125155+02:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-06-05T23:56:24.2130540+02:00:2021-06-05T23:56:24.2128996+02:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\isa\.nuget\packages\specflow.plus.livingdocplugin\3.7.141\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-06-05T23:56:24.2151960+02:00:2021-06-05T23:56:24.2149883+02:00:Thread#0:T:-> Loading plugin C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-06-05T23:56:24.2195276+02:00:2021-06-05T23:56:24.2192890+02:00:Thread#0:T:-> Using default config
+2021-06-05T23:56:24.2275099+02:00:2021-06-05T23:56:24.2273430+02:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-06-05T23:56:24.2277377+02:00:2021-06-05T23:56:24.2276261+02:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-06-05T23:56:24.2281329+02:00:2021-06-05T23:56:24.2280114+02:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\isa\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-06-05T23:56:24.2289351+02:00:2021-06-05T23:56:24.2288161+02:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-06-05T23:56:24.2292424+02:00:2021-06-05T23:56:24.2290772+02:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-06-05T23:56:24.2298489+02:00:2021-06-05T23:56:24.2296618+02:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\isa\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-06-05T23:56:24.2363773+02:00:2021-06-05T23:56:24.2361423+02:00:Assembly resolving Location, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-05T23:56:24.2366736+02:00:2021-06-05T23:56:24.2365387+02:00:[AssemblyCache] Trying to resolve 'Location' from .deps.json file
+2021-06-05T23:56:24.2376298+02:00:2021-06-05T23:56:24.2375154+02:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'Location', found in dependency map, but unable to resolve a path in ['Location.dll']
+2021-06-05T23:56:24.2378672+02:00:2021-06-05T23:56:24.2377625+02:00:[AssemblyCache] Could not resolve 'Location' from .deps.json
+2021-06-05T23:56:24.2390241+02:00:2021-06-05T23:56:24.2388739+02:00:[AssemblyCache] Trying to resolve 'Location' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:24.2443152+02:00:2021-06-05T23:56:24.2440621+02:00:[AssemblyCache] Trying to resolve 'Location' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Location.dll'
+2021-06-05T23:56:24.2447866+02:00:2021-06-05T23:56:24.2446281+02:00:[AssemblyCache] Found file 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Location.dll' for assembly 'Location'
+2021-06-05T23:56:24.2453716+02:00:2021-06-05T23:56:24.2452466+02:00:[AssemblyCache] Resolved 'Location' to C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Location.dll
+2021-06-05T23:56:24.2464448+02:00:2021-06-05T23:56:24.2462820+02:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-05T23:56:24.2467441+02:00:2021-06-05T23:56:24.2466031+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-06-05T23:56:24.2473225+02:00:2021-06-05T23:56:24.2471863+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\isa\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-06-05T23:56:24.2752339+02:00:2021-06-05T23:56:24.2749688+02:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-06-05T23:56:24.2755893+02:00:2021-06-05T23:56:24.2754405+02:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-06-05T23:56:24.2760241+02:00:2021-06-05T23:56:24.2758691+02:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\isa\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-06-05T23:56:24.5785358+02:00:Thread#0: Test #12/0 is started on thread #0
+2021-06-05T23:56:24.6081613+02:00:2021-06-05T23:56:24.6071370+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-05T23:56:24.6088621+02:00:2021-06-05T23:56:24.6085825+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.6101447+02:00:2021-06-05T23:56:24.6097967+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-05T23:56:24.6105269+02:00:2021-06-05T23:56:24.6103624+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-05T23:56:24.6108996+02:00:2021-06-05T23:56:24.6106733+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-05T23:56:24.6113733+02:00:2021-06-05T23:56:24.6111414+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 2000    | Jun 15, 2015        | 12A456789101114 |
+2021-06-05T23:56:24.6355519+02:00:2021-06-05T23:56:24.6352666+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-05T23:56:24.6379656+02:00:2021-06-05T23:56:24.6376081+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-05T23:56:24.6383540+02:00:2021-06-05T23:56:24.6381513+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.6386603+02:00:2021-06-05T23:56:24.6384952+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-05T23:56:24.6389771+02:00:2021-06-05T23:56:24.6388029+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-05T23:56:24.6392572+02:00:2021-06-05T23:56:24.6390953+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-05T23:56:24.6395299+02:00:2021-06-05T23:56:24.6393926+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-05T23:56:24.6397895+02:00:2021-06-05T23:56:24.6396553+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-05T23:56:24.6420504+02:00:2021-06-05T23:56:24.6418921+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-05T23:56:24.6423984+02:00:2021-06-05T23:56:24.6422660+02:00:Thread#0:B:Given Le client s'identifie
+2021-06-05T23:56:24.6426476+02:00:2021-06-05T23:56:24.6425302+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.6428856+02:00:2021-06-05T23:56:24.6427675+02:00:Thread#0:B:  | identifiant | mdp   | prenom | nom  | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-05T23:56:24.6431472+02:00:2021-06-05T23:56:24.6430299+02:00:Thread#0:B:  | clark       | super | clark  | kent | Jun 15, 2000    | Jun 15, 2015        | 12A456789101114 |
+2021-06-05T23:56:24.6439942+02:00:2021-06-05T23:56:24.6438757+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLeClientSIdentifie(<table>) (0,0s)
+2021-06-05T23:56:24.6442840+02:00:2021-06-05T23:56:24.6441731+02:00:Thread#0:B:And les dates de la reservation
+2021-06-05T23:56:24.6445219+02:00:2021-06-05T23:56:24.6444036+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.6447852+02:00:2021-06-05T23:56:24.6446527+02:00:Thread#0:B:  | datedebut    | datefin      |
+2021-06-05T23:56:24.6450130+02:00:2021-06-05T23:56:24.6448967+02:00:Thread#0:B:  | Jun 21, 2022 | Jun 22, 2022 |
+2021-06-05T23:56:24.6464296+02:00:2021-06-05T23:56:24.6462916+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLesDatesDeLaReservation(<table>) (0,0s)
+2021-06-05T23:56:24.6469083+02:00:2021-06-05T23:56:24.6467397+02:00:Thread#0:B:And la liste des vehicules disponibles est presentee au client
+2021-06-05T23:56:24.6472145+02:00:2021-06-05T23:56:24.6470580+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.6475341+02:00:2021-06-05T23:56:24.6473504+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-05T23:56:24.6478129+02:00:2021-06-05T23:56:24.6476759+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-05T23:56:24.6480969+02:00:2021-06-05T23:56:24.6479429+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-05T23:56:24.6483903+02:00:2021-06-05T23:56:24.6482195+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-05T23:56:24.6486563+02:00:2021-06-05T23:56:24.6485164+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-05T23:56:24.6513645+02:00:2021-06-05T23:56:24.6510911+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLaListeDesVehiculesDisponiblesEstPresenteeAuClient(<table>) (0,0s)
+2021-06-05T23:56:24.6523726+02:00:2021-06-05T23:56:24.6518828+02:00:Thread#0:B:When le client selectionne un véhicule disponible
+2021-06-05T23:56:24.6526109+02:00:2021-06-05T23:56:24.6524940+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.6528456+02:00:2021-06-05T23:56:24.6527221+02:00:Thread#0:B:  | immatriculation | marque | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-05T23:56:24.6531341+02:00:2021-06-05T23:56:24.6530087+02:00:Thread#0:B:  | cc-789-cc       | dacia  | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | oui         |
+2021-06-05T23:56:24.6542662+02:00:2021-06-05T23:56:24.6541148+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLeClientSelectionneUnVehiculeDisponible(<table>) (0,0s)
+2021-06-05T23:56:24.6547712+02:00:2021-06-05T23:56:24.6546356+02:00:Thread#0:B:Then l'estimation de km est de 150
+2021-06-05T23:56:24.6567628+02:00:2021-06-05T23:56:24.6565524+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLEstimationDeKmEstDe(150) (0,0s)
+2021-06-05T23:56:24.6572767+02:00:2021-06-05T23:56:24.6569756+02:00:Thread#0:B:And Message informant le client : La reservation a été crée
+2021-06-05T23:56:24.6581901+02:00:2021-06-05T23:56:24.6579902+02:00:Assembly resolving FluentAssertions, Version=5.10.3.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a
+2021-06-05T23:56:24.6584730+02:00:2021-06-05T23:56:24.6583296+02:00:[AssemblyCache] Trying to resolve 'FluentAssertions' from .deps.json file
+2021-06-05T23:56:24.6589904+02:00:2021-06-05T23:56:24.6588229+02:00:[AssemblyCache] Resolved 'FluentAssertions' to 'C:\Users\isa\.nuget\packages\fluentassertions\5.10.3\lib\netcoreapp2.1\FluentAssertions.dll'
+2021-06-05T23:56:24.6617537+02:00:2021-06-05T23:56:24.6615605+02:00:Thread#0:T:Age du client : 20
+2021-06-05T23:56:24.7199344+02:00:2021-06-05T23:56:24.7196788+02:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-06-05T23:56:24.7202642+02:00:2021-06-05T23:56:24.7201002+02:00:[AssemblyCache] Trying to resolve 'nspec' from .deps.json file
+2021-06-05T23:56:24.7205072+02:00:2021-06-05T23:56:24.7203793+02:00:[AssemblyCache] Could not resolve 'nspec' from .deps.json
+2021-06-05T23:56:24.7207551+02:00:2021-06-05T23:56:24.7206326+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:24.7210049+02:00:2021-06-05T23:56:24.7208704+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\nspec.dll'
+2021-06-05T23:56:24.7213332+02:00:2021-06-05T23:56:24.7212072+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\nspec.exe'
+2021-06-05T23:56:24.7216137+02:00:2021-06-05T23:56:24.7214927+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:24.7220837+02:00:2021-06-05T23:56:24.7219641+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-05T23:56:24.7225777+02:00:2021-06-05T23:56:24.7224694+02:00:Tfm: netcoreapp3.1
+2021-06-05T23:56:24.7228074+02:00:2021-06-05T23:56:24.7226979+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-05T23:56:24.7230566+02:00:2021-06-05T23:56:24.7229083+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\nspec.dll'
+2021-06-05T23:56:24.7233377+02:00:2021-06-05T23:56:24.7232239+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\nspec.exe'
+2021-06-05T23:56:24.7236040+02:00:2021-06-05T23:56:24.7234954+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-05T23:56:24.7290101+02:00:2021-06-05T23:56:24.7287822+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-05T23:56:24.7292867+02:00:2021-06-05T23:56:24.7291408+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\nspec.dll'
+2021-06-05T23:56:24.7295978+02:00:2021-06-05T23:56:24.7294836+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\nspec.exe'
+2021-06-05T23:56:24.7298766+02:00:2021-06-05T23:56:24.7297663+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-05T23:56:24.7303773+02:00:2021-06-05T23:56:24.7302421+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-05T23:56:24.7306337+02:00:2021-06-05T23:56:24.7304868+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\nspec.dll'
+2021-06-05T23:56:24.7310330+02:00:2021-06-05T23:56:24.7308369+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\nspec.exe'
+2021-06-05T23:56:24.7313308+02:00:2021-06-05T23:56:24.7311982+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-05T23:56:24.7319168+02:00:2021-06-05T23:56:24.7317003+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-05T23:56:24.7323669+02:00:2021-06-05T23:56:24.7321625+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\nspec.dll'
+2021-06-05T23:56:24.7329295+02:00:2021-06-05T23:56:24.7326892+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\nspec.exe'
+2021-06-05T23:56:24.7332953+02:00:2021-06-05T23:56:24.7331459+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-05T23:56:24.7411891+02:00:2021-06-05T23:56:24.7409486+02:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-06-05T23:56:24.7472651+02:00:2021-06-05T23:56:24.7469722+02:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-06-05T23:56:24.7543261+02:00:2021-06-05T23:56:24.7540760+02:00:Assembly resolving xunit.assert, Culture=neutral, PublicKeyToken=null
+2021-06-05T23:56:24.7546001+02:00:2021-06-05T23:56:24.7544724+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' from .deps.json file
+2021-06-05T23:56:24.7548089+02:00:2021-06-05T23:56:24.7547037+02:00:[AssemblyCache] Could not resolve 'xunit.assert' from .deps.json
+2021-06-05T23:56:24.7550261+02:00:2021-06-05T23:56:24.7549176+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:24.7552406+02:00:2021-06-05T23:56:24.7551403+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\xunit.assert.dll'
+2021-06-05T23:56:24.7555329+02:00:2021-06-05T23:56:24.7554171+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\xunit.assert.exe'
+2021-06-05T23:56:24.7557941+02:00:2021-06-05T23:56:24.7556881+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:24.7560077+02:00:2021-06-05T23:56:24.7559035+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-05T23:56:24.7562171+02:00:2021-06-05T23:56:24.7561208+02:00:Tfm: netcoreapp3.1
+2021-06-05T23:56:24.7564382+02:00:2021-06-05T23:56:24.7563266+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-05T23:56:24.7566947+02:00:2021-06-05T23:56:24.7565571+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\xunit.assert.dll'
+2021-06-05T23:56:24.7569701+02:00:2021-06-05T23:56:24.7568597+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\xunit.assert.exe'
+2021-06-05T23:56:24.7572705+02:00:2021-06-05T23:56:24.7571494+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-05T23:56:24.7579604+02:00:2021-06-05T23:56:24.7578495+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-05T23:56:24.7581717+02:00:2021-06-05T23:56:24.7580659+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\xunit.assert.dll'
+2021-06-05T23:56:24.7584786+02:00:2021-06-05T23:56:24.7583698+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\xunit.assert.exe'
+2021-06-05T23:56:24.7587663+02:00:2021-06-05T23:56:24.7586519+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-05T23:56:24.7590981+02:00:2021-06-05T23:56:24.7589924+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-05T23:56:24.7593608+02:00:2021-06-05T23:56:24.7592069+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\xunit.assert.dll'
+2021-06-05T23:56:24.7596828+02:00:2021-06-05T23:56:24.7595587+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\xunit.assert.exe'
+2021-06-05T23:56:24.7599348+02:00:2021-06-05T23:56:24.7598268+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-05T23:56:24.7602738+02:00:2021-06-05T23:56:24.7601667+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-05T23:56:24.7604864+02:00:2021-06-05T23:56:24.7603812+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\xunit.assert.dll'
+2021-06-05T23:56:24.7607737+02:00:2021-06-05T23:56:24.7606587+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\xunit.assert.exe'
+2021-06-05T23:56:24.7610391+02:00:2021-06-05T23:56:24.7609312+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-05T23:56:24.7701121+02:00:2021-06-05T23:56:24.7698622+02:00:Thread#0:T:error: Expected m to be 
+2021-06-05T23:56:24.7703641+02:00:2021-06-05T23:56:24.7702467+02:00:Thread#0:T:"La reservation a été crée" with a length of 25, but 
+2021-06-05T23:56:24.7710084+02:00:2021-06-05T23:56:24.7704875+02:00:Thread#0:T:"La reservation n'a pas pu être crée : vous devez avoir plus de 25 ans pour conduire le véhicule sélectionné. Il a une puissance fiscale de plus de 13 cheavaux" has a length of 158, differs near "n'a" (index 15). (0,1s)
+2021-06-05T23:56:24.7792319+02:00:Thread#0:TestItem#12:Scheduler: reschedule tests for testitem #12
+2021-06-05T23:56:24.7807693+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-05T23:56:24.7808172+02:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #12
+2021-06-05T23:56:24.7808219+02:00:Thread#0:Scheduler: considering testitem #12 for thread 0
+2021-06-05T23:56:24.7808663+02:00:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-05T23:56:24.7808700+02:00:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2021-06-05T23:56:24.7808714+02:00:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2021-06-05T23:56:24.7808727+02:00:Thread#0:Scheduler: using testitem #12 for thread 0
+2021-06-05T23:56:24.7808931+02:00:Thread#0:Scheduler: Test #12 is scheduled for thread
+2021-06-05T23:56:24.7809166+02:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-06-05T23:56:24.8266442+02:00:Thread#0: Test #12/0 is finished on thread #0 as Failed within 0,247201 seconds
+2021-06-05T23:56:24.8283713+02:00:Thread#0: Test #12/1 is started on thread #0
+2021-06-05T23:56:24.8292563+02:00:2021-06-05T23:56:24.8291136+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-05T23:56:24.8295596+02:00:2021-06-05T23:56:24.8293976+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.8298041+02:00:2021-06-05T23:56:24.8296814+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-05T23:56:24.8300194+02:00:2021-06-05T23:56:24.8299016+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-05T23:56:24.8302644+02:00:2021-06-05T23:56:24.8301390+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-05T23:56:24.8305492+02:00:2021-06-05T23:56:24.8303978+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 2000    | Jun 15, 2015        | 12A456789101114 |
+2021-06-05T23:56:24.8311031+02:00:2021-06-05T23:56:24.8309018+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-05T23:56:24.8315022+02:00:2021-06-05T23:56:24.8313296+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-05T23:56:24.8318472+02:00:2021-06-05T23:56:24.8316638+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.8321302+02:00:2021-06-05T23:56:24.8319991+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-05T23:56:24.8323982+02:00:2021-06-05T23:56:24.8322716+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-05T23:56:24.8326737+02:00:2021-06-05T23:56:24.8325394+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-05T23:56:24.8329009+02:00:2021-06-05T23:56:24.8328029+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-05T23:56:24.8331303+02:00:2021-06-05T23:56:24.8330233+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-05T23:56:24.8334903+02:00:2021-06-05T23:56:24.8333786+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-05T23:56:24.8337425+02:00:2021-06-05T23:56:24.8336339+02:00:Thread#0:B:Given Le client s'identifie
+2021-06-05T23:56:24.8339445+02:00:2021-06-05T23:56:24.8338404+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.8341580+02:00:2021-06-05T23:56:24.8340508+02:00:Thread#0:B:  | identifiant | mdp   | prenom | nom  | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-05T23:56:24.8343638+02:00:2021-06-05T23:56:24.8342633+02:00:Thread#0:B:  | clark       | super | clark  | kent | Jun 15, 2000    | Jun 15, 2015        | 12A456789101114 |
+2021-06-05T23:56:24.8346858+02:00:2021-06-05T23:56:24.8345715+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLeClientSIdentifie(<table>) (0,0s)
+2021-06-05T23:56:24.8349167+02:00:2021-06-05T23:56:24.8348184+02:00:Thread#0:B:And les dates de la reservation
+2021-06-05T23:56:24.8351247+02:00:2021-06-05T23:56:24.8350239+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.8353443+02:00:2021-06-05T23:56:24.8352295+02:00:Thread#0:B:  | datedebut    | datefin      |
+2021-06-05T23:56:24.8355496+02:00:2021-06-05T23:56:24.8354443+02:00:Thread#0:B:  | Jun 21, 2022 | Jun 22, 2022 |
+2021-06-05T23:56:24.8358503+02:00:2021-06-05T23:56:24.8357415+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLesDatesDeLaReservation(<table>) (0,0s)
+2021-06-05T23:56:24.8361011+02:00:2021-06-05T23:56:24.8359952+02:00:Thread#0:B:And la liste des vehicules disponibles est presentee au client
+2021-06-05T23:56:24.8363226+02:00:2021-06-05T23:56:24.8361995+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.8366197+02:00:2021-06-05T23:56:24.8364483+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-05T23:56:24.8369412+02:00:2021-06-05T23:56:24.8367599+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-05T23:56:24.8372915+02:00:2021-06-05T23:56:24.8370891+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-05T23:56:24.8379010+02:00:2021-06-05T23:56:24.8374302+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-05T23:56:24.8382310+02:00:2021-06-05T23:56:24.8380557+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-05T23:56:24.8386740+02:00:2021-06-05T23:56:24.8385577+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLaListeDesVehiculesDisponiblesEstPresenteeAuClient(<table>) (0,0s)
+2021-06-05T23:56:24.8389662+02:00:2021-06-05T23:56:24.8388544+02:00:Thread#0:B:When le client selectionne un véhicule disponible
+2021-06-05T23:56:24.8391619+02:00:2021-06-05T23:56:24.8390562+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.8394072+02:00:2021-06-05T23:56:24.8392741+02:00:Thread#0:B:  | immatriculation | marque | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-05T23:56:24.8396148+02:00:2021-06-05T23:56:24.8395052+02:00:Thread#0:B:  | cc-789-cc       | dacia  | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | oui         |
+2021-06-05T23:56:24.8399632+02:00:2021-06-05T23:56:24.8398541+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLeClientSelectionneUnVehiculeDisponible(<table>) (0,0s)
+2021-06-05T23:56:24.8402018+02:00:2021-06-05T23:56:24.8400984+02:00:Thread#0:B:Then l'estimation de km est de 150
+2021-06-05T23:56:24.8405275+02:00:2021-06-05T23:56:24.8404226+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLEstimationDeKmEstDe(150) (0,0s)
+2021-06-05T23:56:24.8407397+02:00:2021-06-05T23:56:24.8406419+02:00:Thread#0:B:And Message informant le client : La reservation a été crée
+2021-06-05T23:56:24.8410129+02:00:2021-06-05T23:56:24.8409087+02:00:Thread#0:T:Age du client : 20
+2021-06-05T23:56:24.8430316+02:00:2021-06-05T23:56:24.8426412+02:00:Thread#0:T:error: Expected m to be 
+2021-06-05T23:56:24.8433657+02:00:2021-06-05T23:56:24.8432211+02:00:Thread#0:T:"La reservation a été crée" with a length of 25, but 
+2021-06-05T23:56:24.8435855+02:00:2021-06-05T23:56:24.8434651+02:00:Thread#0:T:"La reservation n'a pas pu être crée : vous devez avoir plus de 25 ans pour conduire le véhicule sélectionné. Il a une puissance fiscale de plus de 13 cheavaux" has a length of 158, differs near "n'a" (index 15). (0,0s)
+2021-06-05T23:56:24.8447193+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-05T23:56:24.8447341+02:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #12
+2021-06-05T23:56:24.8447364+02:00:Thread#0:Scheduler: considering testitem #12 for thread 0
+2021-06-05T23:56:24.8447577+02:00:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-05T23:56:24.8447600+02:00:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2021-06-05T23:56:24.8447667+02:00:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2021-06-05T23:56:24.8447682+02:00:Thread#0:Scheduler: using testitem #12 for thread 0
+2021-06-05T23:56:24.8447748+02:00:Thread#0:Scheduler: Test #12 is scheduled for thread
+2021-06-05T23:56:24.8447793+02:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-06-05T23:56:24.8465339+02:00:Thread#0: Test #12/1 is finished on thread #0 as Failed within 0,0181239 seconds
+2021-06-05T23:56:24.8468220+02:00:Thread#0: Test #12/2 is started on thread #0
+2021-06-05T23:56:24.8472720+02:00:2021-06-05T23:56:24.8471335+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-05T23:56:24.8475962+02:00:2021-06-05T23:56:24.8474193+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.8481030+02:00:2021-06-05T23:56:24.8478893+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-05T23:56:24.8490632+02:00:2021-06-05T23:56:24.8484662+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-05T23:56:24.8497674+02:00:2021-06-05T23:56:24.8495133+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-05T23:56:24.8501334+02:00:2021-06-05T23:56:24.8499827+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 2000    | Jun 15, 2015        | 12A456789101114 |
+2021-06-05T23:56:24.8505526+02:00:2021-06-05T23:56:24.8504325+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-05T23:56:24.8508402+02:00:2021-06-05T23:56:24.8507258+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-05T23:56:24.8510531+02:00:2021-06-05T23:56:24.8509352+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.8512520+02:00:2021-06-05T23:56:24.8511569+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-05T23:56:24.8515828+02:00:2021-06-05T23:56:24.8513622+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-05T23:56:24.8517813+02:00:2021-06-05T23:56:24.8516808+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-05T23:56:24.8519812+02:00:2021-06-05T23:56:24.8518744+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-05T23:56:24.8521932+02:00:2021-06-05T23:56:24.8520902+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-05T23:56:24.8525458+02:00:2021-06-05T23:56:24.8524357+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-05T23:56:24.8527781+02:00:2021-06-05T23:56:24.8526813+02:00:Thread#0:B:Given Le client s'identifie
+2021-06-05T23:56:24.8529869+02:00:2021-06-05T23:56:24.8528818+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.8531890+02:00:2021-06-05T23:56:24.8530943+02:00:Thread#0:B:  | identifiant | mdp   | prenom | nom  | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-05T23:56:24.8533972+02:00:2021-06-05T23:56:24.8533011+02:00:Thread#0:B:  | clark       | super | clark  | kent | Jun 15, 2000    | Jun 15, 2015        | 12A456789101114 |
+2021-06-05T23:56:24.8536744+02:00:2021-06-05T23:56:24.8535718+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLeClientSIdentifie(<table>) (0,0s)
+2021-06-05T23:56:24.8539108+02:00:2021-06-05T23:56:24.8538048+02:00:Thread#0:B:And les dates de la reservation
+2021-06-05T23:56:24.8541130+02:00:2021-06-05T23:56:24.8540055+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.8543091+02:00:2021-06-05T23:56:24.8541967+02:00:Thread#0:B:  | datedebut    | datefin      |
+2021-06-05T23:56:24.8544995+02:00:2021-06-05T23:56:24.8544064+02:00:Thread#0:B:  | Jun 21, 2022 | Jun 22, 2022 |
+2021-06-05T23:56:24.8572425+02:00:2021-06-05T23:56:24.8570722+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLesDatesDeLaReservation(<table>) (0,0s)
+2021-06-05T23:56:24.8575910+02:00:2021-06-05T23:56:24.8574333+02:00:Thread#0:B:And la liste des vehicules disponibles est presentee au client
+2021-06-05T23:56:24.8578462+02:00:2021-06-05T23:56:24.8577276+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.8580820+02:00:2021-06-05T23:56:24.8579599+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-05T23:56:24.8583130+02:00:2021-06-05T23:56:24.8581896+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-05T23:56:24.8585560+02:00:2021-06-05T23:56:24.8584263+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-05T23:56:24.8588561+02:00:2021-06-05T23:56:24.8587013+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-05T23:56:24.8591444+02:00:2021-06-05T23:56:24.8589969+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-05T23:56:24.8596806+02:00:2021-06-05T23:56:24.8595408+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLaListeDesVehiculesDisponiblesEstPresenteeAuClient(<table>) (0,0s)
+2021-06-05T23:56:24.8599322+02:00:2021-06-05T23:56:24.8598315+02:00:Thread#0:B:When le client selectionne un véhicule disponible
+2021-06-05T23:56:24.8601602+02:00:2021-06-05T23:56:24.8600480+02:00:Thread#0:B:  --- table step argument ---
+2021-06-05T23:56:24.8603788+02:00:2021-06-05T23:56:24.8602699+02:00:Thread#0:B:  | immatriculation | marque | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-05T23:56:24.8605807+02:00:2021-06-05T23:56:24.8604842+02:00:Thread#0:B:  | cc-789-cc       | dacia  | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | oui         |
+2021-06-05T23:56:24.8608880+02:00:2021-06-05T23:56:24.8607809+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLeClientSelectionneUnVehiculeDisponible(<table>) (0,0s)
+2021-06-05T23:56:24.8611332+02:00:2021-06-05T23:56:24.8610293+02:00:Thread#0:B:Then l'estimation de km est de 150
+2021-06-05T23:56:24.8614280+02:00:2021-06-05T23:56:24.8613211+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLEstimationDeKmEstDe(150) (0,0s)
+2021-06-05T23:56:24.8616487+02:00:2021-06-05T23:56:24.8615542+02:00:Thread#0:B:And Message informant le client : La reservation a été crée
+2021-06-05T23:56:24.8619063+02:00:2021-06-05T23:56:24.8618045+02:00:Thread#0:T:Age du client : 20
+2021-06-05T23:56:24.8629445+02:00:2021-06-05T23:56:24.8628330+02:00:Thread#0:T:error: Expected m to be 
+2021-06-05T23:56:24.8631533+02:00:2021-06-05T23:56:24.8630543+02:00:Thread#0:T:"La reservation a été crée" with a length of 25, but 
+2021-06-05T23:56:24.8634311+02:00:2021-06-05T23:56:24.8632635+02:00:Thread#0:T:"La reservation n'a pas pu être crée : vous devez avoir plus de 25 ans pour conduire le véhicule sélectionné. Il a une puissance fiscale de plus de 13 cheavaux" has a length of 158, differs near "n'a" (index 15). (0,0s)
+2021-06-05T23:56:24.8642373+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-05T23:56:24.8642560+02:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-05T23:56:24.8642607+02:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-06-05T23:56:24.8642628+02:00:Thread#0:Scheduler: No more tests for thread
+2021-06-05T23:56:24.8671239+02:00:Thread#0: Test #12/2 is finished on thread #0 as Failed within 0,0202691 seconds
+2021-06-05T23:56:24.8726003+02:00:2021-06-05T23:56:24.8724339+02:00:Got Deinitialize Signal
+2021-06-05T23:56:24.8750666+02:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-06-05T23:56:24.8757828+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-06-05T23:56:24.8768416+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-06-05T23:56:24.8780048+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=fr-FR, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-05T23:56:24.8780195+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-06-05T23:56:24.8780217+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-06-05T23:56:24.8780268+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:24.8780287+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-06-05T23:56:24.8780671+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-06-05T23:56:24.8781053+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-05T23:56:24.8781124+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-05T23:56:24.8781523+02:00:Tfm: netcoreapp3.1
+2021-06-05T23:56:24.8781552+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-05T23:56:24.8781564+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-06-05T23:56:24.8781979+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-06-05T23:56:24.8782431+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-05T23:56:24.8788226+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-05T23:56:24.8788298+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\System.Diagnostics.Process.resources.dll'
+2021-06-05T23:56:24.8788792+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\System.Diagnostics.Process.resources.exe'
+2021-06-05T23:56:24.8789182+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-05T23:56:24.8790256+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-05T23:56:24.8790313+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\System.Diagnostics.Process.resources.dll'
+2021-06-05T23:56:24.8790683+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\System.Diagnostics.Process.resources.exe'
+2021-06-05T23:56:24.8791037+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-05T23:56:24.8792082+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-05T23:56:24.8792162+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\System.Diagnostics.Process.resources.dll'
+2021-06-05T23:56:24.8792546+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\System.Diagnostics.Process.resources.exe'
+2021-06-05T23:56:24.8792894+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-05T23:56:24.8795421+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-05T23:56:24.8850699+02:00:Thread#-1:Scheduler: get next test for thread -1
+2021-06-05T23:56:24.8850864+02:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-05T23:56:24.8850882+02:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-06-05T23:56:24.8905515+02:00;Thread#12;Info;test run finished
+2021-06-05T23:56:24.8906870+02:00;Thread#12;Info;publishing test results
+2021-06-05T23:56:24.8908095+02:00;Thread#12;Info;Not publishing results.
+2021-06-05T23:56:24.8908688+02:00;Thread#12;Info;test results published
+2021-06-05T23:56:24.8909187+02:00;Thread#12;Info;generating reports
+2021-06-05T23:56:24.9646560+02:00;Thread#12;Info;Starting external report generation process
+2021-06-05T23:56:25.9808974+02:00;Thread#12;Info;Successfully generated reports.
+2021-06-05T23:56:25.9836091+02:00;Thread#12;Info;Successfully generated reports
+2021-06-05T23:56:25.9890716+02:00:Total: 1 (test executions: 3)
+2021-06-05T23:56:25.9903565+02:00:Succeeded: 0
+2021-06-05T23:56:25.9905852+02:00:Ignored: 0
+2021-06-05T23:56:25.9907968+02:00:Pending: 0
+2021-06-05T23:56:25.9908034+02:00:Skipped: 0
+2021-06-05T23:56:25.9909930+02:00:Failed: 1
+2021-06-05T23:56:25.9952170+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-06-05T23:56:25.9952872+02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\isa\source\repos\Location\TestResults\Unnamed project__2021-06-05T235622.html'
+========== End of log file ==========

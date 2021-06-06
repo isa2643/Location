@@ -1,0 +1,800 @@
+﻿2021-06-06T00:10:35.7597311+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-06-06T00:10:35.7598623+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.7.3 in Framework netcore31 in x64 mode execution started
+2021-06-06T00:10:35.7598653+02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-06-06T00:10:35.7612675+02:00;VSTestExecutionThread;Info;Current UserName: 'isa', MachineName: 'I6700K'
+2021-06-06T00:10:35.7858053+02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-06-06T00:10:35.7859738+02:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\isa\source\repos\Location\TestResults" (default)
+2021-06-06T00:10:35.7860108+02:00;VSTestExecutionThread;Info;Profile: 
+2021-06-06T00:10:35.8222445+02:00;VSTestExecutionThread;Info;Log file path: C:\Users\isa\source\repos\Location\TestResults\Unnamed project__2021-06-06T001035.log
+2021-06-06T00:10:35.8271123+02:00;Thread#12;Info;Checking activation
+2021-06-06T00:10:35.8897342+02:00;Thread#12;Info;Activated.
+2021-06-06T00:10:35.8899156+02:00;Thread#12;Info;Activation check completed
+2021-06-06T00:10:35.8899970+02:00;Thread#12;Info;Starting test run
+2021-06-06T00:10:36.0863449+02:00;Thread#12;Info;Discovering target: Default
+2021-06-06T00:10:36.0864753+02:00;Thread#12;Info;Discovering tests from assembly: C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-06-06T00:10:36.1490891+02:00;Thread#12;Info;Discovered tests from assembly: C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-06-06T00:10:36.1503048+02:00:Test Suite Dump
+2021-06-06T00:10:36.1515325+02:00:#0: Unnamed project/ - 
+2021-06-06T00:10:36.1515620+02:00:#1: Default - 
+2021-06-06T00:10:36.1515691+02:00:#2: SpecFlowLocation - 
+2021-06-06T00:10:36.1515731+02:00:#3: Location - 
+2021-06-06T00:10:36.1525765+02:00:#4: (1) Connection client - Pas d'utilisateur reconnu - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:(1)+Connection+client+-+Pas+d%27utilisateur+reconnu
+2021-06-06T00:10:36.1526046+02:00:#5: (2) Connection client - utilisateur reconnu - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:(2)+Connection+client+-+utilisateur+reconnu
+2021-06-06T00:10:36.1526115+02:00:#6: (3) Connection client - utilisateur reconnu mais pas le mot de passe - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:(3)+Connection+client+-+utilisateur+reconnu+mais+pas+le+mot+de+passe
+2021-06-06T00:10:36.1526808+02:00:#7: (4) Inscription client - création possible - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:(4)+Inscription+client+-+cr%c3%a9ation+possible
+2021-06-06T00:10:36.1531478+02:00:#8: (5) Inscription client - création impossible client déjà existant - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:(5)+Inscription+client+-+cr%c3%a9ation+impossible+client+d%c3%a9j%c3%a0+existant
+2021-06-06T00:10:36.1531641+02:00:#9: (6) Inscription client - création impossible numéro de permis pas valide - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:(6)+Inscription+client+-+cr%c3%a9ation+impossible+num%c3%a9ro+de+permis+pas+valide
+2021-06-06T00:10:36.1531727+02:00:#10: (7) Connection client - utilisateur reconnu - Age 26 -  Reservation d'un véhicule avec la date de début et la date de fin - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:(7)+Connection+client+-+utilisateur+reconnu+-+Age+26+-++Reservation+d%27un+v%c3%a9hicule+avec+la+date+de+d%c3%a9but+et+la+date+de+fin
+2021-06-06T00:10:36.1531795+02:00:#11: (8) Connection client - utilisateur reconnu - Age 16 - Reservation d'un véhicule avec la date de début et la date de fin - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:(8)+Connection+client+-+utilisateur+reconnu+-+Age+16+-+Reservation+d%27un+v%c3%a9hicule+avec+la+date+de+d%c3%a9but+et+la+date+de+fin
+2021-06-06T00:10:36.1531862+02:00:#12: (9) Connection client - utilisateur reconnu - Age 21 - Reservation d'un véhicule avec la date de début et la date de fin - TestAssembly:SpecFlowLocation/Feature:Location/Scenario:(9)+Connection+client+-+utilisateur+reconnu+-+Age+21+-+Reservation+d%27un+v%c3%a9hicule+avec+la+date+de+d%c3%a9but+et+la+date+de+fin
+2021-06-06T00:10:36.1532278+02:00:End: Test Suite Dump
+2021-06-06T00:10:36.1651777+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-06T00:10:36.1665492+02:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-06-06T00:10:36.1666044+02:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-06T00:10:36.1688603+02:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-06T00:10:36.1688685+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-06T00:10:36.1688703+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-06T00:10:36.1688722+02:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-06T00:10:36.1693886+02:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-06T00:10:36.1706128+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-06T00:10:36.1723659+02:00:Thread #0: creating new test thread executor for SpecFlowLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-06-06T00:10:36.1745496+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-06-06T00:10:36.1746952+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-06-06T00:10:36.1764556+02:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-06-06T00:10:36.1777757+02:00:starting Out Of Process Executor
+2021-06-06T00:10:36.1791891+02:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-06T00:10:36.1810623+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-06-06T00:10:36.1810800+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-06-06T00:10:36.1819733+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:36.1822612+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-06-06T00:10:36.1823474+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-06-06T00:10:36.1823977+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:36.1825722+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-06T00:10:36.1830002+02:00:Tfm: netcoreapp3.1
+2021-06-06T00:10:36.1830086+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-06T00:10:36.1830103+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-06-06T00:10:36.1830766+02:00:[AssemblyCache] Found file 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-06-06T00:10:36.1835918+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-06-06T00:10:36.1840689+02:00:Starting callback TCP Rpc server
+2021-06-06T00:10:36.1978471+02:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-06-06T00:10:36.1978805+02:00:Started callback TCP Rpc server on port 32768
+2021-06-06T00:10:36.1978827+02:00:Starting logger TCP Rpc server
+2021-06-06T00:10:36.2009447+02:00:Asynchronously starting background TCP Rpc Server on port 32769
+2021-06-06T00:10:36.2009867+02:00:Started logger TCP Rpc server on port 32769
+2021-06-06T00:10:36.2622236+02:00:Executing test executor at 'dotnet' 'exec "C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 30692 --uniqueId "2021-06-06T001035" --outputFolder "C:\Users\isa\source\repos\Location\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:36.2704692+02:00:Executor with PID 35656 has been started successfully.
+2021-06-06T00:10:36.2726043+02:00:Out of Process Executor 35656 started
+2021-06-06T00:10:36.2726202+02:00:Waiting for endpoint
+2021-06-06T00:10:36.5041486+02:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fr-FR, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-06T00:10:36.5041649+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2021-06-06T00:10:36.5041670+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2021-06-06T00:10:36.5041705+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:36.5041721+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-06-06T00:10:36.5042055+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-06-06T00:10:36.5042371+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:36.5042400+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-06T00:10:36.5042567+02:00:Tfm: netcoreapp3.1
+2021-06-06T00:10:36.5042588+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-06T00:10:36.5042600+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-06-06T00:10:36.5043012+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-06-06T00:10:36.5043404+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-06T00:10:36.5091894+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-06T00:10:36.5092054+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\StreamJsonRpc.resources.dll'
+2021-06-06T00:10:36.5092597+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\StreamJsonRpc.resources.exe'
+2021-06-06T00:10:36.5092942+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-06T00:10:36.5094140+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-06T00:10:36.5094194+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\StreamJsonRpc.resources.dll'
+2021-06-06T00:10:36.5094562+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\StreamJsonRpc.resources.exe'
+2021-06-06T00:10:36.5094877+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-06T00:10:36.5095898+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-06T00:10:36.5095984+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\StreamJsonRpc.resources.dll'
+2021-06-06T00:10:36.5096330+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\StreamJsonRpc.resources.exe'
+2021-06-06T00:10:36.5096637+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-06T00:10:36.5102016+02:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-06T00:10:36.5106720+02:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-06T00:10:36.5106791+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-06-06T00:10:36.5106810+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-06-06T00:10:36.5106842+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:36.5106854+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-06-06T00:10:36.5107183+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-06-06T00:10:36.5107507+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:36.5107534+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-06T00:10:36.5107630+02:00:Tfm: netcoreapp3.1
+2021-06-06T00:10:36.5107650+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-06T00:10:36.5107666+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-06-06T00:10:36.5108165+02:00:[AssemblyCache] Found file 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-06-06T00:10:36.5112275+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-06-06T00:10:36.7121792+02:00:Remote executor port received: 32770
+2021-06-06T00:10:36.7124525+02:00:Creating executor TCP client on port 32770
+2021-06-06T00:10:36.7127809+02:00:Created executor TCP client on port 32770
+2021-06-06T00:10:36.7127873+02:00:Connecting to remote executor TCP server
+2021-06-06T00:10:36.7136367+02:00:Connected remote executor TCP server
+2021-06-06T00:10:36.7139406+02:00:trying to connect to Out of Process Executor the 1 attempt
+2021-06-06T00:10:36.7139514+02:00:Connection to Out of Process Executor established in the 1 attempt
+2021-06-06T00:10:36.8377809+02:00:2021-06-06T00:10:36.8370274+02:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll on test thread #0
+2021-06-06T00:10:36.8420048+02:00:Endpoint 35656 started
+2021-06-06T00:10:36.8545642+02:00:2021-06-06T00:10:36.8543428+02:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-06-06T00:10:36.9480624+02:00:2021-06-06T00:10:36.9478218+02:00:Assembly resolving TechTalk.SpecFlow, Version=3.7.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-06-06T00:10:36.9501128+02:00:2021-06-06T00:10:36.9499837+02:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-06-06T00:10:36.9524547+02:00:2021-06-06T00:10:36.9522107+02:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\isa\.nuget\packages\specflow\3.7.13\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-06-06T00:10:37.0338470+02:00:2021-06-06T00:10:37.0331053+02:00:Thread#0:T:-> Loading plugin C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowLocation.dll
+2021-06-06T00:10:37.0360822+02:00:2021-06-06T00:10:37.0352885+02:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-06-06T00:10:37.0371911+02:00:2021-06-06T00:10:37.0366262+02:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-06-06T00:10:37.0386129+02:00:2021-06-06T00:10:37.0378687+02:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\isa\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-06-06T00:10:37.0690924+02:00:2021-06-06T00:10:37.0684539+02:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-06-06T00:10:37.0699649+02:00:2021-06-06T00:10:37.0695020+02:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-06-06T00:10:37.0708254+02:00:2021-06-06T00:10:37.0704278+02:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\isa\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-06-06T00:10:37.0771767+02:00:2021-06-06T00:10:37.0766261+02:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-06-06T00:10:37.0780307+02:00:2021-06-06T00:10:37.0776103+02:00:Thread#0:T:-> Loading plugin C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-06-06T00:10:37.0796934+02:00:2021-06-06T00:10:37.0795324+02:00:Assembly resolving LivingDoc.Dtos, Version=3.7.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-06T00:10:37.0799454+02:00:2021-06-06T00:10:37.0798058+02:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-06-06T00:10:37.0803635+02:00:2021-06-06T00:10:37.0802418+02:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\isa\.nuget\packages\specflow.plus.livingdocplugin\3.7.141\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-06-06T00:10:37.0824303+02:00:2021-06-06T00:10:37.0822816+02:00:Thread#0:T:-> Loading plugin C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-06-06T00:10:37.0863991+02:00:2021-06-06T00:10:37.0862466+02:00:Thread#0:T:-> Using default config
+2021-06-06T00:10:37.0950675+02:00:2021-06-06T00:10:37.0948250+02:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-06-06T00:10:37.0953099+02:00:2021-06-06T00:10:37.0952057+02:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-06-06T00:10:37.0956966+02:00:2021-06-06T00:10:37.0955764+02:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\isa\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-06-06T00:10:37.0964355+02:00:2021-06-06T00:10:37.0963229+02:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-06-06T00:10:37.0966496+02:00:2021-06-06T00:10:37.0965362+02:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-06-06T00:10:37.0969792+02:00:2021-06-06T00:10:37.0968711+02:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\isa\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-06-06T00:10:37.1029735+02:00:2021-06-06T00:10:37.1027603+02:00:Assembly resolving Location, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-06T00:10:37.1032393+02:00:2021-06-06T00:10:37.1031083+02:00:[AssemblyCache] Trying to resolve 'Location' from .deps.json file
+2021-06-06T00:10:37.1039091+02:00:2021-06-06T00:10:37.1037860+02:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'Location', found in dependency map, but unable to resolve a path in ['Location.dll']
+2021-06-06T00:10:37.1041122+02:00:2021-06-06T00:10:37.1040093+02:00:[AssemblyCache] Could not resolve 'Location' from .deps.json
+2021-06-06T00:10:37.1051556+02:00:2021-06-06T00:10:37.1050334+02:00:[AssemblyCache] Trying to resolve 'Location' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:37.1105982+02:00:2021-06-06T00:10:37.1103517+02:00:[AssemblyCache] Trying to resolve 'Location' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Location.dll'
+2021-06-06T00:10:37.1110075+02:00:2021-06-06T00:10:37.1108767+02:00:[AssemblyCache] Found file 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Location.dll' for assembly 'Location'
+2021-06-06T00:10:37.1115775+02:00:2021-06-06T00:10:37.1114638+02:00:[AssemblyCache] Resolved 'Location' to C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\Location.dll
+2021-06-06T00:10:37.1125592+02:00:2021-06-06T00:10:37.1124457+02:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-06T00:10:37.1128061+02:00:2021-06-06T00:10:37.1126737+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-06-06T00:10:37.1132465+02:00:2021-06-06T00:10:37.1131301+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\isa\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-06-06T00:10:37.1352875+02:00:2021-06-06T00:10:37.1350020+02:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-06-06T00:10:37.1355924+02:00:2021-06-06T00:10:37.1354481+02:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-06-06T00:10:37.1359769+02:00:2021-06-06T00:10:37.1358596+02:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\isa\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-06-06T00:10:37.4160874+02:00:Thread#0: Test #4/0 is started on thread #0
+2021-06-06T00:10:37.4445811+02:00:2021-06-06T00:10:37.4438995+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-06T00:10:37.4451070+02:00:2021-06-06T00:10:37.4448775+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.4454577+02:00:2021-06-06T00:10:37.4452727+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.4457419+02:00:2021-06-06T00:10:37.4456202+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-06T00:10:37.4459975+02:00:2021-06-06T00:10:37.4458613+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-06T00:10:37.4462278+02:00:2021-06-06T00:10:37.4461237+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.4635193+02:00:2021-06-06T00:10:37.4632675+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-06T00:10:37.4650932+02:00:2021-06-06T00:10:37.4649519+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-06T00:10:37.4653205+02:00:2021-06-06T00:10:37.4652146+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.4655441+02:00:2021-06-06T00:10:37.4654176+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.4657522+02:00:2021-06-06T00:10:37.4656433+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.4659565+02:00:2021-06-06T00:10:37.4658544+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.4661601+02:00:2021-06-06T00:10:37.4660661+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.4663863+02:00:2021-06-06T00:10:37.4662679+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.4665848+02:00:2021-06-06T00:10:37.4664818+02:00:Thread#0:B:  | ee-112-ee       | porsche | careara | rouge   | 100.00          | 2      | 15             | Jun 10, 2022 | Jun 11, 2022 | non         |
+2021-06-06T00:10:37.4685836+02:00:2021-06-06T00:10:37.4683340+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-06T00:10:37.4690463+02:00:2021-06-06T00:10:37.4688674+02:00:Thread#0:B:Given mon identifiant est "bob"
+2021-06-06T00:10:37.4701773+02:00:2021-06-06T00:10:37.4700297+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyUsernameIs("bob") (0,0s)
+2021-06-06T00:10:37.4704591+02:00:2021-06-06T00:10:37.4703357+02:00:Thread#0:B:And mon mot de passe est "toto"
+2021-06-06T00:10:37.4712507+02:00:2021-06-06T00:10:37.4711291+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyPasswordIs("toto") (0,0s)
+2021-06-06T00:10:37.4716644+02:00:2021-06-06T00:10:37.4715566+02:00:Thread#0:B:When J'essaie de me connecter avec mon compte
+2021-06-06T00:10:37.4730888+02:00:2021-06-06T00:10:37.4729100+02:00:Thread#0:T:done: LocationStepDefinitions.WhenITryToConnectToMyAccount() (0,0s)
+2021-06-06T00:10:37.4739271+02:00:2021-06-06T00:10:37.4734525+02:00:Thread#0:B:Then la connexion est refusée
+2021-06-06T00:10:37.4746640+02:00:2021-06-06T00:10:37.4745223+02:00:Assembly resolving FluentAssertions, Version=5.10.3.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a
+2021-06-06T00:10:37.4749009+02:00:2021-06-06T00:10:37.4747797+02:00:[AssemblyCache] Trying to resolve 'FluentAssertions' from .deps.json file
+2021-06-06T00:10:37.4752739+02:00:2021-06-06T00:10:37.4751631+02:00:[AssemblyCache] Resolved 'FluentAssertions' to 'C:\Users\isa\.nuget\packages\fluentassertions\5.10.3\lib\netcoreapp2.1\FluentAssertions.dll'
+2021-06-06T00:10:37.4781520+02:00:2021-06-06T00:10:37.4780129+02:00:Thread#0:T:done: LocationStepDefinitions.ThenTheConnectionIsRefused() (0,0s)
+2021-06-06T00:10:37.4784029+02:00:2021-06-06T00:10:37.4782998+02:00:Thread#0:B:And le message d'erreur est "Identifiant non reconnu"
+2021-06-06T00:10:37.4810737+02:00:2021-06-06T00:10:37.4809410+02:00:Thread#0:T:done: LocationStepDefinitions.ThenTheErrorMessageIs("Identifiant non r...") (0,0s)
+2021-06-06T00:10:37.4884837+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-06T00:10:37.4885204+02:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-06-06T00:10:37.4885247+02:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-06-06T00:10:37.4885663+02:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-06T00:10:37.4885703+02:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-06-06T00:10:37.4885718+02:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-06-06T00:10:37.4885733+02:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-06-06T00:10:37.4885922+02:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-06-06T00:10:37.4886182+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-06T00:10:37.5287081+02:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0,111761 seconds
+2021-06-06T00:10:37.5304403+02:00:Thread#0: Test #5/0 is started on thread #0
+2021-06-06T00:10:37.5315155+02:00:2021-06-06T00:10:37.5313646+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-06T00:10:37.5317324+02:00:2021-06-06T00:10:37.5316323+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.5319857+02:00:2021-06-06T00:10:37.5318568+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.5322187+02:00:2021-06-06T00:10:37.5321207+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-06T00:10:37.5324059+02:00:2021-06-06T00:10:37.5323060+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-06T00:10:37.5326297+02:00:2021-06-06T00:10:37.5325306+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.5330185+02:00:2021-06-06T00:10:37.5329024+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-06T00:10:37.5332746+02:00:2021-06-06T00:10:37.5331666+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-06T00:10:37.5334878+02:00:2021-06-06T00:10:37.5333837+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.5336931+02:00:2021-06-06T00:10:37.5335851+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.5339069+02:00:2021-06-06T00:10:37.5338031+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.5341287+02:00:2021-06-06T00:10:37.5340176+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.5343380+02:00:2021-06-06T00:10:37.5342417+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.5345313+02:00:2021-06-06T00:10:37.5344379+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.5347162+02:00:2021-06-06T00:10:37.5346198+02:00:Thread#0:B:  | ee-112-ee       | porsche | careara | rouge   | 100.00          | 2      | 15             | Jun 10, 2022 | Jun 11, 2022 | non         |
+2021-06-06T00:10:37.5350203+02:00:2021-06-06T00:10:37.5349153+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-06T00:10:37.5352872+02:00:2021-06-06T00:10:37.5351833+02:00:Thread#0:B:Given mon identifiant est "isa"
+2021-06-06T00:10:37.5356203+02:00:2021-06-06T00:10:37.5354976+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyUsernameIs("isa") (0,0s)
+2021-06-06T00:10:37.5358608+02:00:2021-06-06T00:10:37.5357506+02:00:Thread#0:B:And mon mot de passe est "toto"
+2021-06-06T00:10:37.5361578+02:00:2021-06-06T00:10:37.5360376+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyPasswordIs("toto") (0,0s)
+2021-06-06T00:10:37.5364561+02:00:2021-06-06T00:10:37.5363057+02:00:Thread#0:B:When J'essaie de me connecter avec mon compte
+2021-06-06T00:10:37.5370043+02:00:2021-06-06T00:10:37.5368259+02:00:Thread#0:T:done: LocationStepDefinitions.WhenITryToConnectToMyAccount() (0,0s)
+2021-06-06T00:10:37.5373987+02:00:2021-06-06T00:10:37.5372084+02:00:Thread#0:B:Then la connexion est etabli
+2021-06-06T00:10:37.5382928+02:00:2021-06-06T00:10:37.5381692+02:00:Thread#0:T:done: LocationStepDefinitions.ThenTheConnectionIsEstablished() (0,0s)
+2021-06-06T00:10:37.5388881+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-06T00:10:37.5389060+02:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2021-06-06T00:10:37.5389083+02:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-06-06T00:10:37.5389265+02:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-06T00:10:37.5389290+02:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-06-06T00:10:37.5389306+02:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2021-06-06T00:10:37.5389321+02:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-06-06T00:10:37.5389390+02:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-06-06T00:10:37.5389509+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-06T00:10:37.5402839+02:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0,0098035 seconds
+2021-06-06T00:10:37.5407174+02:00:Thread#0: Test #6/0 is started on thread #0
+2021-06-06T00:10:37.5421540+02:00:2021-06-06T00:10:37.5418781+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-06T00:10:37.5424354+02:00:2021-06-06T00:10:37.5423199+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.5426567+02:00:2021-06-06T00:10:37.5425347+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.5429607+02:00:2021-06-06T00:10:37.5428180+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-06T00:10:37.5432394+02:00:2021-06-06T00:10:37.5431118+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-06T00:10:37.5467818+02:00:2021-06-06T00:10:37.5466502+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.5471451+02:00:2021-06-06T00:10:37.5470341+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-06T00:10:37.5473828+02:00:2021-06-06T00:10:37.5472827+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-06T00:10:37.5475761+02:00:2021-06-06T00:10:37.5474789+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.5477799+02:00:2021-06-06T00:10:37.5476678+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.5479795+02:00:2021-06-06T00:10:37.5478689+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.5481685+02:00:2021-06-06T00:10:37.5480642+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.5483681+02:00:2021-06-06T00:10:37.5482579+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.5485486+02:00:2021-06-06T00:10:37.5484512+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.5488762+02:00:2021-06-06T00:10:37.5487182+02:00:Thread#0:B:  | ee-112-ee       | porsche | careara | rouge   | 100.00          | 2      | 15             | Jun 10, 2022 | Jun 11, 2022 | non         |
+2021-06-06T00:10:37.5492852+02:00:2021-06-06T00:10:37.5491723+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-06T00:10:37.5495056+02:00:2021-06-06T00:10:37.5494077+02:00:Thread#0:B:Given mon identifiant est "isa"
+2021-06-06T00:10:37.5497878+02:00:2021-06-06T00:10:37.5496824+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyUsernameIs("isa") (0,0s)
+2021-06-06T00:10:37.5500375+02:00:2021-06-06T00:10:37.5499311+02:00:Thread#0:B:And mon mot de passe est "toto2"
+2021-06-06T00:10:37.5503234+02:00:2021-06-06T00:10:37.5502179+02:00:Thread#0:T:done: LocationStepDefinitions.GivenMyPasswordIs("toto2") (0,0s)
+2021-06-06T00:10:37.5505579+02:00:2021-06-06T00:10:37.5504492+02:00:Thread#0:B:When J'essaie de me connecter avec mon compte
+2021-06-06T00:10:37.5508384+02:00:2021-06-06T00:10:37.5507339+02:00:Thread#0:T:done: LocationStepDefinitions.WhenITryToConnectToMyAccount() (0,0s)
+2021-06-06T00:10:37.5510796+02:00:2021-06-06T00:10:37.5509529+02:00:Thread#0:B:Then la connexion est refusée
+2021-06-06T00:10:37.5513412+02:00:2021-06-06T00:10:37.5512357+02:00:Thread#0:T:done: LocationStepDefinitions.ThenTheConnectionIsRefused() (0,0s)
+2021-06-06T00:10:37.5515388+02:00:2021-06-06T00:10:37.5514448+02:00:Thread#0:B:And le message d'erreur est "Mot de passe incorrect"
+2021-06-06T00:10:37.5518111+02:00:2021-06-06T00:10:37.5517079+02:00:Thread#0:T:done: LocationStepDefinitions.ThenTheErrorMessageIs("Mot de passe inco...") (0,0s)
+2021-06-06T00:10:37.5523190+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-06T00:10:37.5523283+02:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2021-06-06T00:10:37.5523303+02:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2021-06-06T00:10:37.5523485+02:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-06T00:10:37.5523517+02:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2021-06-06T00:10:37.5523532+02:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2021-06-06T00:10:37.5523548+02:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2021-06-06T00:10:37.5523620+02:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2021-06-06T00:10:37.5523720+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-06T00:10:37.5536038+02:00:Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 0,0128595 seconds
+2021-06-06T00:10:37.5538417+02:00:Thread#0: Test #7/0 is started on thread #0
+2021-06-06T00:10:37.5552721+02:00:2021-06-06T00:10:37.5550883+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-06T00:10:37.5554921+02:00:2021-06-06T00:10:37.5553804+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.5557093+02:00:2021-06-06T00:10:37.5555858+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.5559155+02:00:2021-06-06T00:10:37.5558021+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-06T00:10:37.5561362+02:00:2021-06-06T00:10:37.5560300+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-06T00:10:37.5563403+02:00:2021-06-06T00:10:37.5562308+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.5567572+02:00:2021-06-06T00:10:37.5566150+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-06T00:10:37.5570624+02:00:2021-06-06T00:10:37.5569267+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-06T00:10:37.5572950+02:00:2021-06-06T00:10:37.5571938+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.5575130+02:00:2021-06-06T00:10:37.5574075+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.5577524+02:00:2021-06-06T00:10:37.5576297+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.5580510+02:00:2021-06-06T00:10:37.5579007+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.5583021+02:00:2021-06-06T00:10:37.5581715+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.5585681+02:00:2021-06-06T00:10:37.5584327+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.5587629+02:00:2021-06-06T00:10:37.5586590+02:00:Thread#0:B:  | ee-112-ee       | porsche | careara | rouge   | 100.00          | 2      | 15             | Jun 10, 2022 | Jun 11, 2022 | non         |
+2021-06-06T00:10:37.5591064+02:00:2021-06-06T00:10:37.5590008+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-06T00:10:37.5593231+02:00:2021-06-06T00:10:37.5592209+02:00:Thread#0:B:Given je renseigne mon prenom "nathalie"
+2021-06-06T00:10:37.5600228+02:00:2021-06-06T00:10:37.5599160+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonPrenom("nathalie") (0,0s)
+2021-06-06T00:10:37.5602515+02:00:2021-06-06T00:10:37.5601448+02:00:Thread#0:B:And je renseigne mon nom "portman"
+2021-06-06T00:10:37.5608821+02:00:2021-06-06T00:10:37.5607626+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonNom("portman") (0,0s)
+2021-06-06T00:10:37.5611350+02:00:2021-06-06T00:10:37.5610291+02:00:Thread#0:B:And je renseigne mon identifiant "nathp"
+2021-06-06T00:10:37.5617456+02:00:2021-06-06T00:10:37.5616309+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonIdentifiant("nathp") (0,0s)
+2021-06-06T00:10:37.5619741+02:00:2021-06-06T00:10:37.5618609+02:00:Thread#0:B:And je renseigne mon mot de passe "plop"
+2021-06-06T00:10:37.5625833+02:00:2021-06-06T00:10:37.5624747+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonMotDePasse("plop") (0,0s)
+2021-06-06T00:10:37.5628108+02:00:2021-06-06T00:10:37.5626934+02:00:Thread#0:B:And je renseigne ma date de naissance "Jun 01, 1985"
+2021-06-06T00:10:37.5645681+02:00:2021-06-06T00:10:37.5643996+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMaDateDeNaissance(01/06/1985 00:00:00) (0,0s)
+2021-06-06T00:10:37.5649224+02:00:2021-06-06T00:10:37.5647549+02:00:Thread#0:B:And je renseigne ma date d'obtention de permis "Jun 30, 2000"
+2021-06-06T00:10:37.5656811+02:00:2021-06-06T00:10:37.5655720+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMaDateDObtentionDePermis(30/06/2000 00:00:00) (0,0s)
+2021-06-06T00:10:37.5659450+02:00:2021-06-06T00:10:37.5658104+02:00:Thread#0:B:And je renseigne mon numéro de permis "12A456789101122"
+2021-06-06T00:10:37.5665315+02:00:2021-06-06T00:10:37.5664235+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonNumeroDePermis("12A456789101122") (0,0s)
+2021-06-06T00:10:37.5667369+02:00:2021-06-06T00:10:37.5666434+02:00:Thread#0:B:When J'essaie de me créer mon compte
+2021-06-06T00:10:37.5679439+02:00:2021-06-06T00:10:37.5678356+02:00:Thread#0:T:done: LocationStepDefinitions.WhenJEssaieDeMeCreerMonCompte() (0,0s)
+2021-06-06T00:10:37.5682060+02:00:2021-06-06T00:10:37.5680861+02:00:Thread#0:B:Then mon compte est bien crée
+2021-06-06T00:10:37.5688591+02:00:2021-06-06T00:10:37.5687519+02:00:Thread#0:T:done: LocationStepDefinitions.ThenMonCompteEstBienCree() (0,0s)
+2021-06-06T00:10:37.5690816+02:00:2021-06-06T00:10:37.5689765+02:00:Thread#0:B:And le message est "Le compte a bien été crée"
+2021-06-06T00:10:37.5696864+02:00:2021-06-06T00:10:37.5695807+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLeMessageEst("Le compte a bien ...") (0,0s)
+2021-06-06T00:10:37.5702062+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-06T00:10:37.5702150+02:00:Thread#:Scheduler: testitem #8 from normal test queue 
+2021-06-06T00:10:37.5702173+02:00:Thread#0:Scheduler: considering testitem #8 for thread 0
+2021-06-06T00:10:37.5702295+02:00:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-06T00:10:37.5702318+02:00:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2021-06-06T00:10:37.5702339+02:00:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2021-06-06T00:10:37.5702355+02:00:Thread#0:Scheduler: using testitem #8 for thread 0
+2021-06-06T00:10:37.5702420+02:00:Thread#0:Scheduler: Test #8 is scheduled for thread
+2021-06-06T00:10:37.5702475+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-06T00:10:37.5719543+02:00:Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 0,0180984 seconds
+2021-06-06T00:10:37.5722309+02:00:Thread#0: Test #8/0 is started on thread #0
+2021-06-06T00:10:37.5737623+02:00:2021-06-06T00:10:37.5734435+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-06T00:10:37.5740687+02:00:2021-06-06T00:10:37.5739410+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.5743278+02:00:2021-06-06T00:10:37.5742221+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.5745470+02:00:2021-06-06T00:10:37.5744316+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-06T00:10:37.5747927+02:00:2021-06-06T00:10:37.5746541+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-06T00:10:37.5749821+02:00:2021-06-06T00:10:37.5748852+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.5754045+02:00:2021-06-06T00:10:37.5752491+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-06T00:10:37.5758392+02:00:2021-06-06T00:10:37.5756876+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-06T00:10:37.5760846+02:00:2021-06-06T00:10:37.5759527+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.5764091+02:00:2021-06-06T00:10:37.5762031+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.5771741+02:00:2021-06-06T00:10:37.5767097+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.5775217+02:00:2021-06-06T00:10:37.5773547+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.5777437+02:00:2021-06-06T00:10:37.5776411+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.5779638+02:00:2021-06-06T00:10:37.5778500+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.5781907+02:00:2021-06-06T00:10:37.5780878+02:00:Thread#0:B:  | ee-112-ee       | porsche | careara | rouge   | 100.00          | 2      | 15             | Jun 10, 2022 | Jun 11, 2022 | non         |
+2021-06-06T00:10:37.5785710+02:00:2021-06-06T00:10:37.5784617+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-06T00:10:37.5788190+02:00:2021-06-06T00:10:37.5787128+02:00:Thread#0:B:Given je renseigne mon prenom "isabelle"
+2021-06-06T00:10:37.5791361+02:00:2021-06-06T00:10:37.5790136+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonPrenom("isabelle") (0,0s)
+2021-06-06T00:10:37.5793630+02:00:2021-06-06T00:10:37.5792693+02:00:Thread#0:B:And je renseigne mon nom "smith"
+2021-06-06T00:10:37.5796584+02:00:2021-06-06T00:10:37.5795454+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonNom("smith") (0,0s)
+2021-06-06T00:10:37.5798655+02:00:2021-06-06T00:10:37.5797718+02:00:Thread#0:B:And je renseigne mon identifiant "isa3"
+2021-06-06T00:10:37.5801983+02:00:2021-06-06T00:10:37.5800478+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonIdentifiant("isa3") (0,0s)
+2021-06-06T00:10:37.5805164+02:00:2021-06-06T00:10:37.5803835+02:00:Thread#0:B:And je renseigne mon mot de passe "toto"
+2021-06-06T00:10:37.5808751+02:00:2021-06-06T00:10:37.5807526+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonMotDePasse("toto") (0,0s)
+2021-06-06T00:10:37.5811430+02:00:2021-06-06T00:10:37.5810218+02:00:Thread#0:B:And je renseigne ma date de naissance "Jun 15, 1994"
+2021-06-06T00:10:37.5814870+02:00:2021-06-06T00:10:37.5813645+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMaDateDeNaissance(15/06/1994 00:00:00) (0,0s)
+2021-06-06T00:10:37.5817607+02:00:2021-06-06T00:10:37.5816285+02:00:Thread#0:B:And je renseigne ma date d'obtention de permis "Jun 15, 2015"
+2021-06-06T00:10:37.5820609+02:00:2021-06-06T00:10:37.5819520+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMaDateDObtentionDePermis(15/06/2015 00:00:00) (0,0s)
+2021-06-06T00:10:37.5823135+02:00:2021-06-06T00:10:37.5822028+02:00:Thread#0:B:And je renseigne mon numéro de permis "12A456789101112"
+2021-06-06T00:10:37.5826499+02:00:2021-06-06T00:10:37.5825224+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonNumeroDePermis("12A456789101112") (0,0s)
+2021-06-06T00:10:37.5829243+02:00:2021-06-06T00:10:37.5828004+02:00:Thread#0:B:When J'essaie de me créer mon compte
+2021-06-06T00:10:37.5832620+02:00:2021-06-06T00:10:37.5831401+02:00:Thread#0:T:done: LocationStepDefinitions.WhenJEssaieDeMeCreerMonCompte() (0,0s)
+2021-06-06T00:10:37.5835188+02:00:2021-06-06T00:10:37.5834013+02:00:Thread#0:B:Then mon compte n'est pas crée
+2021-06-06T00:10:37.5843272+02:00:2021-06-06T00:10:37.5841839+02:00:Thread#0:T:done: LocationStepDefinitions.ThenMonCompteNEstPasCree() (0,0s)
+2021-06-06T00:10:37.5845959+02:00:2021-06-06T00:10:37.5844684+02:00:Thread#0:B:And le message est "Le compte est déjà existant"
+2021-06-06T00:10:37.5849340+02:00:2021-06-06T00:10:37.5848071+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLeMessageEst("Le compte est déj...") (0,0s)
+2021-06-06T00:10:37.5855763+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-06T00:10:37.5855911+02:00:Thread#:Scheduler: testitem #9 from normal test queue 
+2021-06-06T00:10:37.5855946+02:00:Thread#0:Scheduler: considering testitem #9 for thread 0
+2021-06-06T00:10:37.5856075+02:00:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-06T00:10:37.5856096+02:00:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2021-06-06T00:10:37.5856108+02:00:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2021-06-06T00:10:37.5856122+02:00:Thread#0:Scheduler: using testitem #9 for thread 0
+2021-06-06T00:10:37.5856195+02:00:Thread#0:Scheduler: Test #9 is scheduled for thread
+2021-06-06T00:10:37.5856248+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-06T00:10:37.5873813+02:00:Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 0,0151176 seconds
+2021-06-06T00:10:37.5876973+02:00:Thread#0: Test #9/0 is started on thread #0
+2021-06-06T00:10:37.5893508+02:00:2021-06-06T00:10:37.5890730+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-06T00:10:37.5896798+02:00:2021-06-06T00:10:37.5895394+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.5899481+02:00:2021-06-06T00:10:37.5898081+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.5902230+02:00:2021-06-06T00:10:37.5900870+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-06T00:10:37.5905583+02:00:2021-06-06T00:10:37.5903687+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-06T00:10:37.5908152+02:00:2021-06-06T00:10:37.5906750+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.5912939+02:00:2021-06-06T00:10:37.5911242+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-06T00:10:37.5916562+02:00:2021-06-06T00:10:37.5915031+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-06T00:10:37.5919842+02:00:2021-06-06T00:10:37.5917976+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.5923041+02:00:2021-06-06T00:10:37.5921588+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.5926073+02:00:2021-06-06T00:10:37.5924592+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.5929401+02:00:2021-06-06T00:10:37.5927990+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.5932058+02:00:2021-06-06T00:10:37.5930797+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.5934800+02:00:2021-06-06T00:10:37.5933372+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.5937083+02:00:2021-06-06T00:10:37.5936071+02:00:Thread#0:B:  | ee-112-ee       | porsche | careara | rouge   | 100.00          | 2      | 15             | Jun 10, 2022 | Jun 11, 2022 | non         |
+2021-06-06T00:10:37.5941057+02:00:2021-06-06T00:10:37.5939958+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-06T00:10:37.5943699+02:00:2021-06-06T00:10:37.5942491+02:00:Thread#0:B:Given je renseigne mon prenom "tom"
+2021-06-06T00:10:37.5946573+02:00:2021-06-06T00:10:37.5945378+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonPrenom("tom") (0,0s)
+2021-06-06T00:10:37.5949197+02:00:2021-06-06T00:10:37.5948024+02:00:Thread#0:B:And je renseigne mon nom "cruise"
+2021-06-06T00:10:37.5952103+02:00:2021-06-06T00:10:37.5951030+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonNom("cruise") (0,0s)
+2021-06-06T00:10:37.5954721+02:00:2021-06-06T00:10:37.5953509+02:00:Thread#0:B:And je renseigne mon identifiant "tomc"
+2021-06-06T00:10:37.5957526+02:00:2021-06-06T00:10:37.5956496+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonIdentifiant("tomc") (0,0s)
+2021-06-06T00:10:37.5960372+02:00:2021-06-06T00:10:37.5958875+02:00:Thread#0:B:And je renseigne mon mot de passe ""
+2021-06-06T00:10:37.5963373+02:00:2021-06-06T00:10:37.5962271+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonMotDePasse("") (0,0s)
+2021-06-06T00:10:37.5965648+02:00:2021-06-06T00:10:37.5964676+02:00:Thread#0:B:And je renseigne ma date de naissance "Jun 15, 1970"
+2021-06-06T00:10:37.5968635+02:00:2021-06-06T00:10:37.5967576+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMaDateDeNaissance(15/06/1970 00:00:00) (0,0s)
+2021-06-06T00:10:37.5971288+02:00:2021-06-06T00:10:37.5970124+02:00:Thread#0:B:And je renseigne ma date d'obtention de permis "Jan 12, 2085"
+2021-06-06T00:10:37.5974137+02:00:2021-06-06T00:10:37.5973097+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMaDateDObtentionDePermis(12/01/2085 00:00:00) (0,0s)
+2021-06-06T00:10:37.5976329+02:00:2021-06-06T00:10:37.5975396+02:00:Thread#0:B:And je renseigne mon numéro de permis "12A456789101112"
+2021-06-06T00:10:37.5979018+02:00:2021-06-06T00:10:37.5977979+02:00:Thread#0:T:done: LocationStepDefinitions.GivenJeRenseigneMonNumeroDePermis("12A456789101112") (0,0s)
+2021-06-06T00:10:37.5981426+02:00:2021-06-06T00:10:37.5980483+02:00:Thread#0:B:When J'essaie de me créer mon compte
+2021-06-06T00:10:37.5984139+02:00:2021-06-06T00:10:37.5983084+02:00:Thread#0:T:done: LocationStepDefinitions.WhenJEssaieDeMeCreerMonCompte() (0,0s)
+2021-06-06T00:10:37.5986610+02:00:2021-06-06T00:10:37.5985672+02:00:Thread#0:B:Then mon compte n'est pas crée
+2021-06-06T00:10:37.5989836+02:00:2021-06-06T00:10:37.5988650+02:00:Thread#0:T:done: LocationStepDefinitions.ThenMonCompteNEstPasCree() (0,0s)
+2021-06-06T00:10:37.5992999+02:00:2021-06-06T00:10:37.5991316+02:00:Thread#0:B:And le message est "Ce numéro de permis est déjà dans notre base"
+2021-06-06T00:10:37.5996447+02:00:2021-06-06T00:10:37.5995206+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLeMessageEst("Ce numéro de perm...") (0,0s)
+2021-06-06T00:10:37.6001645+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-06T00:10:37.6001736+02:00:Thread#:Scheduler: testitem #10 from normal test queue 
+2021-06-06T00:10:37.6001759+02:00:Thread#0:Scheduler: considering testitem #10 for thread 0
+2021-06-06T00:10:37.6001883+02:00:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-06T00:10:37.6001909+02:00:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2021-06-06T00:10:37.6001924+02:00:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2021-06-06T00:10:37.6001940+02:00:Thread#0:Scheduler: using testitem #10 for thread 0
+2021-06-06T00:10:37.6002011+02:00:Thread#0:Scheduler: Test #10 is scheduled for thread
+2021-06-06T00:10:37.6002073+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-06T00:10:37.6019751+02:00:Thread#0: Test #9/0 is finished on thread #0 as Succeeded within 0,0142501 seconds
+2021-06-06T00:10:37.6023197+02:00:Thread#0: Test #10/0 is started on thread #0
+2021-06-06T00:10:37.6058139+02:00:2021-06-06T00:10:37.6055716+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-06T00:10:37.6061532+02:00:2021-06-06T00:10:37.6060071+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6064018+02:00:2021-06-06T00:10:37.6062945+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.6066344+02:00:2021-06-06T00:10:37.6065104+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-06T00:10:37.6068636+02:00:2021-06-06T00:10:37.6067616+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-06T00:10:37.6071245+02:00:2021-06-06T00:10:37.6069947+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.6077202+02:00:2021-06-06T00:10:37.6075214+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-06T00:10:37.6081766+02:00:2021-06-06T00:10:37.6079908+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-06T00:10:37.6084413+02:00:2021-06-06T00:10:37.6083121+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6086869+02:00:2021-06-06T00:10:37.6085588+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.6089269+02:00:2021-06-06T00:10:37.6087844+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.6091590+02:00:2021-06-06T00:10:37.6090449+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.6093623+02:00:2021-06-06T00:10:37.6092656+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.6095515+02:00:2021-06-06T00:10:37.6094568+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.6097509+02:00:2021-06-06T00:10:37.6096575+02:00:Thread#0:B:  | ee-112-ee       | porsche | careara | rouge   | 100.00          | 2      | 15             | Jun 10, 2022 | Jun 11, 2022 | non         |
+2021-06-06T00:10:37.6101100+02:00:2021-06-06T00:10:37.6099960+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-06T00:10:37.6103499+02:00:2021-06-06T00:10:37.6102490+02:00:Thread#0:B:Given Le client s'identifie
+2021-06-06T00:10:37.6105487+02:00:2021-06-06T00:10:37.6104555+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6107506+02:00:2021-06-06T00:10:37.6106527+02:00:Thread#0:B:  | identifiant | mdp  | prenom   | nom   | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.6109901+02:00:2021-06-06T00:10:37.6108631+02:00:Thread#0:B:  | isa         | toto | isabelle | smith | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-06T00:10:37.6123397+02:00:2021-06-06T00:10:37.6122072+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLeClientSIdentifie(<table>) (0,0s)
+2021-06-06T00:10:37.6125730+02:00:2021-06-06T00:10:37.6124725+02:00:Thread#0:B:And les dates de la reservation
+2021-06-06T00:10:37.6128255+02:00:2021-06-06T00:10:37.6126838+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6130378+02:00:2021-06-06T00:10:37.6129293+02:00:Thread#0:B:  | datedebut    | datefin      |
+2021-06-06T00:10:37.6132487+02:00:2021-06-06T00:10:37.6131501+02:00:Thread#0:B:  | Jun 15, 2022 | Jun 20, 2022 |
+2021-06-06T00:10:37.6146816+02:00:2021-06-06T00:10:37.6145614+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLesDatesDeLaReservation(<table>) (0,0s)
+2021-06-06T00:10:37.6149342+02:00:2021-06-06T00:10:37.6148264+02:00:Thread#0:B:And la liste des vehicules disponibles est presentee au client
+2021-06-06T00:10:37.6151231+02:00:2021-06-06T00:10:37.6150307+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6153878+02:00:2021-06-06T00:10:37.6152382+02:00:Thread#0:B:  | immatriculation | marque  | modele | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.6156054+02:00:2021-06-06T00:10:37.6154968+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4 | gris    | 20.00           | 0.20   | 4              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.6158578+02:00:2021-06-06T00:10:37.6157281+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3     | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.6174404+02:00:2021-06-06T00:10:37.6173249+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLaListeDesVehiculesDisponiblesEstPresenteeAuClient(<table>) (0,0s)
+2021-06-06T00:10:37.6177108+02:00:2021-06-06T00:10:37.6176056+02:00:Thread#0:B:When le client selectionne un véhicule disponible
+2021-06-06T00:10:37.6179377+02:00:2021-06-06T00:10:37.6178150+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6181662+02:00:2021-06-06T00:10:37.6180489+02:00:Thread#0:B:  | immatriculation | marque  | modele | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut   | dateFin     | Selectionne |
+2021-06-06T00:10:37.6184142+02:00:2021-06-06T00:10:37.6182788+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4 | gris    | 20.00           | 0.20   | 4              | Jun 5, 2022 | Jun 6, 2022 | oui         |
+2021-06-06T00:10:37.6193566+02:00:2021-06-06T00:10:37.6192398+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLeClientSelectionneUnVehiculeDisponible(<table>) (0,0s)
+2021-06-06T00:10:37.6196416+02:00:2021-06-06T00:10:37.6195276+02:00:Thread#0:B:Then l'estimation de km est de 100
+2021-06-06T00:10:37.6206052+02:00:2021-06-06T00:10:37.6204503+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLEstimationDeKmEstDe(100) (0,0s)
+2021-06-06T00:10:37.6208943+02:00:2021-06-06T00:10:37.6207647+02:00:Thread#0:B:And Message informant le client : La reservation a été crée
+2021-06-06T00:10:37.6220858+02:00:2021-06-06T00:10:37.6219146+02:00:Thread#0:T:Age du client : 26
+2021-06-06T00:10:37.6227278+02:00:2021-06-06T00:10:37.6225182+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLaReservationEstCree("La reservation a ...") (0,0s)
+2021-06-06T00:10:37.6232480+02:00:2021-06-06T00:10:37.6229827+02:00:Thread#0:B:And le prix estimée en euros est de 20.0
+2021-06-06T00:10:37.6249666+02:00:2021-06-06T00:10:37.6246907+02:00:Thread#0:T:0
+2021-06-06T00:10:37.6254591+02:00:2021-06-06T00:10:37.6252657+02:00:Thread#0:T:Merci de saisir une valeur supérieure à 0
+2021-06-06T00:10:37.6258014+02:00:2021-06-06T00:10:37.6256843+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLePrixEstimeeEstDe(20) (0,0s)
+2021-06-06T00:10:37.6260620+02:00:2021-06-06T00:10:37.6259494+02:00:Thread#0:B:And le client rend la voiture, les kilometres réels parcours sont 2000
+2021-06-06T00:10:37.6267415+02:00:2021-06-06T00:10:37.6266274+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLeClientRendLaVoitureLesKilometresReelsParcoursSont(2000) (0,0s)
+2021-06-06T00:10:37.6286588+02:00:2021-06-06T00:10:37.6285231+02:00:Thread#0:B:And la facture avec le prix final en euros est de 20.0
+2021-06-06T00:10:37.6300454+02:00:2021-06-06T00:10:37.6299207+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLaFactureAvecLePrixFinalEnEurosEstDe(20) (0,0s)
+2021-06-06T00:10:37.6306310+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-06T00:10:37.6306406+02:00:Thread#:Scheduler: testitem #11 from normal test queue 
+2021-06-06T00:10:37.6306430+02:00:Thread#0:Scheduler: considering testitem #11 for thread 0
+2021-06-06T00:10:37.6306578+02:00:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-06T00:10:37.6306609+02:00:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2021-06-06T00:10:37.6306636+02:00:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2021-06-06T00:10:37.6306657+02:00:Thread#0:Scheduler: using testitem #11 for thread 0
+2021-06-06T00:10:37.6306751+02:00:Thread#0:Scheduler: Test #11 is scheduled for thread
+2021-06-06T00:10:37.6306841+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-06T00:10:37.6323942+02:00:Thread#0: Test #10/0 is finished on thread #0 as Succeeded within 0,0300564 seconds
+2021-06-06T00:10:37.6326973+02:00:Thread#0: Test #11/0 is started on thread #0
+2021-06-06T00:10:37.6343795+02:00:2021-06-06T00:10:37.6341953+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-06T00:10:37.6345969+02:00:2021-06-06T00:10:37.6344977+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6347877+02:00:2021-06-06T00:10:37.6346957+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.6349857+02:00:2021-06-06T00:10:37.6348932+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-06T00:10:37.6351850+02:00:2021-06-06T00:10:37.6350949+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-06T00:10:37.6353941+02:00:2021-06-06T00:10:37.6352850+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.6357355+02:00:2021-06-06T00:10:37.6356244+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-06T00:10:37.6360492+02:00:2021-06-06T00:10:37.6358849+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-06T00:10:37.6362877+02:00:2021-06-06T00:10:37.6361569+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6364661+02:00:2021-06-06T00:10:37.6363734+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.6366608+02:00:2021-06-06T00:10:37.6365689+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.6368567+02:00:2021-06-06T00:10:37.6367584+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.6371875+02:00:2021-06-06T00:10:37.6370306+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.6374671+02:00:2021-06-06T00:10:37.6373278+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.6377739+02:00:2021-06-06T00:10:37.6376181+02:00:Thread#0:B:  | ee-112-ee       | porsche | careara | rouge   | 100.00          | 2      | 15             | Jun 10, 2022 | Jun 11, 2022 | non         |
+2021-06-06T00:10:37.6381072+02:00:2021-06-06T00:10:37.6379989+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-06T00:10:37.6383326+02:00:2021-06-06T00:10:37.6382331+02:00:Thread#0:B:Given Le client s'identifie
+2021-06-06T00:10:37.6385695+02:00:2021-06-06T00:10:37.6384432+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6387897+02:00:2021-06-06T00:10:37.6386902+02:00:Thread#0:B:  | identifiant | mdp | prenom | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.6390753+02:00:2021-06-06T00:10:37.6388874+02:00:Thread#0:B:  | denis       | xop | denis  | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-06T00:10:37.6393917+02:00:2021-06-06T00:10:37.6392833+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLeClientSIdentifie(<table>) (0,0s)
+2021-06-06T00:10:37.6396551+02:00:2021-06-06T00:10:37.6395520+02:00:Thread#0:B:And les dates de la reservation
+2021-06-06T00:10:37.6399172+02:00:2021-06-06T00:10:37.6397910+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6401686+02:00:2021-06-06T00:10:37.6400383+02:00:Thread#0:B:  | datedebut    | datefin      |
+2021-06-06T00:10:37.6404171+02:00:2021-06-06T00:10:37.6402870+02:00:Thread#0:B:  | Jun 25, 2022 | Jun 26, 2022 |
+2021-06-06T00:10:37.6408993+02:00:2021-06-06T00:10:37.6407528+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLesDatesDeLaReservation(<table>) (0,0s)
+2021-06-06T00:10:37.6412330+02:00:2021-06-06T00:10:37.6410938+02:00:Thread#0:B:And la liste des vehicules disponibles est presentee au client
+2021-06-06T00:10:37.6414594+02:00:2021-06-06T00:10:37.6413565+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6416852+02:00:2021-06-06T00:10:37.6415692+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.6419190+02:00:2021-06-06T00:10:37.6417855+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.6421873+02:00:2021-06-06T00:10:37.6420536+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.6424120+02:00:2021-06-06T00:10:37.6423119+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.6426044+02:00:2021-06-06T00:10:37.6425096+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.6429564+02:00:2021-06-06T00:10:37.6428500+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLaListeDesVehiculesDisponiblesEstPresenteeAuClient(<table>) (0,0s)
+2021-06-06T00:10:37.6432048+02:00:2021-06-06T00:10:37.6430994+02:00:Thread#0:B:When le client selectionne un véhicule disponible
+2021-06-06T00:10:37.6434370+02:00:2021-06-06T00:10:37.6433214+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6436494+02:00:2021-06-06T00:10:37.6435515+02:00:Thread#0:B:  | immatriculation | marque | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.6438856+02:00:2021-06-06T00:10:37.6437457+02:00:Thread#0:B:  | cc-789-cc       | dacia  | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | oui         |
+2021-06-06T00:10:37.6442177+02:00:2021-06-06T00:10:37.6441048+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLeClientSelectionneUnVehiculeDisponible(<table>) (0,0s)
+2021-06-06T00:10:37.6444285+02:00:2021-06-06T00:10:37.6443386+02:00:Thread#0:B:Then l'estimation de km est de 120
+2021-06-06T00:10:37.6447178+02:00:2021-06-06T00:10:37.6446122+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLEstimationDeKmEstDe(120) (0,0s)
+2021-06-06T00:10:37.6449620+02:00:2021-06-06T00:10:37.6448497+02:00:Thread#0:B:And Message informant le client : La reservation n'a pas été crée : vous devez avoir plus de 18 ans et un numéro de permis
+2021-06-06T00:10:37.6452294+02:00:2021-06-06T00:10:37.6451273+02:00:Thread#0:T:Age du client : 16
+2021-06-06T00:10:37.6454745+02:00:2021-06-06T00:10:37.6453700+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLaReservationEstCree("La reservation n'...") (0,0s)
+2021-06-06T00:10:37.6459844+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-06T00:10:37.6459934+02:00:Thread#:Scheduler: testitem #12 from normal test queue 
+2021-06-06T00:10:37.6459954+02:00:Thread#0:Scheduler: considering testitem #12 for thread 0
+2021-06-06T00:10:37.6460073+02:00:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-06T00:10:37.6460094+02:00:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2021-06-06T00:10:37.6460115+02:00:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2021-06-06T00:10:37.6460130+02:00:Thread#0:Scheduler: using testitem #12 for thread 0
+2021-06-06T00:10:37.6460201+02:00:Thread#0:Scheduler: Test #12 is scheduled for thread
+2021-06-06T00:10:37.6460261+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-06T00:10:37.6474118+02:00:Thread#0: Test #11/0 is finished on thread #0 as Succeeded within 0,0146999 seconds
+2021-06-06T00:10:37.6476985+02:00:Thread#0: Test #12/0 is started on thread #0
+2021-06-06T00:10:37.6495127+02:00:2021-06-06T00:10:37.6493311+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-06T00:10:37.6497474+02:00:2021-06-06T00:10:37.6496309+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6499997+02:00:2021-06-06T00:10:37.6498673+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.6502335+02:00:2021-06-06T00:10:37.6501239+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-06T00:10:37.6504273+02:00:2021-06-06T00:10:37.6503248+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-06T00:10:37.6506122+02:00:2021-06-06T00:10:37.6505153+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.6509431+02:00:2021-06-06T00:10:37.6508366+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-06T00:10:37.6512015+02:00:2021-06-06T00:10:37.6510872+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-06T00:10:37.6513921+02:00:2021-06-06T00:10:37.6512967+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6515929+02:00:2021-06-06T00:10:37.6514809+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.6517973+02:00:2021-06-06T00:10:37.6516855+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.6521416+02:00:2021-06-06T00:10:37.6519488+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.6525063+02:00:2021-06-06T00:10:37.6523037+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.6528443+02:00:2021-06-06T00:10:37.6526940+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.6531453+02:00:2021-06-06T00:10:37.6529987+02:00:Thread#0:B:  | ee-112-ee       | porsche | careara | rouge   | 100.00          | 2      | 15             | Jun 10, 2022 | Jun 11, 2022 | non         |
+2021-06-06T00:10:37.6535410+02:00:2021-06-06T00:10:37.6534106+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-06T00:10:37.6537877+02:00:2021-06-06T00:10:37.6536818+02:00:Thread#0:B:Given Le client s'identifie
+2021-06-06T00:10:37.6540077+02:00:2021-06-06T00:10:37.6539034+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6542468+02:00:2021-06-06T00:10:37.6541252+02:00:Thread#0:B:  | identifiant | mdp   | prenom | nom  | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.6544588+02:00:2021-06-06T00:10:37.6543480+02:00:Thread#0:B:  | clark       | super | clark  | kent | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.6547994+02:00:2021-06-06T00:10:37.6546838+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLeClientSIdentifie(<table>) (0,0s)
+2021-06-06T00:10:37.6550523+02:00:2021-06-06T00:10:37.6549374+02:00:Thread#0:B:And les dates de la reservation
+2021-06-06T00:10:37.6552977+02:00:2021-06-06T00:10:37.6551672+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6555098+02:00:2021-06-06T00:10:37.6553994+02:00:Thread#0:B:  | datedebut    | datefin      |
+2021-06-06T00:10:37.6558215+02:00:2021-06-06T00:10:37.6556149+02:00:Thread#0:B:  | Jun 21, 2022 | Jun 22, 2022 |
+2021-06-06T00:10:37.6561766+02:00:2021-06-06T00:10:37.6560552+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLesDatesDeLaReservation(<table>) (0,0s)
+2021-06-06T00:10:37.6564629+02:00:2021-06-06T00:10:37.6563522+02:00:Thread#0:B:And la liste des vehicules disponibles est presentee au client
+2021-06-06T00:10:37.6566967+02:00:2021-06-06T00:10:37.6565702+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6569330+02:00:2021-06-06T00:10:37.6568326+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.6571597+02:00:2021-06-06T00:10:37.6570351+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.6574304+02:00:2021-06-06T00:10:37.6572933+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.6576695+02:00:2021-06-06T00:10:37.6575506+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.6579225+02:00:2021-06-06T00:10:37.6577898+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.6583646+02:00:2021-06-06T00:10:37.6582080+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLaListeDesVehiculesDisponiblesEstPresenteeAuClient(<table>) (0,0s)
+2021-06-06T00:10:37.6586885+02:00:2021-06-06T00:10:37.6585644+02:00:Thread#0:B:When le client selectionne un véhicule disponible
+2021-06-06T00:10:37.6588928+02:00:2021-06-06T00:10:37.6587940+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.6591211+02:00:2021-06-06T00:10:37.6590221+02:00:Thread#0:B:  | immatriculation | marque  | modele | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.6593290+02:00:2021-06-06T00:10:37.6592178+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911    | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | oui         |
+2021-06-06T00:10:37.6596264+02:00:2021-06-06T00:10:37.6595204+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLeClientSelectionneUnVehiculeDisponible(<table>) (0,0s)
+2021-06-06T00:10:37.6598998+02:00:2021-06-06T00:10:37.6597698+02:00:Thread#0:B:Then l'estimation de km est de 150
+2021-06-06T00:10:37.6601783+02:00:2021-06-06T00:10:37.6600735+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLEstimationDeKmEstDe(150) (0,0s)
+2021-06-06T00:10:37.6604457+02:00:2021-06-06T00:10:37.6603323+02:00:Thread#0:B:And Message informant le client : La reservation n'a pas pu être crée : vous devez avoir plus de 21 ans pour conduire le véhicule sélectionné. Il a une puissance fiscale de plus de 8 chevaux
+2021-06-06T00:10:37.6607392+02:00:2021-06-06T00:10:37.6606180+02:00:Thread#0:T:Age du client : 21
+2021-06-06T00:10:37.7093615+02:00:2021-06-06T00:10:37.7091152+02:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-06-06T00:10:37.7096543+02:00:2021-06-06T00:10:37.7095125+02:00:[AssemblyCache] Trying to resolve 'nspec' from .deps.json file
+2021-06-06T00:10:37.7098835+02:00:2021-06-06T00:10:37.7097629+02:00:[AssemblyCache] Could not resolve 'nspec' from .deps.json
+2021-06-06T00:10:37.7100935+02:00:2021-06-06T00:10:37.7099854+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:37.7103005+02:00:2021-06-06T00:10:37.7101831+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\nspec.dll'
+2021-06-06T00:10:37.7106337+02:00:2021-06-06T00:10:37.7105034+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\nspec.exe'
+2021-06-06T00:10:37.7109113+02:00:2021-06-06T00:10:37.7107867+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:37.7113547+02:00:2021-06-06T00:10:37.7112429+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-06T00:10:37.7118257+02:00:2021-06-06T00:10:37.7117084+02:00:Tfm: netcoreapp3.1
+2021-06-06T00:10:37.7120631+02:00:2021-06-06T00:10:37.7119436+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-06T00:10:37.7122807+02:00:2021-06-06T00:10:37.7121569+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\nspec.dll'
+2021-06-06T00:10:37.7125668+02:00:2021-06-06T00:10:37.7124469+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\nspec.exe'
+2021-06-06T00:10:37.7128325+02:00:2021-06-06T00:10:37.7127145+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-06T00:10:37.7181680+02:00:2021-06-06T00:10:37.7179315+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-06T00:10:37.7184114+02:00:2021-06-06T00:10:37.7183013+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\nspec.dll'
+2021-06-06T00:10:37.7187069+02:00:2021-06-06T00:10:37.7185809+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\nspec.exe'
+2021-06-06T00:10:37.7189959+02:00:2021-06-06T00:10:37.7188811+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-06T00:10:37.7193447+02:00:2021-06-06T00:10:37.7192335+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-06T00:10:37.7195559+02:00:2021-06-06T00:10:37.7194433+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\nspec.dll'
+2021-06-06T00:10:37.7198088+02:00:2021-06-06T00:10:37.7197007+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\nspec.exe'
+2021-06-06T00:10:37.7200524+02:00:2021-06-06T00:10:37.7199442+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-06T00:10:37.7203916+02:00:2021-06-06T00:10:37.7202819+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-06T00:10:37.7206004+02:00:2021-06-06T00:10:37.7204807+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\nspec.dll'
+2021-06-06T00:10:37.7208840+02:00:2021-06-06T00:10:37.7207632+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\nspec.exe'
+2021-06-06T00:10:37.7211280+02:00:2021-06-06T00:10:37.7210172+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-06T00:10:37.7285085+02:00:2021-06-06T00:10:37.7283309+02:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-06-06T00:10:37.7345213+02:00:2021-06-06T00:10:37.7342925+02:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-06-06T00:10:37.7407988+02:00:2021-06-06T00:10:37.7406074+02:00:Assembly resolving xunit.assert, Culture=neutral, PublicKeyToken=null
+2021-06-06T00:10:37.7410390+02:00:2021-06-06T00:10:37.7409260+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' from .deps.json file
+2021-06-06T00:10:37.7412694+02:00:2021-06-06T00:10:37.7411544+02:00:[AssemblyCache] Could not resolve 'xunit.assert' from .deps.json
+2021-06-06T00:10:37.7414663+02:00:2021-06-06T00:10:37.7413614+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:37.7416912+02:00:2021-06-06T00:10:37.7415694+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\xunit.assert.dll'
+2021-06-06T00:10:37.7419643+02:00:2021-06-06T00:10:37.7418530+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\xunit.assert.exe'
+2021-06-06T00:10:37.7422126+02:00:2021-06-06T00:10:37.7421039+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:37.7424043+02:00:2021-06-06T00:10:37.7423022+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-06T00:10:37.7426242+02:00:2021-06-06T00:10:37.7425231+02:00:Tfm: netcoreapp3.1
+2021-06-06T00:10:37.7428232+02:00:2021-06-06T00:10:37.7427120+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-06T00:10:37.7430150+02:00:2021-06-06T00:10:37.7429120+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\xunit.assert.dll'
+2021-06-06T00:10:37.7432778+02:00:2021-06-06T00:10:37.7431627+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\xunit.assert.exe'
+2021-06-06T00:10:37.7435349+02:00:2021-06-06T00:10:37.7434159+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-06T00:10:37.7441739+02:00:2021-06-06T00:10:37.7440630+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-06T00:10:37.7443888+02:00:2021-06-06T00:10:37.7442709+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\xunit.assert.dll'
+2021-06-06T00:10:37.7446396+02:00:2021-06-06T00:10:37.7445296+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\xunit.assert.exe'
+2021-06-06T00:10:37.7448745+02:00:2021-06-06T00:10:37.7447734+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-06T00:10:37.7499959+02:00:2021-06-06T00:10:37.7450804+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-06T00:10:37.7503708+02:00:2021-06-06T00:10:37.7502240+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\xunit.assert.dll'
+2021-06-06T00:10:37.7506780+02:00:2021-06-06T00:10:37.7505557+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\xunit.assert.exe'
+2021-06-06T00:10:37.7509676+02:00:2021-06-06T00:10:37.7508537+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-06T00:10:37.7513505+02:00:2021-06-06T00:10:37.7512452+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-06T00:10:37.7515631+02:00:2021-06-06T00:10:37.7514407+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\xunit.assert.dll'
+2021-06-06T00:10:37.7517976+02:00:2021-06-06T00:10:37.7516928+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\xunit.assert.exe'
+2021-06-06T00:10:37.7520485+02:00:2021-06-06T00:10:37.7519443+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-06T00:10:37.7613857+02:00:2021-06-06T00:10:37.7611508+02:00:Thread#0:T:error: Expected m to be 
+2021-06-06T00:10:37.7616767+02:00:2021-06-06T00:10:37.7615280+02:00:Thread#0:T:"La reservation n'a pas pu être crée : vous devez avoir plus de 21 ans pour conduire le véhicule sélectionné. Il a une puissance fiscale de plus de 8 chevaux" with a length of 156, but 
+2021-06-06T00:10:37.7619662+02:00:2021-06-06T00:10:37.7618253+02:00:Thread#0:T:"La reservation a été crée" has a length of 25, differs near "a é" (index 15). (0,1s)
+2021-06-06T00:10:37.7642657+02:00:Thread#0:TestItem#12:Scheduler: reschedule tests for testitem #12
+2021-06-06T00:10:37.7646491+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-06T00:10:37.7646720+02:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #12
+2021-06-06T00:10:37.7646745+02:00:Thread#0:Scheduler: considering testitem #12 for thread 0
+2021-06-06T00:10:37.7646925+02:00:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-06T00:10:37.7646948+02:00:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2021-06-06T00:10:37.7646962+02:00:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2021-06-06T00:10:37.7646975+02:00:Thread#0:Scheduler: using testitem #12 for thread 0
+2021-06-06T00:10:37.7647056+02:00:Thread#0:Scheduler: Test #12 is scheduled for thread
+2021-06-06T00:10:37.7647108+02:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-06-06T00:10:37.7700246+02:00:Thread#0: Test #12/0 is finished on thread #0 as Failed within 0,1222971 seconds
+2021-06-06T00:10:37.7703526+02:00:Thread#0: Test #12/1 is started on thread #0
+2021-06-06T00:10:37.7708884+02:00:2021-06-06T00:10:37.7706903+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-06T00:10:37.7711804+02:00:2021-06-06T00:10:37.7710219+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.7715433+02:00:2021-06-06T00:10:37.7713465+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.7718517+02:00:2021-06-06T00:10:37.7717018+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-06T00:10:37.7721223+02:00:2021-06-06T00:10:37.7719674+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-06T00:10:37.7723668+02:00:2021-06-06T00:10:37.7722496+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.7727829+02:00:2021-06-06T00:10:37.7726675+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-06T00:10:37.7730583+02:00:2021-06-06T00:10:37.7729529+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-06T00:10:37.7732965+02:00:2021-06-06T00:10:37.7731651+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.7735461+02:00:2021-06-06T00:10:37.7734091+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.7737737+02:00:2021-06-06T00:10:37.7736600+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.7739845+02:00:2021-06-06T00:10:37.7738838+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.7742092+02:00:2021-06-06T00:10:37.7741104+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.7744238+02:00:2021-06-06T00:10:37.7743298+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.7746254+02:00:2021-06-06T00:10:37.7745306+02:00:Thread#0:B:  | ee-112-ee       | porsche | careara | rouge   | 100.00          | 2      | 15             | Jun 10, 2022 | Jun 11, 2022 | non         |
+2021-06-06T00:10:37.7749749+02:00:2021-06-06T00:10:37.7748722+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-06T00:10:37.7752358+02:00:2021-06-06T00:10:37.7751357+02:00:Thread#0:B:Given Le client s'identifie
+2021-06-06T00:10:37.7754626+02:00:2021-06-06T00:10:37.7753376+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.7756931+02:00:2021-06-06T00:10:37.7755838+02:00:Thread#0:B:  | identifiant | mdp   | prenom | nom  | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.7758963+02:00:2021-06-06T00:10:37.7757977+02:00:Thread#0:B:  | clark       | super | clark  | kent | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.7762356+02:00:2021-06-06T00:10:37.7761278+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLeClientSIdentifie(<table>) (0,0s)
+2021-06-06T00:10:37.7765026+02:00:2021-06-06T00:10:37.7763957+02:00:Thread#0:B:And les dates de la reservation
+2021-06-06T00:10:37.7768036+02:00:2021-06-06T00:10:37.7766210+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.7771462+02:00:2021-06-06T00:10:37.7769399+02:00:Thread#0:B:  | datedebut    | datefin      |
+2021-06-06T00:10:37.7774167+02:00:2021-06-06T00:10:37.7772574+02:00:Thread#0:B:  | Jun 21, 2022 | Jun 22, 2022 |
+2021-06-06T00:10:37.7778100+02:00:2021-06-06T00:10:37.7776784+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLesDatesDeLaReservation(<table>) (0,0s)
+2021-06-06T00:10:37.7780852+02:00:2021-06-06T00:10:37.7779726+02:00:Thread#0:B:And la liste des vehicules disponibles est presentee au client
+2021-06-06T00:10:37.7782963+02:00:2021-06-06T00:10:37.7781868+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.7785341+02:00:2021-06-06T00:10:37.7784092+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.7787454+02:00:2021-06-06T00:10:37.7786451+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.7789446+02:00:2021-06-06T00:10:37.7788450+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.7791620+02:00:2021-06-06T00:10:37.7790520+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.7793764+02:00:2021-06-06T00:10:37.7792657+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.7797406+02:00:2021-06-06T00:10:37.7796352+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLaListeDesVehiculesDisponiblesEstPresenteeAuClient(<table>) (0,0s)
+2021-06-06T00:10:37.7799999+02:00:2021-06-06T00:10:37.7798935+02:00:Thread#0:B:When le client selectionne un véhicule disponible
+2021-06-06T00:10:37.7802331+02:00:2021-06-06T00:10:37.7801042+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.7804931+02:00:2021-06-06T00:10:37.7803690+02:00:Thread#0:B:  | immatriculation | marque  | modele | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.7807391+02:00:2021-06-06T00:10:37.7806192+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911    | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | oui         |
+2021-06-06T00:10:37.7815299+02:00:2021-06-06T00:10:37.7813048+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLeClientSelectionneUnVehiculeDisponible(<table>) (0,0s)
+2021-06-06T00:10:37.7818345+02:00:2021-06-06T00:10:37.7816980+02:00:Thread#0:B:Then l'estimation de km est de 150
+2021-06-06T00:10:37.7821698+02:00:2021-06-06T00:10:37.7820569+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLEstimationDeKmEstDe(150) (0,0s)
+2021-06-06T00:10:37.7824817+02:00:2021-06-06T00:10:37.7823189+02:00:Thread#0:B:And Message informant le client : La reservation n'a pas pu être crée : vous devez avoir plus de 21 ans pour conduire le véhicule sélectionné. Il a une puissance fiscale de plus de 8 chevaux
+2021-06-06T00:10:37.7828494+02:00:2021-06-06T00:10:37.7827194+02:00:Thread#0:T:Age du client : 21
+2021-06-06T00:10:37.7843471+02:00:2021-06-06T00:10:37.7841883+02:00:Thread#0:T:error: Expected m to be 
+2021-06-06T00:10:37.7845938+02:00:2021-06-06T00:10:37.7844663+02:00:Thread#0:T:"La reservation n'a pas pu être crée : vous devez avoir plus de 21 ans pour conduire le véhicule sélectionné. Il a une puissance fiscale de plus de 8 chevaux" with a length of 156, but 
+2021-06-06T00:10:37.7847995+02:00:2021-06-06T00:10:37.7846933+02:00:Thread#0:T:"La reservation a été crée" has a length of 25, differs near "a é" (index 15). (0,0s)
+2021-06-06T00:10:37.7860439+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-06T00:10:37.7860559+02:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #12
+2021-06-06T00:10:37.7860582+02:00:Thread#0:Scheduler: considering testitem #12 for thread 0
+2021-06-06T00:10:37.7860737+02:00:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-06T00:10:37.7860759+02:00:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2021-06-06T00:10:37.7860774+02:00:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2021-06-06T00:10:37.7860789+02:00:Thread#0:Scheduler: using testitem #12 for thread 0
+2021-06-06T00:10:37.7860869+02:00:Thread#0:Scheduler: Test #12 is scheduled for thread
+2021-06-06T00:10:37.7860928+02:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-06-06T00:10:37.7877424+02:00:Thread#0: Test #12/1 is finished on thread #0 as Failed within 0,0173693 seconds
+2021-06-06T00:10:37.7881198+02:00:Thread#0: Test #12/2 is started on thread #0
+2021-06-06T00:10:37.7887032+02:00:2021-06-06T00:10:37.7885397+02:00:Thread#0:B:Given suivant les clients existants
+2021-06-06T00:10:37.7889629+02:00:2021-06-06T00:10:37.7888307+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.7893570+02:00:2021-06-06T00:10:37.7891156+02:00:Thread#0:B:  | identifiant | mdp   | prenom   | nom    | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.7896841+02:00:2021-06-06T00:10:37.7894998+02:00:Thread#0:B:  | isa         | toto  | isabelle | smith  | Jun 15, 1994    | Jun 15, 2015        | 12A456789101112 |
+2021-06-06T00:10:37.7899549+02:00:2021-06-06T00:10:37.7898011+02:00:Thread#0:B:  | denis       | xop   | denis    | crysen | Jun 15, 2004    | Jun 15, 2022        | 12A456789101113 |
+2021-06-06T00:10:37.7902010+02:00:2021-06-06T00:10:37.7900623+02:00:Thread#0:B:  | clark       | super | clark    | kent   | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.7906348+02:00:2021-06-06T00:10:37.7905204+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingClients(<table>) (0,0s)
+2021-06-06T00:10:37.7909100+02:00:2021-06-06T00:10:37.7907937+02:00:Thread#0:B:And suivant les vehicules existants
+2021-06-06T00:10:37.7911368+02:00:2021-06-06T00:10:37.7910338+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.7913701+02:00:2021-06-06T00:10:37.7912537+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.7916974+02:00:2021-06-06T00:10:37.7914863+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.7920137+02:00:2021-06-06T00:10:37.7918615+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.7922917+02:00:2021-06-06T00:10:37.7921471+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.7925803+02:00:2021-06-06T00:10:37.7924111+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.7928437+02:00:2021-06-06T00:10:37.7926915+02:00:Thread#0:B:  | ee-112-ee       | porsche | careara | rouge   | 100.00          | 2      | 15             | Jun 10, 2022 | Jun 11, 2022 | non         |
+2021-06-06T00:10:37.7932249+02:00:2021-06-06T00:10:37.7931200+02:00:Thread#0:T:done: LocationStepDefinitions.GivenFollowingExistingVehicules(<table>) (0,0s)
+2021-06-06T00:10:37.7935474+02:00:2021-06-06T00:10:37.7934254+02:00:Thread#0:B:Given Le client s'identifie
+2021-06-06T00:10:37.7937549+02:00:2021-06-06T00:10:37.7936512+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.7940755+02:00:2021-06-06T00:10:37.7939224+02:00:Thread#0:B:  | identifiant | mdp   | prenom | nom  | DateDeNaissance | DateObtentionPermis | NumeroPermis    |
+2021-06-06T00:10:37.7943466+02:00:2021-06-06T00:10:37.7941972+02:00:Thread#0:B:  | clark       | super | clark  | kent | Jun 15, 1999    | Jun 15, 2015        | 12A456789101114 |
+2021-06-06T00:10:37.7952474+02:00:2021-06-06T00:10:37.7946998+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLeClientSIdentifie(<table>) (0,0s)
+2021-06-06T00:10:37.7956037+02:00:2021-06-06T00:10:37.7954562+02:00:Thread#0:B:And les dates de la reservation
+2021-06-06T00:10:37.7959238+02:00:2021-06-06T00:10:37.7957757+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.7962071+02:00:2021-06-06T00:10:37.7960660+02:00:Thread#0:B:  | datedebut    | datefin      |
+2021-06-06T00:10:37.7964571+02:00:2021-06-06T00:10:37.7963187+02:00:Thread#0:B:  | Jun 21, 2022 | Jun 22, 2022 |
+2021-06-06T00:10:37.7969602+02:00:2021-06-06T00:10:37.7967734+02:00:Thread#0:T:done: LocationStepDefinitions.GivenLesDatesDeLaReservation(<table>) (0,0s)
+2021-06-06T00:10:37.7972931+02:00:2021-06-06T00:10:37.7971414+02:00:Thread#0:B:And la liste des vehicules disponibles est presentee au client
+2021-06-06T00:10:37.7975913+02:00:2021-06-06T00:10:37.7974387+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.7978207+02:00:2021-06-06T00:10:37.7976981+02:00:Thread#0:B:  | immatriculation | marque  | modele  | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.7980289+02:00:2021-06-06T00:10:37.7979185+02:00:Thread#0:B:  | aa-123-aa       | renault | clio 4  | gris    | 30.00           | 0.30   | 5              | Jun 5, 2022  | Jun 6, 2022  | non         |
+2021-06-06T00:10:37.7982245+02:00:2021-06-06T00:10:37.7981296+02:00:Thread#0:B:  | bb-456-bb       | audi    | a3      | noir    | 50.00           | 0.70   | 7              | Jun 10, 2022 | Jun 12, 2022 | non         |
+2021-06-06T00:10:37.7984378+02:00:2021-06-06T00:10:37.7983213+02:00:Thread#0:B:  | cc-789-cc       | dacia   | sandero | bleu    | 20.00           | 0.30   | 5              | Jun 17, 2022 | Jun 20, 2022 | non         |
+2021-06-06T00:10:37.7986311+02:00:2021-06-06T00:10:37.7985347+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911     | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | non         |
+2021-06-06T00:10:37.7989542+02:00:2021-06-06T00:10:37.7988506+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLaListeDesVehiculesDisponiblesEstPresenteeAuClient(<table>) (0,0s)
+2021-06-06T00:10:37.7991889+02:00:2021-06-06T00:10:37.7990863+02:00:Thread#0:B:When le client selectionne un véhicule disponible
+2021-06-06T00:10:37.7993679+02:00:2021-06-06T00:10:37.7992725+02:00:Thread#0:B:  --- table step argument ---
+2021-06-06T00:10:37.7995530+02:00:2021-06-06T00:10:37.7994557+02:00:Thread#0:B:  | immatriculation | marque  | modele | couleur | PrixReservation | PrixKm | ChevauxFiscaux | dateDebut    | dateFin      | Selectionne |
+2021-06-06T00:10:37.7997371+02:00:2021-06-06T00:10:37.7996385+02:00:Thread#0:B:  | dd-101-dd       | porsche | 911    | rouge   | 75.00           | 1      | 10             | Jun 12, 2022 | Jun 16, 2022 | oui         |
+2021-06-06T00:10:37.7999971+02:00:2021-06-06T00:10:37.7998956+02:00:Thread#0:T:done: LocationStepDefinitions.WhenLeClientSelectionneUnVehiculeDisponible(<table>) (0,0s)
+2021-06-06T00:10:37.8001990+02:00:2021-06-06T00:10:37.8001064+02:00:Thread#0:B:Then l'estimation de km est de 150
+2021-06-06T00:10:37.8004778+02:00:2021-06-06T00:10:37.8003704+02:00:Thread#0:T:done: LocationStepDefinitions.ThenLEstimationDeKmEstDe(150) (0,0s)
+2021-06-06T00:10:37.8006793+02:00:2021-06-06T00:10:37.8005816+02:00:Thread#0:B:And Message informant le client : La reservation n'a pas pu être crée : vous devez avoir plus de 21 ans pour conduire le véhicule sélectionné. Il a une puissance fiscale de plus de 8 chevaux
+2021-06-06T00:10:37.8009134+02:00:2021-06-06T00:10:37.8008134+02:00:Thread#0:T:Age du client : 21
+2021-06-06T00:10:37.8020379+02:00:2021-06-06T00:10:37.8018907+02:00:Thread#0:T:error: Expected m to be 
+2021-06-06T00:10:37.8022474+02:00:2021-06-06T00:10:37.8021390+02:00:Thread#0:T:"La reservation n'a pas pu être crée : vous devez avoir plus de 21 ans pour conduire le véhicule sélectionné. Il a une puissance fiscale de plus de 8 chevaux" with a length of 156, but 
+2021-06-06T00:10:37.8024513+02:00:2021-06-06T00:10:37.8023398+02:00:Thread#0:T:"La reservation a été crée" has a length of 25, differs near "a é" (index 15). (0,0s)
+2021-06-06T00:10:37.8031439+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-06T00:10:37.8031545+02:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-06T00:10:37.8031565+02:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-06-06T00:10:37.8031585+02:00:Thread#0:Scheduler: No more tests for thread
+2021-06-06T00:10:37.8058940+02:00:Thread#0: Test #12/2 is finished on thread #0 as Failed within 0,0177527 seconds
+2021-06-06T00:10:37.8108682+02:00:2021-06-06T00:10:37.8107282+02:00:Got Deinitialize Signal
+2021-06-06T00:10:37.8134340+02:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-06-06T00:10:37.8139277+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-06-06T00:10:37.8147740+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-06-06T00:10:37.8163108+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=fr-FR, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-06T00:10:37.8163259+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-06-06T00:10:37.8163295+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-06-06T00:10:37.8163337+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:37.8163360+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-06-06T00:10:37.8163854+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-06-06T00:10:37.8164217+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1'
+2021-06-06T00:10:37.8164280+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-06T00:10:37.8164631+02:00:Tfm: netcoreapp3.1
+2021-06-06T00:10:37.8164654+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-06T00:10:37.8164672+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-06-06T00:10:37.8165067+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-06-06T00:10:37.8165422+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\isa\source\repos\Location\SpecFlowLocation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-06T00:10:37.8170969+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-06T00:10:37.8171034+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\System.Diagnostics.Process.resources.dll'
+2021-06-06T00:10:37.8171502+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\System.Diagnostics.Process.resources.exe'
+2021-06-06T00:10:37.8171840+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-06T00:10:37.8172871+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-06T00:10:37.8172925+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\System.Diagnostics.Process.resources.dll'
+2021-06-06T00:10:37.8173279+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\System.Diagnostics.Process.resources.exe'
+2021-06-06T00:10:37.8173624+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-06T00:10:37.8174724+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-06T00:10:37.8174756+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\System.Diagnostics.Process.resources.dll'
+2021-06-06T00:10:37.8175119+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\System.Diagnostics.Process.resources.exe'
+2021-06-06T00:10:37.8175436+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-06T00:10:37.8177790+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-06T00:10:37.8226195+02:00:Thread#-1:Scheduler: get next test for thread -1
+2021-06-06T00:10:37.8226323+02:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-06T00:10:37.8226343+02:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-06-06T00:10:37.8268972+02:00;Thread#12;Info;test run finished
+2021-06-06T00:10:37.8270790+02:00;Thread#12;Info;publishing test results
+2021-06-06T00:10:37.8272439+02:00;Thread#12;Info;Not publishing results.
+2021-06-06T00:10:37.8273150+02:00;Thread#12;Info;test results published
+2021-06-06T00:10:37.8273642+02:00;Thread#12;Info;generating reports
+2021-06-06T00:10:37.8934377+02:00;Thread#12;Info;Starting external report generation process
+2021-06-06T00:10:38.8227495+02:00;Thread#12;Info;Successfully generated reports.
+2021-06-06T00:10:38.8249182+02:00;Thread#12;Info;Successfully generated reports
+2021-06-06T00:10:38.8302446+02:00:Total: 9 (test executions: 11)
+2021-06-06T00:10:38.8315063+02:00:Succeeded: 8
+2021-06-06T00:10:38.8317361+02:00:Ignored: 0
+2021-06-06T00:10:38.8319321+02:00:Pending: 0
+2021-06-06T00:10:38.8319382+02:00:Skipped: 0
+2021-06-06T00:10:38.8321243+02:00:Failed: 1
+2021-06-06T00:10:38.8363058+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-06-06T00:10:38.8363857+02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\isa\source\repos\Location\TestResults\Unnamed project__2021-06-06T001035.html'
+========== End of log file ==========
